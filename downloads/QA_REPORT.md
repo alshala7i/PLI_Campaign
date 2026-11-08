@@ -1,6 +1,6 @@
 # QA report — PLI “Grow Where You Teach” kit
 
-Generated 2026-11-08T07:18Z with مصنع المحتوى (Content Factory).
+Generated 2026-11-08T07:37Z with مصنع المحتوى (Content Factory).
 
 ## Copy checks
 
@@ -25,28 +25,28 @@ Generated 2026-11-08T07:18Z with مصنع المحتوى (Content Factory).
 | V02 | sarah | ✅ | 35.3s | -16.5 | -1.5 |
 | V03 | eric | ✅ | 32.7s | -16.8 | -1.5 |
 | V03 | sarah | ✅ | 33.5s | -16.8 | -1.4 |
-| V04 | eric | ❌ missing | s |  |  |
-| V04 | sarah | ❌ missing | s |  |  |
-| V05 | eric | ❌ missing | s |  |  |
-| V05 | sarah | ❌ missing | s |  |  |
-| V06 | eric | ❌ missing | s |  |  |
-| V06 | sarah | ❌ missing | s |  |  |
-| V07 | eric | ❌ missing | s |  |  |
-| V07 | sarah | ❌ missing | s |  |  |
-| V08 | eric | ❌ missing | s |  |  |
-| V08 | sarah | ❌ missing | s |  |  |
-| V09 | eric | ❌ missing | s |  |  |
-| V09 | sarah | ❌ missing | s |  |  |
-| V10 | eric | ❌ missing | s |  |  |
-| V10 | sarah | ❌ missing | s |  |  |
-| V11 | eric | ❌ missing | s |  |  |
-| V11 | sarah | ❌ missing | s |  |  |
-| V12 | eric | ❌ missing | s |  |  |
-| V12 | sarah | ❌ missing | s |  |  |
-| V13 | eric | ❌ missing | s |  |  |
-| V13 | sarah | ❌ missing | s |  |  |
-| V14 | eric | ❌ missing | s |  |  |
-| V14 | sarah | ❌ missing | s |  |  |
+| V04 | eric | ✅ | 28.7s | -16.7 | -1.5 |
+| V04 | sarah | ✅ | 28.8s | -16.5 | -1.5 |
+| V05 | eric | ✅ | 26.0s | -16.3 | -1.5 |
+| V05 | sarah | ✅ | 26.4s | -16.2 | -1.5 |
+| V06 | eric | ✅ | 22.8s | -16.8 | -1.4 |
+| V06 | sarah | ✅ | 23.7s | -16.7 | -1.5 |
+| V07 | eric | ✅ | 23.4s | -16.4 | -1.5 |
+| V07 | sarah | ✅ | 24.3s | -16.4 | -1.4 |
+| V08 | eric | ✅ | 26.8s | -16.5 | -1.5 |
+| V08 | sarah | ✅ | 28.4s | -16.6 | -1.5 |
+| V09 | eric | ✅ | 26.7s | -16.8 | -1.5 |
+| V09 | sarah | ✅ | 27.9s | -16.9 | -1.4 |
+| V10 | eric | ✅ | 20.7s | -16.7 | -1.5 |
+| V10 | sarah | ✅ | 21.2s | -16.6 | -1.5 |
+| V11 | eric | ✅ | 19.3s | -16.6 | -1.5 |
+| V11 | sarah | ✅ | 20.2s | -16.4 | -1.5 |
+| V12 | eric | ✅ | 21.3s | -16.7 | -1.4 |
+| V12 | sarah | ✅ | 22.6s | -16.4 | -1.5 |
+| V13 | eric | ✅ | 22.9s | -17.0 | -1.5 |
+| V13 | sarah | ✅ | 24.0s | -16.8 | -1.5 |
+| V14 | eric | ✅ | 25.7s | -16.7 | -1.4 |
+| V14 | sarah | ✅ | 26.5s | -16.4 | -1.5 |
 | V01b | eric | ✅ | 30.9s | -16.6 | -1.5 |
 | V01b | sarah | ✅ | 31.5s | -16.5 | -1.5 |
 | V03b | eric | ✅ | 32.7s | -16.8 | -1.5 |
@@ -55,12 +55,13 @@ Generated 2026-11-08T07:18Z with مصنع المحتوى (Content Factory).
 - Captions: burned in from ElevenLabs word timestamps (scene changes anchored to the spoken words); `.srt` beside every video.
 - Music: an original bed synthesised for this kit (tools/music_bed.py) — no third-party samples, no licence needed.
 - Voices: ElevenLabs (eleven_v4_turbo) · Eric (male) and Sarah (female), chosen by the owner from 6 samples.
+- Duration: the voices speak at their natural pace (≈180 words a minute, as approved in the samples), so V05–V14 run 19–28 s — shorter than the plan’s 25–40 s targets (V01–V04 are on target). For the plan’s 150 wpm, set `speed: 0.85` in src/tts.js and run `npm run videos`.
 
 ## Calendar
 
 - Rows: 177 (LinkedIn page 53 · Salwa personal 6 · Instagram 59 · Facebook 59)
 - Week-start Sundays: 2026-11-15 … 2027-03-28 (20 weeks) ✅
-- Rows whose file is missing: 2026-12-06 Facebook V08, 2026-12-06 Instagram V08, 2026-12-13 Facebook V10, 2026-12-13 Instagram V10, 2026-12-13 LinkedIn (PLI page) V10, 2026-12-27 Facebook V04, 2026-12-27 Instagram V04, 2026-12-29 LinkedIn (PLI page) V04, 2027-01-07 Facebook V11, 2027-01-07 Instagram V11, 2027-01-12 Facebook V14, 2027-01-12 Instagram V14, 2027-01-12 LinkedIn (PLI page) V11, 2027-01-13 LinkedIn (PLI page) V14, 2027-01-17 Facebook V06, 2027-01-17 Instagram V06, 2027-01-19 LinkedIn (PLI page) V06, 2027-01-31 Facebook V07, 2027-01-31 Instagram V07, 2027-01-31 LinkedIn (PLI page) V07, 2027-02-04 Facebook V05, 2027-02-04 Instagram V05, 2027-02-10 LinkedIn (PLI page) V09, 2027-02-11 Facebook V12, 2027-02-11 Instagram V12, 2027-02-17 LinkedIn (PLI page) V08, 2027-02-18 Facebook V09, 2027-02-18 Instagram V09, 2027-02-21 LinkedIn (PLI page) V12, 2027-02-28 LinkedIn (PLI page) V05, 2027-03-16 Facebook V13, 2027-03-16 Instagram V13, 2027-03-16 LinkedIn (PLI page) V13
+- Rows whose file is missing: ✅ none
 - Rows without caption: ✅ none
 - Images without alt text: ✅ none
 
