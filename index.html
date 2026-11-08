@@ -124,7 +124,6 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
       <div><label for="f-mar">March deadline (as written)</label><input id="f-mar" placeholder="Sunday 21 March"></div>
     </div>
     <div class="row2">
-      <div><label>Video voice</label><div class="vtog" id="g-voice"><button data-v="eric" class="on">Eric · male</button><button data-v="sarah">Sarah · female</button></div></div>
       <div><label>Instagram bio</label><pre class="cap" style="margin:4px 0" id="bio"></pre><button class="btn sm" data-copy-el="bio">Copy bio</button></div>
     </div>
     <div class="warn" id="ph-warn"></div>
@@ -161,7 +160,6 @@ $('#bio').textContent=D.bio; document.querySelectorAll('[data-copy-el]').forEach
 function warn(){const open=Object.entries(D.placeholders).filter(([k,v])=>!v.confirmed).length;$('#ph-warn').innerHTML=(store.get('link')?'':'<b>Add your form link above</b> — captions use {{APPLY_LINK}} until you do. ')+open+' items in the plan still need PLI confirmation (deadlines, recognition wording, referral terms…). See <a href="downloads/PLACEHOLDERS_OPEN.md">PLACEHOLDERS_OPEN.md</a>.'}
 warn();
 function setVoice(v){VOICE=v;store.set('voice',v);document.querySelectorAll('.vtog [data-v]').forEach(b=>b.classList.toggle('on',b.dataset.v===v));document.querySelectorAll('[data-vid]').forEach(el=>renderVid(el))}
-document.querySelectorAll('#g-voice [data-v]').forEach(b=>b.onclick=()=>setVoice(b.dataset.v));
 // videos
 function renderVid(el){const a=byId(el.dataset.vid);const f=a.files[VOICE];el.innerHTML='';el.append(h('video',{controls:'',preload:'none',playsinline:'',poster:(a.posters||{})[VOICE]||'',src:f.reel}),h('div',{class:'dl'},dlb(f.reel,'Reel 9:16'),dlb(f.feed,'Feed 4:5'),dlb(f.srt,'SRT'),dlb(f.vo,'Voice MP3'),dlb(f.cover,'Cover')))}
 D.assets.filter(a=>a.kind==='video').forEach(a=>{const v=h('div',{'data-vid':a.id});const tog=h('div',{class:'vtog'},...['eric','sarah'].map(x=>h('button',{'data-v':x,class:x===VOICE?'on':'',onclick:()=>setVoice(x)},x==='eric'?'Eric · male':'Sarah · female')));
