@@ -1,0 +1,22 @@
+{
+  "JAN_DEADLINE": {"what": "January cohort application deadline", "proposed": "Sun 20 Dec 2026", "visual": "SUN 20 DEC", "copy": "Sunday 20 December", "confirmed": false},
+  "JAN_DEADLINE_SPOKEN": {"what": "Deadline as spoken in V10", "proposed": "Sunday, December twentieth", "copy": "Sunday, December twentieth", "confirmed": false},
+  "JAN_START": {"what": "January cohort first class", "proposed": "Week of 3 Jan 2027", "visual": "WEEK OF 3 JAN", "copy": "the week of 3 January", "confirmed": false},
+  "MAR_DEADLINE": {"what": "March cohort application deadline", "proposed": "Sun 21 Mar 2027", "visual": "SUN 21 MAR", "copy": "Sunday 21 March", "confirmed": false},
+  "MAR_DEADLINE_SPOKEN": {"what": "Deadline as spoken in V13", "proposed": "Sunday, March twenty-first", "copy": "Sunday, March twenty-first", "confirmed": false},
+  "MAR_START": {"what": "March cohort first class", "proposed": "Week of 28 Mar 2027", "visual": "WEEK OF 28 MAR", "copy": "the week of 28 March", "confirmed": false},
+  "APPLY_LINK": {"what": "Enquiry / application form URL (create in Week 0)", "proposed": "New Microsoft/Google form", "visual": "Link in bio", "copy": "{{APPLY_LINK}}", "confirmed": false},
+  "WHATSAPP": {"what": "PLI WhatsApp Business number (optional)", "proposed": "", "confirmed": false},
+  "EDD_EXTERNAL_PRICE": {"what": "Ed.D price for non-ACA applicants", "proposed": "", "confirmed": false},
+  "APPLICATION_STEPS": {"what": "Real application steps and document checklist", "proposed": "See C09 draft", "visual": "Checklist sent after your call", "copy": "We'll send you the checklist.", "confirmed": false},
+  "LIVE_1": {"what": "Live Q&A #1", "proposed": "Wed 9 Dec 2026 · 7:30 pm", "confirmed": false},
+  "LIVE_2": {"what": "Live Q&A #2", "proposed": "Wed 27 Jan 2027 · 7:30 pm", "confirmed": false},
+  "LIVE_3": {"what": "Live Q&A #3 (Ramadan)", "proposed": "Wed 17 Feb 2027 · 9:30 pm", "confirmed": false},
+  "LIVE_HOST": {"what": "Live Q&A host", "proposed": "Salwa Sleiman, PLI Coordinator", "visual": "Salwa Sleiman", "copy": "Salwa Sleiman", "confirmed": false},
+  "GRAD_1..5": {"what": "5 graduate spotlights: name, role, track, cohort, quote, photo, written consent (3 ACA + 2 external)", "proposed": "Collect in Week 0", "confirmed": false},
+  "SLS_DATES": {"what": "Saturday Learning Series spring dates and speakers", "proposed": "", "confirmed": false},
+  "GUIDE_LINK": {"what": "Programme guide PDF link (lead-form thank-you screen)", "proposed": "Upload guide.pdf from this kit", "confirmed": false},
+  "RECOGNITION_WORDING": {"what": "Kuwait recognition wording (V09, C07, guide) — PLI/HR approval", "proposed": "Recognized by Kuwait's Ministry of Education as part of work-permit approval.", "confirmed": false},
+  "REFERRAL_TERMS": {"what": "Referral terms in writing", "proposed": "Refer 2 → final payment waived · Refer 4 → last 2 payments waived", "confirmed": false},
+  "CLASS_PATTERN": {"what": "Real class pattern (V05 'one class night')", "proposed": "One class night a week", "confirmed": false}
+}

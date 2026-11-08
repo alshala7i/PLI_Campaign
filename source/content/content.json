@@ -1,0 +1,1434 @@
+{
+ "videos": [
+  {
+   "id": "V01",
+   "title": "Your colleagues already did it",
+   "meta": "P1 · 30–35 s · Jan cohort; `V01b` = March end card",
+   "objective": "awareness among ACA staff; campaign anchor.",
+   "vo": "Look around your staff room.\nMore than six in ten of our past master's students were ACA educators. Teaching full days, and earning a Saint Mary's University of Minnesota degree at the same time.\nSame campus. Same schedule. Same busy weeks.\nThe Master of Arts in Education: thirty credits, ten courses, eighteen months, built in Kuwait for working teachers.\nYour colleagues already did it. Your turn.\nApplications for the January cohort are open.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "LOOK AROUND YOUR STAFF ROOM.",
+     "visual": "Cream background; words stamp in one by one (Anton, indigo)"
+    },
+    {
+     "n": 2,
+     "time": "3–9 s",
+     "text": "MORE THAN **6 IN 10** · of our past master's students were ACA educators",
+     "visual": "10 dots appear; 6 fill periwinkle → indigo; number counts to 62% small below"
+    },
+    {
+     "n": 3,
+     "time": "9–14 s",
+     "text": "Teaching full days. Earning a US degree.",
+     "visual": "Real graduation photo in arch cut-out, slow zoom; SMU red accent line"
+    },
+    {
+     "n": 4,
+     "time": "14–19 s",
+     "text": "SAME CAMPUS · SAME SCHEDULE · SAME BUSY WEEKS",
+     "visual": "Three periwinkle bars slide in from left"
+    },
+    {
+     "n": 5,
+     "time": "19–26 s",
+     "text": "30 CREDITS · 10 COURSES · 18 MONTHS",
+     "visual": "Three numbers count up on indigo background"
+    },
+    {
+     "n": 6,
+     "time": "26–30 s",
+     "text": "YOUR COLLEAGUES ALREADY DID IT. YOUR TURN.",
+     "visual": "Headline stack; \"YOUR TURN.\" pops in periwinkle"
+    },
+    {
+     "n": 7,
+     "time": "30–34 s",
+     "text": "January cohort · Applications open · {{APPLY_LINK}} · pli@aca.edu.kw",
+     "visual": "End card with logo lock-up"
+    }
+   ],
+   "caption_ig": "Look around your staff room 👀\nMore than 6 in 10 of our past MAED students were ACA educators — teaching full days and earning a Saint Mary's University of Minnesota degree at the same time.\n\n📚 30 credits · 10 courses · 18 months\n🏫 In person, in Kuwait\n💳 Pay monthly\n\nYour colleagues already did it. Your turn.\nJanuary cohort applications are open — link in bio or email pli@aca.edu.kw\n\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #SaintMarysUniversity #ACAKuwait #MastersInEducation #EducatorsInKuwait #TeacherPD",
+   "caption_li": "More than 6 in 10 of our past MAED students were ACA educators.\n\nThey taught full days and earned a Saint Mary's University of Minnesota Master of Arts in Education at the same time — in person, in Kuwait, over 18 months.\n\nIf you've been saying \"one day\", this is a programme your own colleagues have already proven works around a teaching schedule.\n\nJanuary 2027 cohort: applications open → {{APPLY_LINK}}\n\n#MAEd #ProfessionalDevelopment #TeachersOfKuwait",
+   "pillar": "P1"
+  },
+  {
+   "id": "V02",
+   "title": "The MAED in 45 seconds",
+   "meta": "P2 · 40–45 s",
+   "vo": "Want a master's without pausing your career?\nHere's the Saint Mary's University of Minnesota Master of Arts in Education, delivered in Kuwait.\nChoose your track: Curriculum and Instruction, or Educational Leadership.\nThirty credits. Ten courses. Eighteen months.\nClasses meet in person every week, designed for working educators.\nYou pay monthly, not in one lump sum.\nAnd it's a US degree, from a university accredited by the Higher Learning Commission.\nKeep teaching. Keep growing.\nThe next cohort starts in January.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "A MASTER'S WITHOUT PAUSING YOUR CAREER?",
+     "visual": "Indigo bg, text slams in"
+    },
+    {
+     "n": 2,
+     "time": "3–8 s",
+     "text": "Saint Mary's University of Minnesota · Master of Arts in Education · delivered in Kuwait",
+     "visual": "SMU logo fades in; cream card"
+    },
+    {
+     "n": 3,
+     "time": "8–15 s",
+     "text": "TRACK 1: CURRICULUM & INSTRUCTION · TRACK 2: EDUCATIONAL LEADERSHIP",
+     "visual": "Screen splits into two periwinkle panels"
+    },
+    {
+     "n": 4,
+     "time": "15–22 s",
+     "text": "30 CREDITS · 10 COURSES · 18 MONTHS",
+     "visual": "Big counting numbers"
+    },
+    {
+     "n": 5,
+     "time": "22–28 s",
+     "text": "In person · every week · built for working educators",
+     "visual": "Calendar grid icon; one cell per week lights up"
+    },
+    {
+     "n": 6,
+     "time": "28–33 s",
+     "text": "PAY MONTHLY",
+     "visual": "Coins/stack icon becomes 18 small blocks"
+    },
+    {
+     "n": 7,
+     "time": "33–39 s",
+     "text": "Accredited in the US by the Higher Learning Commission",
+     "visual": "Shield icon + text, calm"
+    },
+    {
+     "n": 8,
+     "time": "39–44 s",
+     "text": "KEEP TEACHING. KEEP GROWING. · January cohort",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "The MAED, in 45 seconds ⏱️\n✅ Saint Mary's University of Minnesota degree, delivered in Kuwait\n✅ Curriculum & Instruction or Educational Leadership\n✅ 30 credits · 10 courses · 18 months\n✅ In-person classes every week\n✅ Pay monthly\n\nSave this for later and send it to the colleague who keeps asking 😉\nNext cohort: January · Link in bio\n#GrowWhereYouTeach #MAEd #MastersInEducation #TeachersOfKuwait #CurriculumAndInstruction #EducationalLeadership #ProfessionalLearningInstitute",
+   "caption_li": "A master's degree that fits around a full teaching load — here is the whole programme in 45 seconds.\nSaint Mary's University of Minnesota MAED · Curriculum & Instruction or Educational Leadership · 30 credits, 10 courses, 18 months · weekly in-person classes in Kuwait · monthly payments.\nJanuary 2027 cohort → {{APPLY_LINK}}\n#MAEd #EducationalLeadership #ProfessionalDevelopment",
+   "pillar": "P2"
+  },
+  {
+   "id": "V03",
+   "title": "The math",
+   "meta": "P3 · 35–40 s; `V03b` = March end card",
+   "vo": "Let's talk numbers.\nFor ACA staff, the master's is four thousand Kuwaiti dinars. Spread over eighteen months, that's about two hundred and twenty-two dinars a month.\nNot at ACA? It's four thousand two hundred, about two hundred and thirty-three a month.\nACA staff can also put their professional learning stipend and signing bonus toward tuition.\nAnd when colleagues you refer register, your final payments can be waived.\nA master's degree, one month at a time.\nAsk us for your personal payment plan.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "LET'S TALK NUMBERS.",
+     "visual": "Cream bg, calculator-key style tiles"
+    },
+    {
+     "n": 2,
+     "time": "3–11 s",
+     "text": "ACA STAFF · 4,000 KD ÷ 18 = **222.22 KD / month**",
+     "visual": "Equation types itself; result pops in periwinkle"
+    },
+    {
+     "n": 3,
+     "time": "11–17 s",
+     "text": "EXTERNAL EDUCATORS · 4,200 KD ÷ 18 = **233.33 KD / month**",
+     "visual": "Same layout, indigo bg"
+    },
+    {
+     "n": 4,
+     "time": "17–24 s",
+     "text": "+ PL STIPEND · + SIGNING BONUS (ACA staff)",
+     "visual": "Two tags drop onto the monthly figure"
+    },
+    {
+     "n": 5,
+     "time": "24–30 s",
+     "text": "REFER COLLEAGUES → FINAL PAYMENTS WAIVED*",
+     "visual": "Two/four small figures icons; last block(s) of 18 fade out"
+    },
+    {
+     "n": 6,
+     "time": "30–34 s",
+     "text": "A MASTER'S DEGREE. ONE MONTH AT A TIME.",
+     "visual": "Headline stack"
+    },
+    {
+     "n": 7,
+     "time": "34–38 s",
+     "text": "Ask for your payment plan · *Terms apply",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "What does a master's actually cost per month? 🧮\nACA staff: 4,000 KD → 222.22 KD/month × 18\nExternal educators: 4,200 KD → 233.33 KD/month × 18\nACA staff can also use their PL stipend and signing bonus toward tuition.\nPlus our referral reward can waive your final payments (terms apply).\nDM us \"PLAN\" for your personal payment plan.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #MastersInEducation",
+   "caption_li": "Cost is the first question every teacher asks, so here's the straight answer.\nMAED (Saint Mary's University of Minnesota): 4,000 KD for ACA staff (222.22 KD/month over 18 months) · 4,200 KD for external educators (233.33 KD/month).\nACA staff can apply their PL stipend and signing bonus. Referral rewards can waive final payments.\nAsk for a personal payment plan → {{APPLY_LINK}}",
+   "pillar": "P3"
+  },
+  {
+   "id": "V04",
+   "title": "The Executive Leadership Doctorate",
+   "meta": "P2 · Ed.D · 40 s · always-on",
+   "vo": "You've led teams. Departments. Maybe a whole school.\nSo what's next?\nThe Executive Leadership Doctorate from Saint Mary's University of Minnesota.\nThirty-nine credits over three years. Fully online, with a local cohort in Kuwait to learn alongside.\nAnd no dissertation.\nIt's designed for professionals with ten or more years of leadership experience.\nPay monthly, over thirty-six or forty-eight months.\nLead the next chapter.\nAsk us about the doctorate.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–5 s",
+     "text": "YOU'VE LED TEAMS. DEPARTMENTS. A WHOLE SCHOOL.",
+     "visual": "Deep indigo; each phrase replaces the last"
+    },
+    {
+     "n": 2,
+     "time": "5–8 s",
+     "text": "SO WHAT'S NEXT?",
+     "visual": "Serif (Playfair) italic, cream"
+    },
+    {
+     "n": 3,
+     "time": "8–14 s",
+     "text": "Executive Leadership Doctorate (Ed.D) · Saint Mary's University of Minnesota",
+     "visual": "Doctoral cap icon line-draws"
+    },
+    {
+     "n": 4,
+     "time": "14–21 s",
+     "text": "39 CREDITS · 3 YEARS · FULLY ONLINE + LOCAL COHORT",
+     "visual": "Three columns rise"
+    },
+    {
+     "n": 5,
+     "time": "21–25 s",
+     "text": "NO DISSERTATION",
+     "visual": "Big stamp; strike-through animation on the word \"dissertation\""
+    },
+    {
+     "n": 6,
+     "time": "25–30 s",
+     "text": "For leaders with 10+ years of leadership experience",
+     "visual": "Periwinkle bar"
+    },
+    {
+     "n": 7,
+     "time": "30–35 s",
+     "text": "410 KD/month × 36 · or 307.50 KD/month × 48",
+     "visual": "Two options cards (add \"for staff\" until external price confirmed)"
+    },
+    {
+     "n": 8,
+     "time": "35–40 s",
+     "text": "LEAD THE NEXT CHAPTER.",
+     "visual": "End card \"Ask about the Ed.D\""
+    }
+   ],
+   "caption_ig": "For the leaders who've done it all — what's next? 🎓\nExecutive Leadership Doctorate (Ed.D), Saint Mary's University of Minnesota\n• 39 credits · 3 years\n• Fully online + a local cohort in Kuwait\n• No dissertation\n• For professionals with 10+ years of leadership experience\n• Pay monthly over 36 or 48 months\nAsk us about the Ed.D → link in bio\n#EdD #EducationalLeadership #SchoolLeaders #ProfessionalLearningInstitute #SaintMarysUniversity",
+   "caption_li": "For principals, vice principals, heads of department and directors with 10+ years of leadership experience:\nthe Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits over 3 years, fully online with a local Kuwait cohort, and no dissertation.\nMonthly plans over 36 or 48 months.\nConversations open now → {{APPLY_LINK}}\n#EdD #EducationalLeadership #SchoolLeadership",
+   "pillar": "P2"
+  },
+  {
+   "id": "V05",
+   "title": "Teach by day, grow by week",
+   "meta": "P2 · 35 s",
+   "vo": "Sunday, you teach. Monday, you teach.\nAnd each week, you meet your cohort in person, with educators who get it, because they teach too.\nWhat you learn this week, you can try in your classroom next week.\nEighteen months later, you're holding a master's degree, and you never paused your career.\nThe Saint Mary's University of Minnesota master's, built in Kuwait for working teachers.\nGrow where you teach.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–4 s",
+     "text": "SUNDAY: TEACH. MONDAY: TEACH.",
+     "visual": "Week-planner graphic, days ticking"
+    },
+    {
+     "n": 2,
+     "time": "4–11 s",
+     "text": "+ ONE CLASS NIGHT WITH YOUR COHORT",
+     "visual": "One planner cell turns periwinkle \"MAED\" (do not name a weekday)"
+    },
+    {
+     "n": 3,
+     "time": "11–17 s",
+     "text": "LEARN IT THIS WEEK → TRY IT NEXT WEEK",
+     "visual": "Arrow loops from \"class\" icon to \"classroom\" icon"
+    },
+    {
+     "n": 4,
+     "time": "17–24 s",
+     "text": "18 MONTHS LATER…",
+     "visual": "Planner pages flip fast; ends on cap icon"
+    },
+    {
+     "n": 5,
+     "time": "24–29 s",
+     "text": "…A MASTER'S DEGREE. NO CAREER PAUSE.",
+     "visual": "Real graduation photo"
+    },
+    {
+     "n": 6,
+     "time": "29–35 s",
+     "text": "GROW WHERE YOU TEACH.",
+     "visual": "End card"
+    }
+   ],
+   "note": "⚠️ Replace \"one class night\" with the real class pattern once PLI confirms it (e.g. \"one evening a week\" or \"weekends\").",
+   "caption_ig": "Your week, with a master's in it 🗓️\nKeep teaching. Meet your cohort in person each week. Bring what you learn straight back to your classroom.\n18 months later: a Saint Mary's University of Minnesota master's — and no career pause.\nLink in bio to ask about the next cohort.\n#GrowWhereYouTeach #TeacherLife #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute",
+   "caption_li": "The most common reason teachers delay a master's is time. The MAED is designed for working educators: weekly in-person classes in Kuwait, 18 months, and learning you can apply in your classroom the following week.\nNext cohort → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "V06",
+   "title": "Bring your people",
+   "meta": "referral)  (P3 · 30 s",
+   "vo": "A master's is better with friends.\nHere's our referral reward.\nRefer two people who register, and your final payment is waived.\nRefer four who register and continue, and your last two payments are waived.\nBring your teaching partner. Your grade-level team. That friend who keeps saying \"one day\".\nMake it this cohort.\nTerms apply. Ask us for details.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "A MASTER'S IS BETTER WITH FRIENDS.",
+     "visual": "Three person icons walk in"
+    },
+    {
+     "n": 2,
+     "time": "3–10 s",
+     "text": "REFER 2 WHO REGISTER → FINAL PAYMENT WAIVED",
+     "visual": "18 payment blocks; last block flips to \"WAIVED\""
+    },
+    {
+     "n": 3,
+     "time": "10–17 s",
+     "text": "REFER 4 WHO REGISTER & CONTINUE → LAST 2 PAYMENTS WAIVED",
+     "visual": "Last two blocks flip"
+    },
+    {
+     "n": 4,
+     "time": "17–24 s",
+     "text": "YOUR TEACHING PARTNER · YOUR GRADE TEAM · YOUR \"ONE DAY\" FRIEND",
+     "visual": "Three tags pop in"
+    },
+    {
+     "n": 5,
+     "time": "24–30 s",
+     "text": "MAKE IT THIS COHORT. · Terms apply",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "Tag the colleague you'd do your master's with 👇\nRefer 2 who register → your final payment is waived.\nRefer 4 who register and continue → your last 2 payments are waived.\nTerms apply — DM us for details.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #TeacherFriends #ProfessionalLearningInstitute",
+   "caption_li": "Professional growth is easier as a team. PLI's referral reward: refer 2 educators who register and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}",
+   "pillar": "P3"
+  },
+  {
+   "id": "V07",
+   "title": "Not in Kuwait? Study online",
+   "meta": "P2 · segment D · 30–35 s",
+   "vo": "Taught in Kuwait and moved on? Teaching somewhere else in the region?\nYou can still earn your Saint Mary's University of Minnesota master's, online.\nSame programme. Same degree. Same diploma as our students in Kuwait.\nThirty credits, ten courses, eighteen months, from wherever you teach.\nGrow wherever you teach.\nMessage us to join the online option.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–5 s",
+     "text": "NOT IN KUWAIT?",
+     "visual": "Simple line map of the region; Kuwait dot pulses, then dots appear elsewhere"
+    },
+    {
+     "n": 2,
+     "time": "5–11 s",
+     "text": "STUDY ONLINE · Saint Mary's University of Minnesota MAED",
+     "visual": "Laptop line icon; screen shows PLI shield"
+    },
+    {
+     "n": 3,
+     "time": "11–18 s",
+     "text": "SAME PROGRAMME · SAME DEGREE · SAME DIPLOMA",
+     "visual": "Three ticks"
+    },
+    {
+     "n": 4,
+     "time": "18–25 s",
+     "text": "30 CREDITS · 10 COURSES · 18 MONTHS",
+     "visual": "Counters"
+    },
+    {
+     "n": 5,
+     "time": "25–33 s",
+     "text": "GROW WHEREVER YOU TEACH.",
+     "visual": "End card \"Message us · online option\""
+    }
+   ],
+   "caption_ig": "Not in Kuwait? You can still join 🌍\nThe Saint Mary's University of Minnesota MAED has an online option for educators outside Kuwait — same programme, same degree, same diploma.\n30 credits · 10 courses · 18 months.\nTag a friend who left Kuwait but never stopped learning.\n#GrowWhereverYouTeach #MAEd #OnlineMasters #InternationalTeachers #TeachersOfTheGCC #ProfessionalLearningInstitute",
+   "caption_li": "Former Kuwait-based educator, or teaching elsewhere in the region? PLI's MAED (Saint Mary's University of Minnesota) now has an online option for learners outside Kuwait. Same programme, same degree and diploma as our in-person cohorts. → {{APPLY_LINK}}\n#InternationalEducation #MAEd #OnlineLearning",
+   "pillar": "P2"
+  },
+  {
+   "id": "V08",
+   "title": "Two tracks: which one is you?",
+   "meta": "P2 · 35 s",
+   "vo": "One degree. Two directions.\nCurriculum and Instruction is for teachers deepening their classroom practice.\nEducational Leadership is for educators stepping into school leadership.\nBoth are thirty credits, ten courses, eighteen months, with Saint Mary's University of Minnesota.\nLove the classroom? Go deeper. Ready to lead? Step up.\nNot sure which fits you? Book a fifteen-minute call and we'll help you choose.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "ONE DEGREE. TWO DIRECTIONS.",
+     "visual": "Road splits into two paths"
+    },
+    {
+     "n": 2,
+     "time": "3–10 s",
+     "text": "CURRICULUM & INSTRUCTION · for teachers deepening classroom practice",
+     "visual": "Left path lights periwinkle; classroom icon"
+    },
+    {
+     "n": 3,
+     "time": "10–17 s",
+     "text": "EDUCATIONAL LEADERSHIP · for educators stepping into school leadership",
+     "visual": "Right path lights indigo; compass/flag icon"
+    },
+    {
+     "n": 4,
+     "time": "17–23 s",
+     "text": "BOTH: 30 CREDITS · 10 COURSES · 18 MONTHS",
+     "visual": "Paths merge into one bar"
+    },
+    {
+     "n": 5,
+     "time": "23–29 s",
+     "text": "LOVE THE CLASSROOM? GO DEEPER. · READY TO LEAD? STEP UP.",
+     "visual": "Two-line split"
+    },
+    {
+     "n": 6,
+     "time": "29–35 s",
+     "text": "NOT SURE? 15-MINUTE CALL",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "C&I or Leadership? 🤔\n📘 Curriculum & Instruction — for teachers deepening classroom practice\n🧭 Educational Leadership — for educators stepping into school leadership\nSame degree length: 30 credits · 10 courses · 18 months.\nComment \"C&I\" or \"LEAD\" and we'll send you the details.\n#MAEd #CurriculumAndInstruction #EducationalLeadership #TeachersOfKuwait #GrowWhereYouTeach",
+   "caption_li": "Choosing between Curriculum & Instruction and Educational Leadership? A simple rule: C&I if you want to go deeper in the classroom, Educational Leadership if you're stepping toward leading others. Both are 30 credits / 10 courses / 18 months. We're happy to talk it through → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "V09",
+   "title": "Is it accredited? Straight answers.",
+   "meta": "P4 · 35–40 s · **needs PLI/HR wording approval**",
+   "vo": "Is it accredited? Here's the straight answer.\nSaint Mary's University of Minnesota is accredited in the United States by the Higher Learning Commission.\nIn Kuwait, the degree is recognized by the Ministry of Education as part of work-permit approval.\nIf you're a Kuwaiti citizen asking about the public-sector salary scale, talk to us first. We'll give you the full picture before you apply.\nNo fine print. Just answers.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–4 s",
+     "text": "IS IT ACCREDITED?",
+     "visual": "Big question mark (like the existing \"?\" post), indigo on cream"
+    },
+    {
+     "n": 2,
+     "time": "4–13 s",
+     "text": "✔ Accredited in the US by the Higher Learning Commission",
+     "visual": "Shield + check"
+    },
+    {
+     "n": 3,
+     "time": "13–21 s",
+     "text": "✔ Recognized by Kuwait's Ministry of Education for work-permit approval",
+     "visual": "Second check"
+    },
+    {
+     "n": 4,
+     "time": "21–31 s",
+     "text": "Kuwaiti citizen? Ask us about the salary scale before you apply.",
+     "visual": "Periwinkle note card, calm"
+    },
+    {
+     "n": 5,
+     "time": "31–37 s",
+     "text": "NO FINE PRINT. JUST ANSWERS.",
+     "visual": "End card \"Ask us anything\""
+    }
+   ],
+   "caption_ig": "\"Is it accredited?\" — the question we get most. Straight answers:\n✔ Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.\n✔ In Kuwait, the degree is recognized by the Ministry of Education as part of work-permit approval.\nKuwaiti citizens: please talk to us about the public-sector salary scale before applying — we'll give you the full picture.\n#ProfessionalLearningInstitute #MAEd #SaintMarysUniversity #TeachersOfKuwait",
+   "caption_li": "Transparency matters when choosing a degree. Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission, and in Kuwait the degree is recognized by the Ministry of Education as part of work-permit approval. Kuwaiti citizens considering the public-sector salary scale: please speak to us first. → pli@aca.edu.kw",
+   "pillar": "P4"
+  },
+  {
+   "id": "V10",
+   "title": "January: last call",
+   "meta": "P5 · 25–30 s",
+   "vo": "One week left to join the January cohort.\nIn eighteen months, you could be holding a master's degree from Saint Mary's University of Minnesota.\nOr watching this video again next year.\nThirty credits. Ten courses. Pay monthly.\nYour colleagues already did it.\nApplications close {{JAN_DEADLINE_SPOKEN}}. Apply today.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–4 s",
+     "text": "ONE WEEK LEFT.",
+     "visual": "Huge \"7\" in periwinkle date-block style, counting down to 0"
+    },
+    {
+     "n": 2,
+     "time": "4–11 s",
+     "text": "IN 18 MONTHS: A MASTER'S DEGREE.",
+     "visual": "Calendar pages fly → cap icon"
+    },
+    {
+     "n": 3,
+     "time": "11–15 s",
+     "text": "OR THIS VIDEO AGAIN NEXT YEAR.",
+     "visual": "Playful rewind effect"
+    },
+    {
+     "n": 4,
+     "time": "15–21 s",
+     "text": "30 CREDITS · 10 COURSES · PAY MONTHLY",
+     "visual": "Bars"
+    },
+    {
+     "n": 5,
+     "time": "21–28 s",
+     "text": "APPLICATIONS CLOSE {{JAN_DEADLINE}}",
+     "visual": "End card, deadline in periwinkle block"
+    }
+   ],
+   "caption_ig": "⏳ One week left for the January cohort.\nApplications close {{JAN_DEADLINE}}. Link in bio · pli@aca.edu.kw\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #LastCall",
+   "caption_li": "Final week: applications for PLI's January 2027 MAED cohort close {{JAN_DEADLINE}}. → {{APPLY_LINK}}",
+   "pillar": "P5"
+  },
+  {
+   "id": "V11",
+   "title": "Welcome, January cohort. March is next.",
+   "meta": "P5 · 25–30 s",
+   "vo": "This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.\nWelcome to the January cohort.\nMissed it? The next cohort starts at the end of March.\nSame programme. Same support. Same monthly plan.\nApplications for March are open now.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–6 s",
+     "text": "WELCOME, JANUARY COHORT.",
+     "visual": "Real first-day photo(s) of the new cohort (with consent) in arch frames"
+    },
+    {
+     "n": 2,
+     "time": "6–12 s",
+     "text": "From our classrooms — and beyond.",
+     "visual": "6-in-10 dots + small country labels"
+    },
+    {
+     "n": 3,
+     "time": "12–17 s",
+     "text": "MISSED IT?",
+     "visual": "Beat; whoosh"
+    },
+    {
+     "n": 4,
+     "time": "17–23 s",
+     "text": "NEXT COHORT: END OF MARCH",
+     "visual": "Periwinkle date block \"MAR\""
+    },
+    {
+     "n": 5,
+     "time": "23–28 s",
+     "text": "Same programme · Same support · Same monthly plan",
+     "visual": "End card \"Applications open\""
+    }
+   ],
+   "caption_ig": "Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.\nMissed this one? Our next cohort starts at the end of March — applications are open now.\n#GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute",
+   "caption_li": "A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the end-of-March cohort are now open → {{APPLY_LINK}}",
+   "pillar": "P5"
+  },
+  {
+   "id": "V12",
+   "title": "A month for reflection",
+   "meta": "P5 · Ramadan · 25–30 s · soft CTA",
+   "vo": "Ramadan is a month of reflection. Of asking: who do I want to become?\nFor many educators, the answer starts in the classroom, and keeps growing.\nIf this month has you thinking about your next step, we're here to listen.\nOur team is available for evening calls this Ramadan.\nRamadan Kareem, from the Professional Learning Institute.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–6 s",
+     "text": "A MONTH OF REFLECTION.",
+     "visual": "Deep indigo, slow crescent line-draw (abstract, elegant)"
+    },
+    {
+     "n": 2,
+     "time": "6–12 s",
+     "text": "Who do I want to become?",
+     "visual": "Playfair italic, cream"
+    },
+    {
+     "n": 3,
+     "time": "12–18 s",
+     "text": "For many educators, the answer starts in the classroom.",
+     "visual": "Soft lantern light glow shapes (no food)"
+    },
+    {
+     "n": 4,
+     "time": "18–24 s",
+     "text": "Evening calls available this Ramadan",
+     "visual": "Periwinkle bar with clock icon (after 9 pm)"
+    },
+    {
+     "n": 5,
+     "time": "24–28 s",
+     "text": "RAMADAN KAREEM",
+     "visual": "Logo lock-up"
+    }
+   ],
+   "caption_ig": "Ramadan Kareem from all of us at the Professional Learning Institute 🌙\nIf this month has you reflecting on your next step, our team is available for evening calls. Just send us a message.\n#RamadanKareem #ProfessionalLearningInstitute #Kuwait",
+   "caption_li": "Ramadan Kareem from the Professional Learning Institute. If you're reflecting on your professional growth this month, our team is available for evening conversations.",
+   "pillar": "P5"
+  },
+  {
+   "id": "V13",
+   "title": "March: final call",
+   "meta": "P5 · 30 s",
+   "vo": "Final call for the March cohort.\nEighteen months from now, you can still be \"thinking about a master's\", or you can have one.\nSaint Mary's University of Minnesota. Thirty credits. Ten courses.\nPay monthly, from about two hundred and twenty-two dinars for ACA staff.\nApplications close {{MAR_DEADLINE_SPOKEN}}.\nDon't wait for the next cohort.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–3 s",
+     "text": "FINAL CALL · MARCH COHORT",
+     "visual": "Indigo, flashing periwinkle underline"
+    },
+    {
+     "n": 2,
+     "time": "3–11 s",
+     "text": "18 MONTHS FROM NOW: \"STILL THINKING ABOUT IT\" vs. \"DONE.\"",
+     "visual": "Split screen; \"DONE.\" wins"
+    },
+    {
+     "n": 3,
+     "time": "11–17 s",
+     "text": "SAINT MARY'S · 30 CREDITS · 10 COURSES",
+     "visual": "Logo + counters"
+    },
+    {
+     "n": 4,
+     "time": "17–23 s",
+     "text": "FROM 222.22 KD / MONTH (ACA staff)",
+     "visual": "Price block"
+    },
+    {
+     "n": 5,
+     "time": "23–30 s",
+     "text": "APPLICATIONS CLOSE {{MAR_DEADLINE}}",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "Final call 📣 March cohort applications close {{MAR_DEADLINE}}.\n18 months from now, be the one who did it. Link in bio.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #FinalCall",
+   "caption_li": "Final call: applications for PLI's end-of-March MAED cohort close {{MAR_DEADLINE}}. → {{APPLY_LINK}}",
+   "pillar": "P5"
+  },
+  {
+   "id": "V14",
+   "title": "New to ACA? Start with a plan.",
+   "meta": "P3 · segment B · 30–35 s",
+   "vo": "New to ACA? Welcome.\nHere's something many new staff only hear about later.\nYour signing bonus and your professional learning stipend can go toward a master's degree.\nThe Saint Mary's University of Minnesota master's, right here in Kuwait, at the ACA staff rate.\nMore than six in ten of our past students were ACA educators, just like you.\nStart your first year with a plan to grow.",
+   "scenes": [
+    {
+     "n": 1,
+     "time": "0–4 s",
+     "text": "NEW TO ACA? WELCOME.",
+     "visual": "Cream; waving-hand line icon"
+    },
+    {
+     "n": 2,
+     "time": "4–9 s",
+     "text": "Here's something many new staff hear about later…",
+     "visual": "Whisper-style small text, then zoom"
+    },
+    {
+     "n": 3,
+     "time": "9–17 s",
+     "text": "SIGNING BONUS + PL STIPEND → YOUR MASTER'S",
+     "visual": "Two tags slide into a cap icon"
+    },
+    {
+     "n": 4,
+     "time": "17–23 s",
+     "text": "ACA STAFF RATE · 4,000 KD · 222.22 KD/month",
+     "visual": "Price card"
+    },
+    {
+     "n": 5,
+     "time": "23–29 s",
+     "text": "6 IN 10 of our past students were ACA educators",
+     "visual": "Dot motif"
+    },
+    {
+     "n": 6,
+     "time": "29–34 s",
+     "text": "START YOUR FIRST YEAR WITH A PLAN.",
+     "visual": "End card"
+    }
+   ],
+   "caption_ig": "New to ACA? 👋 Did you know your signing bonus and PL stipend can go toward a Saint Mary's University of Minnesota master's — at the ACA staff rate (222.22 KD/month)?\nMore than 6 in 10 of our past students were ACA educators. Start your first year with a plan.\n#GrowWhereYouTeach #ACAKuwait #NewTeacher #MAEd #TeachInKuwait",
+   "caption_li": "Joining ACA this year? Your signing bonus and professional learning stipend can be applied toward the Saint Mary's University of Minnesota MAED at the staff rate. → {{APPLY_LINK}}",
+   "pillar": "P3"
+  }
+ ],
+ "carousels": [
+  {
+   "id": "C01",
+   "title": "Why 6 in 10 of our students come from ACA",
+   "meta": "P1 · 8 slides; `C01` is the campaign hero carousel",
+   "slides": [
+    "**MORE THAN 6 IN 10** · of our past master's students were ACA educators. Here's why. → (dot motif)",
+    "**1. It's here.** Classes meet in person, in Kuwait, at ACA.",
+    "**2. It's built for working teachers.** Weekly classes designed around a teaching schedule. 18 months, start to finish.",
+    "**3. It's priced for staff.** ACA staff rate: 4,000 KD — that's 222.22 KD a month over 18 months.",
+    "**4. Your PL stipend can help.** ACA staff can put their professional learning stipend and signing bonus toward tuition.",
+    "**5. You learn with people you know.** Your cohort may include colleagues — and educators from 8+ nationalities.",
+    "**6. It goes straight into your classroom.** Bring what you learn each week back to your students.",
+    "**Your colleagues already did it.** January cohort — applications open. Link in bio · pli@aca.edu.kw · *Save this and tag a colleague.*"
+   ],
+   "caption_ig": "More than 6 in 10 of our past MAED students were ACA educators. Swipe to see why 👉\nWhich reason is yours? Tell us in the comments.\n#GrowWhereYouTeach #ACAKuwait #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #SaintMarysUniversity",
+   "caption_li": "Why do most of our MAED students come from inside ACA? Six reasons, from location and schedule to staff pricing and PL stipends. If they work for full-time teachers at ACA, they can work for you too. January cohort → {{APPLY_LINK}}",
+   "pillar": "P1"
+  },
+  {
+   "id": "C02",
+   "title": "The MAED at a glance",
+   "meta": "P2 · 8 slides",
+   "slides": [
+    "**THE MAED AT A GLANCE** · Saint Mary's University of Minnesota · Master of Arts in Education",
+    "**The degree** · Master of Arts in Education from Saint Mary's University of Minnesota (USA), delivered by the Professional Learning Institute at ACA.",
+    "**Two tracks** · Curriculum & Instruction — for teachers deepening classroom practice · Educational Leadership — for educators stepping into school leadership.",
+    "**The structure** · 30 credits · 10 courses · 18 months",
+    "**The format** · In person in Kuwait, every week · Online option for learners outside Kuwait",
+    "**Accreditation** · Accredited in the US by the Higher Learning Commission",
+    "**The investment** · ACA staff: 4,000 KD (222.22 KD/month × 18) · External: 4,200 KD (233.33 KD/month × 18)",
+    "**Next cohorts: January & end of March** · Link in bio · pli@aca.edu.kw"
+   ],
+   "caption_ig": "Everything you need to know about the MAED, on 8 slides. Save it 📌 · Next cohort: January. #MAEd #MastersInEducation #TeachersOfKuwait #GrowWhereYouTeach",
+   "caption_li": "The Saint Mary's University of Minnesota MAED at a glance — tracks, structure, format, accreditation and investment in one document. January cohort → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "C03",
+   "title": "The Executive Leadership Doctorate at a glance",
+   "meta": "P2 · Ed.D · 7 slides",
+   "slides": [
+    "**LEAD THE NEXT CHAPTER** · Executive Leadership Doctorate (Ed.D) · Saint Mary's University of Minnesota",
+    "**Who it's for** · Principals, vice principals, heads of department, directors — professionals with 10+ years of leadership experience.",
+    "**The structure** · 39 credits · 3 years",
+    "**The format** · Fully online · With a local cohort in Kuwait for collaboration",
+    "**No dissertation.**",
+    "**The investment** · About 14,760 KD · 410 KD/month over 36 months, or 307.50 KD/month over 48 months *(staff pricing — external price on request until confirmed)*",
+    "**Let's talk** · Book a conversation: pli@aca.edu.kw · {{APPLY_LINK}}"
+   ],
+   "caption_ig": "The doctorate built for experienced school leaders — online, 3 years, no dissertation. Swipe 👉 #EdD #SchoolLeaders #EducationalLeadership #ProfessionalLearningInstitute",
+   "caption_li": "For leaders with 10+ years of experience: the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits, 3 years, fully online with a local Kuwait cohort, no dissertation, monthly payment options. → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "C04",
+   "title": "What does a master's really cost per month?",
+   "meta": "P3 · 7 slides; `C04b` = March CTA",
+   "slides": [
+    "**WHAT DOES A MASTER'S REALLY COST — PER MONTH?**",
+    "**ACA staff** · 4,000 KD ÷ 18 months = **222.22 KD/month**",
+    "**External educators** · 4,200 KD ÷ 18 months = **233.33 KD/month**",
+    "**ACA staff boosters** · Use your professional learning (PL) stipend · Use your signing bonus",
+    "**Referral reward** · Refer 2 who register → final payment waived · Refer 4 who register and continue → last 2 payments waived *(terms apply)*",
+    "**Thinking bigger? The Ed.D** · 410 KD/month × 36 or 307.50 KD/month × 48",
+    "**Get your personal payment plan** · DM \"PLAN\" · pli@aca.edu.kw"
+   ],
+   "caption_ig": "The numbers, made simple 🧮 Save this and DM \"PLAN\" for your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach",
+   "caption_li": "Clear pricing, monthly payments, and PL stipends for ACA staff — the full breakdown in one document. → {{APPLY_LINK}}",
+   "pillar": "P3"
+  },
+  {
+   "id": "C05",
+   "title": "Bring your people. We'll waive your last payments.",
+   "meta": "P3 · 6 slides",
+   "slides": [
+    "**BRING YOUR PEOPLE.** We'll waive your last payments.",
+    "**Refer 2** educators who register → your **final payment** is waived.",
+    "**Refer 4** who register and continue → your **last 2 payments** are waived.",
+    "**What that means** · ACA staff MAED: up to 444.44 KD saved · External MAED: up to 466.66 KD saved",
+    "**Who to bring** · Your teaching partner · Your grade-level team · Your friend teaching outside Kuwait (online option)",
+    "**Tag them below 👇** · Terms apply · pli@aca.edu.kw"
+   ],
+   "caption_ig": "Who's doing their master's with you? Tag them 👇 #GrowWhereYouTeach #MAEd #TeacherFriends",
+   "caption_li": "PLI's referral reward, explained in 6 slides. Terms apply. → {{APPLY_LINK}}",
+   "pillar": "P3"
+  },
+  {
+   "id": "C06",
+   "title": "C&I or Leadership? Choose your track.",
+   "meta": "P2 · 7 slides",
+   "slides": [
+    "**C&I OR LEADERSHIP?** Choose your MAED track.",
+    "**Curriculum & Instruction** · For teachers deepening classroom practice.",
+    "**Choose C&I if you…** · love the classroom and want to go deeper · want stronger planning and assessment · are the colleague others ask for ideas",
+    "**Educational Leadership** · For educators stepping into school leadership.",
+    "**Choose Leadership if you…** · already lead a team, grade or department — or want to · think about the whole school, not just your class · see yourself as a coordinator or school leader",
+    "**Same strong structure** · 30 credits · 10 courses · 18 months · Saint Mary's University of Minnesota",
+    "**Still not sure?** Book a 15-minute call — we'll help you choose. pli@aca.edu.kw"
+   ],
+   "caption_ig": "Comment \"C&I\" or \"LEAD\" — which one is you? #CurriculumAndInstruction #EducationalLeadership #MAEd #TeachersOfKuwait",
+   "caption_li": "A simple guide to choosing between the two MAED tracks. → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "C07",
+   "title": "Straight answers: 8 questions",
+   "meta": "P4 · 9 slides; `C07b` = March CTA · **recognition wording needs approval**",
+   "slides": [
+    "**STRAIGHT ANSWERS** · 8 questions we hear every week",
+    "**Can I study while teaching full-time?** Yes. The MAED is designed for working educators, with weekly in-person classes.",
+    "**How long does it take?** 18 months: 30 credits across 10 courses.",
+    "**How much is it?** ACA staff 4,000 KD (222.22 KD/month). External 4,200 KD (233.33 KD/month).",
+    "**Can ACA staff use PL funds?** Yes — your PL stipend and signing bonus can go toward tuition.",
+    "**Is it accredited?** Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.",
+    "**Is it recognized in Kuwait?** It is recognized by the Ministry of Education as part of work-permit approval. It is not currently recognized by the Civil Service Commission for the public-sector salary scale. Kuwaiti citizens: talk to us before you apply.",
+    "**I'm not in Kuwait. Can I join?** Yes — through our online option. Same programme, same degree, same diploma.",
+    "**When is the next cohort?** January and end of March · pli@aca.edu.kw · {{APPLY_LINK}}"
+   ],
+   "caption_ig": "The 8 questions we hear most — answered honestly. Got another one? Drop it in the comments 👇 #MAEd #FAQ #TeachersOfKuwait #ProfessionalLearningInstitute",
+   "caption_li": "Before you apply, read this: time, cost, PL funds, accreditation, recognition in Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}",
+   "pillar": "P4"
+  },
+  {
+   "id": "C08",
+   "title": "Myths vs facts: a master's while teaching",
+   "meta": "P4 · 7 slides",
+   "slides": [
+    "**MYTHS VS FACTS** · Doing a master's while teaching full-time",
+    "**Myth:** \"I don't have time.\" · **Fact:** It's designed around a teaching week — weekly classes, 18 months.",
+    "**Myth:** \"It's too expensive.\" · **Fact:** From 222.22 KD/month for ACA staff, plus PL stipend support.",
+    "**Myth:** \"I'll be on my own.\" · **Fact:** You study in a cohort — often with colleagues you already know.",
+    "**Myth:** \"I'd have to quit my job.\" · **Fact:** Our students keep teaching the whole way through.",
+    "**Myth:** \"Online means a different degree.\" · **Fact:** The online option leads to the same degree and diploma.",
+    "**Ready for the facts in person?** Ask us anything · pli@aca.edu.kw"
+   ],
+   "caption_ig": "Which myth stopped you? Be honest 😄 #MAEd #TeacherLife #TeachersOfKuwait #GrowWhereYouTeach",
+   "caption_li": "Five myths that keep teachers from starting a master's — and the facts. → {{APPLY_LINK}}",
+   "pillar": "P4"
+  },
+  {
+   "id": "C09",
+   "title": "How to apply in 4 steps",
+   "meta": "P2 · 6 slides; `C09b` = March dates · **steps to confirm**",
+   "slides": [
+    "**HOW TO APPLY** · 4 simple steps",
+    "**Step 1 · Say hello** · Fill in the short form ({{APPLY_LINK}}) or email pli@aca.edu.kw",
+    "**Step 2 · 15-minute call** · We'll answer your questions and help you choose a track.",
+    "**Step 3 · Send your documents** · We'll send you the checklist. *({{APPLICATION_STEPS}})*",
+    "**Step 4 · Choose your plan** · Pick your track and monthly payment plan.",
+    "**Start your cohort** · January / end of March · Deadline: {{JAN_DEADLINE}} / {{MAR_DEADLINE}}"
+   ],
+   "caption_ig": "Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach",
+   "caption_li": "Four steps from \"I'm interested\" to \"I'm enrolled\". → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "C10",
+   "title": "Your 18 months, mapped",
+   "meta": "P2 · 7 slides · **confirm course rhythm**",
+   "slides": [
+    "**YOUR 18 MONTHS, MAPPED**",
+    "**Before day one** · Apply, choose your track, set your monthly plan.",
+    "**Week one** · Meet your cohort — teachers like you, from ACA and beyond.",
+    "**Every week** · Learn in class → try it in your classroom → reflect with your cohort.",
+    "**Course by course** · 10 courses, 30 credits, one step at a time.",
+    "**Month 18** · Cap, gown, and a Saint Mary's University of Minnesota master's degree. (use a real PLI graduation photo)",
+    "**Your 18 months can start in March** · {{APPLY_LINK}}"
+   ],
+   "caption_ig": "What 18 months really looks like 🗺️ #MAEd #GrowWhereYouTeach #TeachersOfKuwait",
+   "caption_li": "A simple map of the MAED journey, from application to graduation. → {{APPLY_LINK}}",
+   "pillar": "P2"
+  },
+  {
+   "id": "C11",
+   "title": "One classroom. Eight nationalities.",
+   "meta": "P1 · 6 slides",
+   "slides": [
+    "**ONE CLASSROOM. 8+ NATIONALITIES.**",
+    "Canadian · American · British · South African (labels with small line-flag icons)",
+    "Lebanese · Jordanian · Tunisian · Kuwaiti",
+    "**Different systems. Same goal.** Better learning for students.",
+    "**You'll learn from your cohort as much as from the course.**",
+    "**Join the next cohort** · {{APPLY_LINK}}"
+   ],
+   "caption_ig": "Our MAED cohorts bring together educators from at least 8 nationalities 🌍 Where are you from? #InternationalTeachers #TeachersOfKuwait #MAEd",
+   "caption_li": "One of the most valuable parts of the MAED is the cohort itself: educators from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learning together. → {{APPLY_LINK}}",
+   "pillar": "P1"
+  },
+  {
+   "id": "C12",
+   "title": "Saturday Learning Series recap",
+   "meta": "template, floating)  (P1/P4 · 6 slides",
+   "slides": [
+    "**SATURDAY LEARNING SERIES · RECAP** · {{SLS_TOPIC}} · with {{SLS_SPEAKER}} (speaker photo in arch frame — existing SLS style)",
+    "**Takeaway 1** · {{TAKEAWAY_1}}",
+    "**Takeaway 2** · {{TAKEAWAY_2}}",
+    "**Takeaway 3** · {{TAKEAWAY_3}}",
+    "**In the room** · real event photo",
+    "**Want to go deeper?** This is what the MAED is built for · Next session: {{NEXT_SLS_DATE}}"
+   ],
+   "notes": [
+    "Use the Tuesday after any Saturday Learning Series session (replace that week's Tuesday carousel or add as extra)."
+   ],
+   "caption_ig": "Missed Saturday's session? Here are 3 takeaways from {{SLS_SPEAKER}} on {{SLS_TOPIC}} 👉 #SaturdayLearningSeries #TeacherPD #TeachersOfKuwait",
+   "pillar": "P1"
+  },
+  {
+   "id": "C13",
+   "title": "Studying from outside Kuwait",
+   "meta": "P2 · segment D · 6 slides",
+   "slides": [
+    "**STUDYING FROM OUTSIDE KUWAIT?** Here's how the online option works.",
+    "**Who it's for** · Educators living outside Kuwait — including former ACA colleagues.",
+    "**What you study** · The same Saint Mary's University of Minnesota MAED: 30 credits, 10 courses, 18 months.",
+    "**What you receive** · The same degree and the same diploma as our in-person students.",
+    "**Investment** · 4,200 KD · 233.33 KD/month × 18 *(confirm for online)*",
+    "**Start in March** · Message us · {{APPLY_LINK}}"
+   ],
+   "caption_ig": "Left Kuwait but not your growth plans? 🌍 Swipe for how the online option works. #GrowWhereverYouTeach #OnlineMasters #MAEd #InternationalTeachers",
+   "pillar": "P2"
+  },
+  {
+   "id": "C14",
+   "title": "5 signs you're ready for your master's",
+   "meta": "P1 · 7 slides",
+   "slides": [
+    "**5 SIGNS YOU'RE READY FOR YOUR MASTER'S**",
+    "**1.** You've said \"one day\" more than once this year.",
+    "**2.** Colleagues come to you for ideas.",
+    "**3.** You want a bigger voice in curriculum decisions.",
+    "**4.** You can see yourself leading a team.",
+    "**5.** You have a PL stipend waiting to be used. (ACA staff)",
+    "**3 out of 5? It's time.** {{APPLY_LINK}}"
+   ],
+   "caption_ig": "How many are you? Comment your number 👇 #TeacherLife #MAEd #GrowWhereYouTeach #TeachersOfKuwait",
+   "pillar": "P1"
+  },
+  {
+   "id": "C15",
+   "title": "Your 2027 growth plan",
+   "meta": "P1 · New Year · 6 slides",
+   "slides": [
+    "**YOUR 2027 GROWTH PLAN** · in 4 steps",
+    "**1. Name one skill** you want to master this year.",
+    "**2. Find your people** — learning sticks better in a cohort.",
+    "**3. Make it monthly** — big goals feel lighter in small steps.",
+    "**4. Put a date on it** — cohorts start in January and at the end of March.",
+    "**New year. Next degree.** {{APPLY_LINK}}"
+   ],
+   "caption_ig": "New year, next step ✨ What's the one skill you want to master in 2027? #NewYearGoals #TeacherPD #GrowWhereYouTeach",
+   "pillar": "P1"
+  }
+ ],
+ "posts": [
+  {
+   "id": "S01",
+   "pillar": "P5",
+   "raw": "**H:** JANUARY COHORT · APPLICATIONS OPEN · **Sub:** Saint Mary's University of Minnesota MAED · Curriculum & Instruction or Educational Leadership · **Tag:** 30 credits · 10 courses · 18 months",
+   "visual": "Indigo bg, big headline stack, periwinkle date block \"JAN 2027\", real graduate photo in arch frame, logo lock-up",
+   "caption_ig": "Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait",
+   "h": "JANUARY COHORT · APPLICATIONS OPEN",
+   "sub": "Saint Mary's University of Minnesota MAED · Curriculum & Instruction or Educational Leadership",
+   "tag": "30 credits · 10 courses · 18 months"
+  },
+  {
+   "id": "S02",
+   "pillar": "P1",
+   "raw": "**H:** 6 IN 10 · **Sub:** of our past MAED students were ACA educators. · **Tag:** Grow where you teach.",
+   "visual": "Cream bg, giant \"6 IN 10\", dot motif (10 dots, 6 filled indigo)",
+   "caption_ig": "More than 6 in 10 of our past MAED students taught at ACA while they studied. If they could, you can. 💙 #GrowWhereYouTeach #ACAKuwait",
+   "h": "6 IN 10",
+   "sub": "of our past MAED students were ACA educators.",
+   "tag": "Grow where you teach."
+  },
+  {
+   "id": "S03a–e",
+   "pillar": "P1",
+   "raw": "**Graduate spotlight (template ×5):** **H:** \"{{GRAD_QUOTE_SHORT}}\" · **Sub:** {{GRAD_NAME}} · {{GRAD_ROLE}} · MAED {{GRAD_TRACK}}, {{GRAD_COHORT}} · **Tag:** FROM OUR STAFF ROOM (ACA grads) or FROM OUR COMMUNITY (external grads)",
+   "visual": "Existing testimonial style: real photo top-left in rounded frame, Playfair quote, periwinkle name bar. **Aim for 3 ACA + 2 external graduates.**",
+   "caption_ig": "{{GRAD_NAME}} on doing the MAED while teaching: \"{{GRAD_QUOTE_FULL}}\" Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories",
+   "h": "\"{{GRAD_QUOTE_SHORT}}\"",
+   "sub": "{{GRAD_NAME}} · {{GRAD_ROLE}} · MAED {{GRAD_TRACK}}, {{GRAD_COHORT}}",
+   "tag": "FROM OUR STAFF ROOM (ACA grads) or FROM OUR COMMUNITY (external grads)"
+  },
+  {
+   "id": "S04a/b/c",
+   "pillar": "P4",
+   "raw": "**Live Q&A (template ×3):** **H:** ASK PLI · LIVE · **Sub:** Everything about the MAED & Ed.D — fees, tracks, schedule, recognition · **Tag:** {{LIVE_DATE}} · {{LIVE_TIME}} · Instagram Live @professionallearninginstitute (+ LinkedIn if available)",
+   "visual": "Like the \"Ask Dr. Michael Hahn\" post: host photo cut-out, serif name, date block",
+   "caption_ig": "Bring your questions! Join our coordinator {{LIVE_HOST}} live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇",
+   "h": "ASK PLI · LIVE",
+   "sub": "Everything about the MAED & Ed.D — fees, tracks, schedule, recognition",
+   "tag": "{{LIVE_DATE}} · {{LIVE_TIME}} · Instagram Live @professionallearninginstitute (+ LinkedIn if available)"
+  },
+  {
+   "id": "S05",
+   "pillar": "P5",
+   "raw": "**H:** FINAL WEEK · **Sub:** January cohort applications close {{JAN_DEADLINE}} · **Tag:** Don't wait another year.",
+   "visual": "Big periwinkle \"7\" date block, indigo bg",
+   "caption_ig": "⏳ Final week for the January cohort. Applications close {{JAN_DEADLINE}}. Link in bio.",
+   "h": "FINAL WEEK",
+   "sub": "January cohort applications close {{JAN_DEADLINE}}",
+   "tag": "Don't wait another year."
+  },
+  {
+   "id": "S06",
+   "pillar": "P5",
+   "raw": "**H:** LAST DAY TO APPLY · **Sub:** January cohort · {{JAN_DEADLINE}} · **Tag:** Late applications: ask us if seats remain",
+   "visual": "Bold, high contrast; clock line icon",
+   "caption_ig": "Today's the day ⏰ January cohort applications close tonight. Email pli@aca.edu.kw or use the link in bio.",
+   "h": "LAST DAY TO APPLY",
+   "sub": "January cohort · {{JAN_DEADLINE}}",
+   "tag": "Late applications: ask us if seats remain"
+  },
+  {
+   "id": "S07",
+   "pillar": "P2",
+   "raw": "**H:** FOR LEADERS WITH 10+ YEARS · **Sub:** Executive Leadership Doctorate · Online · 3 years · No dissertation · **Tag:** Saint Mary's University of Minnesota",
+   "visual": "Deep indigo, serif headline variant, cap icon",
+   "caption_ig": "Leading for 10+ years? The Ed.D was built for you — online, 3 years, no dissertation. Ask us 👉 link in bio #EdD #SchoolLeaders",
+   "h": "FOR LEADERS WITH 10+ YEARS",
+   "sub": "Executive Leadership Doctorate · Online · 3 years · No dissertation",
+   "tag": "Saint Mary's University of Minnesota"
+  },
+  {
+   "id": "S08",
+   "pillar": "P5",
+   "raw": "**H:** INTERNATIONAL DAY OF EDUCATION · **Sub:** 24 January · To every educator who keeps learning so their students can, too. · **Tag:** Thank you.",
+   "visual": "Cream, editorial serif, simple book/line motif",
+   "caption_ig": "Happy International Day of Education 📚 Here's to every educator who keeps learning — so their students can too. #InternationalDayOfEducation #TeachersOfKuwait",
+   "h": "INTERNATIONAL DAY OF EDUCATION",
+   "sub": "24 January · To every educator who keeps learning so their students can, too.",
+   "tag": "Thank you."
+  },
+  {
+   "id": "S09",
+   "pillar": "P5",
+   "raw": "**H:** WELCOME, JANUARY COHORT · **Sub:** 18 months. One goal. Let's grow.",
+   "visual": "Real first-day group photo (consent), arch frame",
+   "caption_ig": "Welcome to our January 2027 cohort! 🎉 We can't wait to see you grow. #NewCohort #MAEd #GrowWhereYouTeach",
+   "h": "WELCOME, JANUARY COHORT",
+   "sub": "18 months. One goal. Let's grow."
+  },
+  {
+   "id": "S09b",
+   "pillar": "P5",
+   "raw": "**H:** WELCOME, MARCH COHORT",
+   "visual": "Same template, March photo",
+   "caption_ig": "Welcome to our March 2027 cohort! 🎉",
+   "h": "WELCOME, MARCH COHORT"
+  },
+  {
+   "id": "S10",
+   "pillar": "P5",
+   "raw": "**H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Starts end of March · In person in Kuwait · Online option outside Kuwait · **Tag:** Deadline {{MAR_DEADLINE}}",
+   "visual": "Same as S01 with \"MAR\" block",
+   "caption_ig": "Missed January? Our next MAED cohort starts at the end of March 🗓️ Applications are open now. Link in bio.",
+   "h": "MARCH COHORT · APPLICATIONS OPEN",
+   "sub": "Starts end of March · In person in Kuwait · Online option outside Kuwait",
+   "tag": "Deadline {{MAR_DEADLINE}}"
+  },
+  {
+   "id": "S11",
+   "pillar": "P5",
+   "raw": "**H:** HAPPY NATIONAL DAY, KUWAIT · **Sub:** Proud to learn and grow here. · **Tag:** 25–26 February",
+   "visual": "Elegant cream/indigo with a subtle Kuwait flag colour accent strip; no political imagery",
+   "caption_ig": "Happy National and Liberation Day, Kuwait 🇰🇼 Proud to learn, teach and grow here.",
+   "h": "HAPPY NATIONAL DAY, KUWAIT",
+   "sub": "Proud to learn and grow here.",
+   "tag": "25–26 February"
+  },
+  {
+   "id": "S12",
+   "pillar": "P5",
+   "raw": "**H:** RAMADAN KAREEM · **Sub:** Wishing you a month of reflection, peace and growth.",
+   "visual": "Deep indigo, line-art crescent and lantern, gold-free (stay on brand)",
+   "caption_ig": "Ramadan Kareem from the Professional Learning Institute 🌙 Our team is available for evening calls this month.",
+   "h": "RAMADAN KAREEM",
+   "sub": "Wishing you a month of reflection, peace and growth."
+  },
+  {
+   "id": "S13",
+   "pillar": "P5",
+   "raw": "**H:** EID MUBARAK · **Sub:** From all of us at the Professional Learning Institute.",
+   "visual": "Cream, festive but on-brand",
+   "caption_ig": "Eid Mubarak! Wishing you and your families joy and peace ✨",
+   "h": "EID MUBARAK",
+   "sub": "From all of us at the Professional Learning Institute."
+  },
+  {
+   "id": "S14",
+   "pillar": "P5",
+   "raw": "**H:** FINAL WEEK · **Sub:** March cohort applications close {{MAR_DEADLINE}}",
+   "visual": "Same as S05",
+   "caption_ig": "⏳ One week left for the March cohort. Link in bio.",
+   "h": "FINAL WEEK",
+   "sub": "March cohort applications close {{MAR_DEADLINE}}"
+  },
+  {
+   "id": "S15",
+   "pillar": "P5",
+   "raw": "**H:** LAST DAY TO APPLY · **Sub:** March cohort · {{MAR_DEADLINE}}",
+   "visual": "Same as S06",
+   "caption_ig": "Today's the day ⏰ March cohort applications close tonight.",
+   "h": "LAST DAY TO APPLY",
+   "sub": "March cohort · {{MAR_DEADLINE}}"
+  },
+  {
+   "id": "S16",
+   "pillar": "P4",
+   "raw": "**H:** WHAT'S ONE THING YOU WANT TO MASTER THIS YEAR?",
+   "visual": "Big question mark (like the existing \"?\" post), cream",
+   "caption_ig": "Tell us in the comments 👇 We read every one. #TeacherPD #GrowWhereYouTeach",
+   "h": "WHAT'S ONE THING YOU WANT TO MASTER THIS YEAR?"
+  },
+  {
+   "id": "S17",
+   "pillar": "P1",
+   "raw": "**H:** WHERE IT ENDS · **Sub:** Cap. Gown. Saint Mary's University of Minnesota. · **Tag:** Your story could be next.",
+   "visual": "Best real graduation group photo, full-bleed with indigo gradient",
+   "caption_ig": "Throwback to graduation day 🎓 Every one of these graduates started with one decision. Your story could be next.",
+   "h": "WHERE IT ENDS",
+   "sub": "Cap. Gown. Saint Mary's University of Minnesota.",
+   "tag": "Your story could be next."
+  },
+  {
+   "id": "S18",
+   "pillar": "P3",
+   "raw": "**H:** FROM 222.22 KD / MONTH · **Sub:** Saint Mary's University of Minnesota MAED · ACA staff rate · **Tag:** External educators: 233.33 KD/month",
+   "visual": "Price-tag card, periwinkle block",
+   "caption_ig": "A US master's degree, one month at a time 💳 DM \"PLAN\" for your payment plan.",
+   "h": "FROM 222.22 KD / MONTH",
+   "sub": "Saint Mary's University of Minnesota MAED · ACA staff rate",
+   "tag": "External educators: 233.33 KD/month"
+  },
+  {
+   "id": "S19",
+   "pillar": "P5",
+   "raw": "**H:** NEW YEAR. NEXT DEGREE. · **Sub:** Happy 2027 from the Professional Learning Institute.",
+   "visual": "Cream, confetti in brand colours",
+   "caption_ig": "Happy New Year! ✨ Here's to growing where you teach in 2027.",
+   "h": "NEW YEAR. NEXT DEGREE.",
+   "sub": "Happy 2027 from the Professional Learning Institute."
+  }
+ ],
+ "linkedin": [
+  {
+   "id": "L01",
+   "title": "The staff-room secret",
+   "when": "Week 1",
+   "text": "When people ask me who joins our Master of Arts in Education, I give an answer that surprises them.\n\nMore than 6 in 10 of our past students were ACA educators.\n\nThey taught full days. They planned, marked, ran clubs and parent meetings. And every week, they came to class to work toward a Saint Mary's University of Minnesota degree.\n\nThat tells me two things. First, the programme works around a real teaching schedule. Second, the best advertisement for professional learning is a colleague who has done it.\n\nIf you've been thinking about a master's, ask someone in your staff room who has done it. Then ask me anything.\n\nOur January 2027 cohort is open → {{APPLY_LINK}}\n\n#ProfessionalLearning #MAEd #TeachersOfKuwait"
+  },
+  {
+   "id": "L02",
+   "title": "What I learned from our cohorts",
+   "when": "Week 6",
+   "text": "Three things I've learned from coordinating our MAED cohorts:\n\n1. Nobody feels \"ready\". The educators who finish are the ones who start anyway.\n2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.\n3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.\n\nIf one of these sounds like you, our next cohort starts at the end of March.\n→ {{APPLY_LINK}}"
+  },
+  {
+   "id": "L03",
+   "title": "Why we price it monthly",
+   "when": "Week 12",
+   "text": "The first question every teacher asks me is \"How much?\"\n\nSo we made the answer simple. The MAED is 4,000 KD for ACA staff, paid as 222.22 KD a month over 18 months. For external educators it's 4,200 KD, or 233.33 KD a month. ACA staff can also apply their PL stipend and signing bonus.\n\nNo lump sum. No surprises. One month at a time.\n\nIf cost has been the thing holding you back, let's sit down and map out your plan.\n→ pli@aca.edu.kw"
+  },
+  {
+   "id": "L04",
+   "title": "For school leaders: grow your team",
+   "when": "Week 16",
+   "text": "A note to principals and heads of department:\n\nSome of the strongest teachers in your building have probably told you they want to \"do a master's one day\".\n\nYou can make \"one day\" this year. Mention the MAED in your next team meeting. Share this post with the colleague you think is ready. More than 6 in 10 of our past students were ACA educators — and many started because a leader encouraged them.\n\nFor leaders with 10+ years of experience, our Executive Leadership Doctorate is also open.\n→ {{APPLY_LINK}}"
+  },
+  {
+   "id": "L05",
+   "title": "Graduate advocacy template",
+   "when": "Week 20 — send to graduates to post themselves",
+   "text": "18 months ago I started the Master of Arts in Education with Saint Mary's University of Minnesota through the Professional Learning Institute — while teaching full-time at {{SCHOOL}}.\n\nWhat changed most for me: {{ONE_THING}}.\n\nIf you're a teacher in Kuwait (or abroad — there's an online option now) and you've been thinking about it, message me or the PLI team. Happy to share my experience.\n\n@Professional Learning Institute #MAEd #GrowWhereYouTeach"
+  },
+  {
+   "id": "L06",
+   "title": "Ask me anything about the Ed.D",
+   "when": "Week 19",
+   "text": "I'm often asked whether a doctorate is realistic for a working school leader.\n\nOur Executive Leadership Doctorate with Saint Mary's University of Minnesota is 39 credits over three years, fully online with a local Kuwait cohort, and has no dissertation. It's designed for professionals with 10 or more years of leadership experience.\n\nThis week I'm keeping my calendar open for 15-minute conversations with leaders who want to explore it. Comment or message me."
+  }
+ ],
+ "stories": [
+  {
+   "id": "ST-LAUNCH",
+   "use": "Week 1, Week 9",
+   "frames": "1) \"Big news 👀\" teaser · 2) \"Applications open: {{COHORT}} cohort\" · 3) Poll sticker: \"Have you ever thought about a master's? Yes / Every year 😅\" · 4) Link sticker \"Ask us\""
+  },
+  {
+   "id": "ST-QBOX",
+   "use": "Weeks 2, 10, 14",
+   "frames": "1) Question sticker: \"Ask us anything about the MAED\" · 2–4) Answers on branded frames (reply to real questions)"
+  },
+  {
+   "id": "ST-QUIZ",
+   "use": "Weeks 3, 11",
+   "frames": "Quiz sticker: \"How long is the MAED? 12 / 18 / 24 months\" → reveal 18 · \"How many of our past students were ACA educators? 3 in 10 / 6 in 10 / 9 in 10\" → reveal 6 in 10"
+  },
+  {
+   "id": "ST-SLIDER",
+   "use": "Weeks 4, 12",
+   "frames": "Emoji slider \"How ready do you feel for a master's?\" → follow-up frame \"Most graduates didn't feel ready either.\""
+  },
+  {
+   "id": "ST-COUNT",
+   "use": "Final 7 days of each cohort",
+   "frames": "Countdown sticker to the deadline · \"7 / 3 / 1 days left\" frames · link sticker"
+  },
+  {
+   "id": "ST-LIVE",
+   "use": "3 days before each Live",
+   "frames": "Countdown sticker + question sticker"
+  },
+  {
+   "id": "ST-RESHARE",
+   "use": "Every feed post",
+   "frames": "Reshare with a \"New post 👆\" label + poll or emoji slider"
+  },
+  {
+   "id": "ST-BTS",
+   "use": "Any class night or SLS",
+   "frames": "Real behind-the-scenes clips from class/SLS (with consent) + \"This could be your Tuesday\" style text (do not name a weekday unless correct)"
+  },
+  {
+   "id": "ST-RAMADAN",
+   "use": "Ramadan weeks",
+   "frames": "Calm frames: \"Evening calls available · message us after 9 pm\""
+  }
+ ],
+ "ads": {
+  "primary_text": [
+   "More than 6 in 10 of our past MAED students were ACA educators. Earn a Saint Mary's University of Minnesota master's in 18 months — in person in Kuwait, pay monthly.",
+   "A US master's degree, built for working teachers in Kuwait. 30 credits · 10 courses · 18 months · from 222.22 KD/month (ACA staff).",
+   "Curriculum & Instruction or Educational Leadership? Earn your Saint Mary's University of Minnesota MAED without pausing your career.",
+   "(Online) Teaching outside Kuwait? Join the Saint Mary's University of Minnesota MAED online — same programme, same degree.",
+   "(Ed.D) 10+ years of leadership? The Executive Leadership Doctorate: 3 years, fully online, no dissertation."
+  ],
+  "headlines": [
+   "Grow Where You Teach",
+   "Your Master's, Monthly",
+   "January Cohort Open",
+   "March Cohort Open",
+   "Study Online, Same Degree",
+   "Lead the Next Chapter"
+  ],
+  "cta_buttons": "Learn More · Sign Up · Apply Now (LinkedIn) · Get Quote / Sign Up (Meta lead forms)",
+  "thank_you": "\"Thank you! Our coordinator will contact you within 1 working day. In the meantime, download the programme guide: {{GUIDE_LINK}}\"",
+  "lead_form_questions": "full name · email · phone/WhatsApp · Are you currently ACA staff? (Yes/No) · Programme (MAED C&I / MAED Educational Leadership / Ed.D / Not sure) · Cohort (January / End of March / Online from outside Kuwait) · Best time for a 15-minute call."
+ },
+ "emails": [
+  {
+   "id": "Staff email #1",
+   "week": "Week 1",
+   "subject": "Grow where you teach: January MAED cohort is open",
+   "body": "Dear colleagues,\n\nDid you know that more than 6 in 10 of our past Master of Arts in Education students were ACA educators?\n\nOur next Saint Mary's University of Minnesota MAED cohort starts in January. It's 30 credits over 18 months, with weekly in-person classes here in Kuwait, and two tracks: Curriculum & Instruction or Educational Leadership.\n\nAs ACA staff you receive the staff rate of 4,000 KD (222.22 KD/month over 18 months), and you can apply your PL stipend and signing bonus toward tuition.\n\nBook a 15-minute chat: {{APPLY_LINK}} or reply to this email.\n\nWarm regards,\nSalwa Sleiman · Professional Learning Institute Coordinator"
+  },
+  {
+   "id": "Staff email #2",
+   "week": "Week 5",
+   "subject": "Final week for the January MAED cohort",
+   "summary": "short reminder + deadline + referral reward."
+  },
+  {
+   "id": "Staff email #3",
+   "week": "Week 9",
+   "subject": "New to ACA? Your signing bonus can fund your master's",
+   "summary": "V14 message in text."
+  },
+  {
+   "id": "Staff email #4",
+   "week": "Week 18",
+   "subject": "Final call: March MAED cohort",
+   "summary": "deadline + \"talk to a graduate ambassador\"."
+  }
+ ],
+ "calendar": [
+  {
+   "week": 1,
+   "dates": "15–21 Nov",
+   "phase": "1 Launch Jan",
+   "linkedin": "S01 · C01 · L01 (Salwa)",
+   "instagram": "V01 · C01 · S01",
+   "stories": "ST-LAUNCH",
+   "offplatform": "Staff email #1 · principals' briefing · posters · start LI-1, LI-2, META-1"
+  },
+  {
+   "week": 2,
+   "dates": "22–28 Nov",
+   "phase": "1",
+   "linkedin": "V01 · C02 · S02",
+   "instagram": "V02 · C02 · S02",
+   "stories": "ST-QBOX",
+   "offplatform": "Recruit ambassadors · ST-RESHARE"
+  },
+  {
+   "week": 3,
+   "dates": "29 Nov–5 Dec",
+   "phase": "1",
+   "linkedin": "V02 · C04 · S04a (Live #1 announce)",
+   "instagram": "V03 · C04 · S04a",
+   "stories": "ST-QUIZ",
+   "offplatform": "Start LI-RT, META-2 retargeting"
+  },
+  {
+   "week": 4,
+   "dates": "6–12 Dec",
+   "phase": "1",
+   "linkedin": "V03 · C06 · S03a",
+   "instagram": "V08 · C06 · S03a",
+   "stories": "ST-LIVE (Sun–Tue)",
+   "offplatform": "Live #1: Wed 9 Dec, 19:30"
+  },
+  {
+   "week": 5,
+   "dates": "13–19 Dec",
+   "phase": "2 Close Jan",
+   "linkedin": "V10 · C07 · S05",
+   "instagram": "V10 · C07 · S05",
+   "stories": "ST-COUNT",
+   "offplatform": "Staff email #2 · budget +30%"
+  },
+  {
+   "week": 6,
+   "dates": "20–26 Dec",
+   "phase": "2",
+   "linkedin": "S06 (deadline day) · C14 · L02 (Salwa)",
+   "instagram": "S06 · C14 · S17",
+   "stories": "ST-COUNT (last day) → ST-QBOX \"Missed it? March is next\"",
+   "offplatform": "Pause Jan ads after deadline; keep retargeting"
+  },
+  {
+   "week": 7,
+   "dates": "27 Dec–2 Jan",
+   "phase": "3 New year + Ed.D",
+   "linkedin": "C15 · V04 · S19 (Wed 30 Dec)",
+   "instagram": "V04 · C15 · S19 (Thu 31 Dec)",
+   "stories": "ST-SLIDER",
+   "offplatform": "Start LI-3 (Ed.D, always-on)"
+  },
+  {
+   "week": 8,
+   "dates": "3–9 Jan",
+   "phase": "3 Jan cohort starts",
+   "linkedin": "S09 (after first class) · C03 · S07",
+   "instagram": "S09 · C03 · V11",
+   "stories": "ST-BTS (first class, consent)",
+   "offplatform": "—"
+  },
+  {
+   "week": 9,
+   "dates": "10–16 Jan",
+   "phase": "4 Launch March",
+   "linkedin": "S10 · V11 · V14",
+   "instagram": "S10 · V14 · C05",
+   "stories": "ST-LAUNCH (March)",
+   "offplatform": "Staff email #3 + HR new-hire pack · restart LI-1, LI-2, META-1 for March"
+  },
+  {
+   "week": 10,
+   "dates": "17–23 Jan",
+   "phase": "4",
+   "linkedin": "C05 · V06 · S04b (Live #2 announce)",
+   "instagram": "V06 · C11 · S04b",
+   "stories": "ST-QBOX",
+   "offplatform": "—"
+  },
+  {
+   "week": 11,
+   "dates": "24–30 Jan",
+   "phase": "4",
+   "linkedin": "S08 (Sun 24 Jan) · C08 · S03b",
+   "instagram": "S08 · C08 · S03b",
+   "stories": "ST-LIVE · ST-QUIZ",
+   "offplatform": "Live #2: Wed 27 Jan, 19:30"
+  },
+  {
+   "week": 12,
+   "dates": "31 Jan–6 Feb",
+   "phase": "4",
+   "linkedin": "V07 · C13 · L03 (Salwa)",
+   "instagram": "V07 · C13 · V05",
+   "stories": "ST-SLIDER",
+   "offplatform": "Start LI-4, META-3 (online, GCC) · ACA alumni email (if approved)"
+  },
+  {
+   "week": 13,
+   "dates": "7–13 Feb",
+   "phase": "5 Ramadan begins (≈Mon 8 Feb)",
+   "linkedin": "S12 (Mon 8 Feb) · C09 · V09",
+   "instagram": "S12 (Sun 7 Feb night, after official announcement) · C09 · V12",
+   "stories": "ST-RAMADAN",
+   "offplatform": "Switch to Ramadan posting times"
+  },
+  {
+   "week": 14,
+   "dates": "14–20 Feb",
+   "phase": "5",
+   "linkedin": "S04c (Live #3 announce) · C10 · V08",
+   "instagram": "S04c · C10 · V09",
+   "stories": "ST-LIVE · ST-QBOX",
+   "offplatform": "Live #3: Wed 17 Feb, 21:30"
+  },
+  {
+   "week": 15,
+   "dates": "21–27 Feb",
+   "phase": "5 National Day",
+   "linkedin": "V12 · C11 · S11 (Wed 24 Feb)",
+   "instagram": "S03c · V03b · S11 (Thu 25 Feb)",
+   "stories": "ST-SLIDER",
+   "offplatform": "—"
+  },
+  {
+   "week": 16,
+   "dates": "28 Feb–6 Mar",
+   "phase": "5",
+   "linkedin": "V05 · C04b · L04 (Salwa)",
+   "instagram": "V01b · C04b · S16",
+   "stories": "ST-QUIZ",
+   "offplatform": "Principals reminder (L04 angle)"
+  },
+  {
+   "week": 17,
+   "dates": "7–13 Mar",
+   "phase": "5 Eid (≈Tue 9 / Wed 10 Mar)",
+   "linkedin": "C07b · S13 (Eid day) · —",
+   "instagram": "C07b · S13 (Eid day) · —",
+   "stories": "Eid greeting frames",
+   "offplatform": "Light week (holiday)"
+  },
+  {
+   "week": 18,
+   "dates": "14–20 Mar",
+   "phase": "6 Close March",
+   "linkedin": "S14 · V13 · C09b",
+   "instagram": "S14 · V13 · S03d",
+   "stories": "ST-COUNT",
+   "offplatform": "Staff email #4 · budget +30%"
+  },
+  {
+   "week": 19,
+   "dates": "21–27 Mar",
+   "phase": "6",
+   "linkedin": "S15 (deadline day, Sun 21 Mar) · L06 (Salwa) · S03d",
+   "instagram": "S15 · S18 · S07",
+   "stories": "ST-COUNT (last day)",
+   "offplatform": "Pause March ads after deadline; Ed.D stays on"
+  },
+  {
+   "week": 20,
+   "dates": "28 Mar–3 Apr",
+   "phase": "7 Welcome March",
+   "linkedin": "S09b (after first class) · L05 (graduates post) · S03c",
+   "instagram": "S09b · C12 or C03 · S03e",
+   "stories": "ST-BTS",
+   "offplatform": "Send L05 template to graduates · campaign report"
+  }
+ ],
+ "poster_spec": "Staff-room poster (A3, 2 versions): \"6 IN 10 of our past MAED students were ACA educators. Your turn.\" + QR to {{APPLY_LINK}}?utm_source=poster · Version 2 for March.",
+ "guide_spec": "Programme guide (2-page PDF, lead magnet for \"Comment MAED\"): Page 1: MAED overview, tracks, structure, format, accreditation, pricing, referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the approved recognition wording), how to apply, contacts.",
+ "calendar_notes": [
+  "Floating asset: C12 (Saturday Learning Series recap) is posted the Tuesday after any SLS session; it replaces that week's Tuesday carousel on both platforms, or is added as an extra post.",
+  "If deadlines change: move the \"close\" weeks (5–6 and 18–19) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day."
+ ],
+ "bio_instagram": "Professional Learning Institute · ACA Kuwait\nSaint Mary's University of Minnesota MAED & Ed.D\nPay monthly · Next cohorts: Jan & Mar\n👇 Ask us",
+ "highlights": [
+  "MAED",
+  "Ed.D",
+  "Fees",
+  "FAQ",
+  "Grads",
+  "Series",
+  "Apply"
+ ],
+ "linkedin_tagline": "Saint Mary's University of Minnesota MAED and Ed.D, delivered in Kuwait for working educators. Next cohorts: January and March 2027."
+}

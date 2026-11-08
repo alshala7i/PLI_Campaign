@@ -1,0 +1,26 @@
+{
+  "name": "pli-campaign",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.63.0",
+    "qrcode": "^1.5.4"
+  },
+  "scripts": {
+    "posts": "node src/posts.js",
+    "carousels": "node src/carousels.js",
+    "stories": "node src/extras.js",
+    "extras": "node src/extras.js",
+    "videos": "node src/video/render.js V01,V01b,V02,V03,V03b,V04,V05,V06,V07,V08,V09,V10,V11,V12,V13,V14 eric,sarah",
+    "music": "python3 tools/music_bed.py assets/music/bed.wav",
+    "calendar": "node src/kit.js",
+    "qa": "node src/kit.js",
+    "plan": "node src/plan_pdf.js",
+    "preview": "node src/site.js",
+    "parse": "python3 tools/parse_plan.py PLI_Marketing_Plan.md content/content.json",
+    "all": "npm run posts && npm run carousels && npm run extras && npm run videos && npm run calendar && npm run plan && npm run preview",
+    "final": "node tools/final_check.js && npm run all"
+  }
+}
