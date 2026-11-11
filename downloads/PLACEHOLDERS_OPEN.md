@@ -28,9 +28,10 @@ Confirm each item with PLI, then update `config/placeholders.json` and re-render
 | MAR_DEADLINE | March cohort application deadline | Fri 5 Mar 2027 |
 | MAR_DEADLINE_SPOKEN | Deadline as spoken in V13 | Friday, March fifth |
 | MAR_START | March cohort first class | Mon 15 Mar 2027 |
-| EDD_EXTERNAL_PRICE | Ed.D price for non-ACA applicants | Same as ACA staff: 14,760 KD (410 KD × 36 or 307.50 KD × 48) |
+| EDD_EXTERNAL_PRICE | Ed.D price for non-ACA applicants | Same fees as ACA staff (in the private price sheet, shared by email) |
 | APPLICATION_STEPS | Real application steps and document checklist | Applicant fills in the form; PLI contacts them with the steps for their degree (US or non-US) |
 | RECOGNITION_WORDING | Kuwait recognition wording (V09, C07, guide) — PLI/HR approval | HR-approved, word for word: expatriate teachers and Kuwaiti citizens versions (plan 1.11) |
 | REFERRAL_TERMS | Referral terms in writing | Refer 2 who enroll and complete their courses → final payment waived · Refer 4 who register and continue → last 2 payments waived |
+| PRICES_PUBLIC | Fees in public content | None: Saint Mary's shares fees by email only (Dr. Claire via Salwa, 11 Nov 2026) |
 
 Also to collect: TARGET_ENROLMENTS, TARGET_APPS, TARGET_LEADS (KPIs) · SLS_TOPIC / SLS_SPEAKER / TAKEAWAY_1–3 / NEXT_SLS_DATE (C12) · SCHOOL / ONE_THING (L05 graduate template) · official logo files and brand fonts.

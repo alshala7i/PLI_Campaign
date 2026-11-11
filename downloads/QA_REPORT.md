@@ -1,10 +1,10 @@
 # QA report — PLI “Grow Where You Teach” kit
 
-Generated 2026-11-11T10:13Z with مصنع المحتوى (Content Factory).
+Generated 2026-11-11T11:37Z with مصنع المحتوى (Content Factory).
 
 ## Copy checks
 
-- Prices outside the allowed list: ✅ none
+- Fee figures (KD) in public copy: ✅ none
 - Forbidden words: ✅ none
 - “Salary” outside the HR-approved Kuwaiti-citizens sentence: ✅ none
 - University named without “of Minnesota” somewhere in the asset: ✅ none
@@ -23,8 +23,8 @@ Generated 2026-11-11T10:13Z with مصنع المحتوى (Content Factory).
 | V01 | sarah | ✅ | 30.9s | -16.6 | -1.5 |
 | V02 | eric | ✅ | 34.5s | -16.7 | -1.4 |
 | V02 | sarah | ✅ | 35.3s | -16.5 | -1.5 |
-| V03 | eric | ✅ | 32.5s | -16.7 | -1.5 |
-| V03 | sarah | ✅ | 33.1s | -16.5 | -1.5 |
+| V03 | eric | ✅ | 24.1s | -16.7 | -1.5 |
+| V03 | sarah | ✅ | 24.6s | -16.6 | -1.5 |
 | V04 | eric | ✅ | 28.7s | -16.7 | -1.5 |
 | V04 | sarah | ✅ | 28.8s | -16.6 | -1.5 |
 | V05 | eric | ✅ | 26.0s | -16.3 | -1.5 |
@@ -43,14 +43,14 @@ Generated 2026-11-11T10:13Z with مصنع المحتوى (Content Factory).
 | V11 | sarah | ✅ | 20.1s | -16.4 | -1.5 |
 | V12 | eric | ✅ | 21.3s | -16.7 | -1.4 |
 | V12 | sarah | ✅ | 22.6s | -16.4 | -1.5 |
-| V13 | eric | ✅ | 22.6s | -16.7 | -1.5 |
-| V13 | sarah | ✅ | 24.0s | -16.8 | -1.5 |
+| V13 | eric | ✅ | 20.5s | -16.9 | -1.4 |
+| V13 | sarah | ✅ | 21.1s | -16.7 | -1.5 |
 | V14 | eric | ✅ | 25.7s | -16.7 | -1.4 |
-| V14 | sarah | ✅ | 26.5s | -16.4 | -1.5 |
+| V14 | sarah | ✅ | 26.5s | -16.4 | -1.4 |
 | V01b | eric | ✅ | 30.9s | -16.6 | -1.5 |
 | V01b | sarah | ✅ | 31.5s | -16.5 | -1.5 |
-| V03b | eric | ✅ | 32.5s | -16.7 | -1.5 |
-| V03b | sarah | ✅ | 33.1s | -16.5 | -1.5 |
+| V03b | eric | ✅ | 24.1s | -16.7 | -1.5 |
+| V03b | sarah | ✅ | 24.6s | -16.6 | -1.5 |
 
 - Captions: burned in from ElevenLabs word timestamps (scene changes anchored to the spoken words); `.srt` beside every video.
 - Music: an original bed synthesised for this kit (tools/music_bed.py) — no third-party samples, no licence needed.
@@ -59,7 +59,7 @@ Generated 2026-11-11T10:13Z with مصنع المحتوى (Content Factory).
 
 ## Calendar
 
-- Rows: 177 (LinkedIn page 53 · Salwa personal 6 · Instagram 59 · Facebook 59)
+- Rows: 182 (LinkedIn page 54 · Salwa personal 6 · Instagram 61 · Facebook 61)
 - Week-start Sundays: 2026-11-15 … 2027-03-28 (20 weeks) ✅
 - Rows whose file is missing: ✅ none
 - Rows without caption: ✅ none

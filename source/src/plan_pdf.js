@@ -392,7 +392,7 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 const PHL = Object.entries(L.PH).filter(([k]) => !/SPOKEN/.test(k));
 pages.push(pg(n++, `${kick('Before publishing')}<h1>What we need from PLI.</h1>
 <p class="lead">Confirmed by PLI on 11 November 2026 where marked. Open items must be confirmed before they go live; captions keep a visible [placeholder] where the form link is needed. HR reviews the final captions, scripts and posts before publishing.</p>
-<table><tr><th style="width:42%">Item</th><th>Proposed value</th><th style="width:16%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
+<table class="cal" style="font-size:7pt"><tr><th style="width:40%">Item</th><th>Value</th><th style="width:14%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
 
 pages.push(pg(n++, `${kick('Making it happen')}<h1>How to run it, week by week.</h1>
 <div class="grid2" style="align-items:start">
