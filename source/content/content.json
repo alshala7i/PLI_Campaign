@@ -117,7 +117,7 @@
    "id": "V03",
    "title": "The math",
    "meta": "P3 · 35–40 s; `V03b` = March end card",
-   "vo": "Let's talk numbers.\nFor ACA staff, the master's is four thousand Kuwaiti dinars. Spread over eighteen months, that's about two hundred and twenty-two dinars a month.\nNot at ACA? It's four thousand two hundred, about two hundred and thirty-three a month.\nACA staff can also put their professional learning stipend and signing bonus toward tuition.\nAnd when colleagues you refer register, your final payments can be waived.\nA master's degree, one month at a time.\nAsk us for your personal payment plan.",
+   "vo": "Let's talk numbers.\nFor ACA staff, the master's is four thousand Kuwaiti dinars. Spread over eighteen months, that's about two hundred and twenty-two dinars a month.\nNot at ACA? It's four thousand two hundred, about two hundred and thirty-three a month.\nACA staff can also put their professional learning stipend and signing bonus toward tuition.\nAnd when colleagues you refer enroll, your final payments can be waived.\nA master's degree, one month at a time.\nAsk us for your personal payment plan.",
    "scenes": [
     {
      "n": 1,
@@ -212,7 +212,7 @@
      "n": 7,
      "time": "30–35 s",
      "text": "410 KD/month × 36 · or 307.50 KD/month × 48",
-     "visual": "Two options cards (add \"for staff\" until external price confirmed)"
+     "visual": "Two options cards (same price for ACA staff and external applicants)"
     },
     {
      "n": 8,
@@ -277,7 +277,7 @@
    "id": "V06",
    "title": "Bring your people",
    "meta": "referral)  (P3 · 30 s",
-   "vo": "A master's is better with friends.\nHere's our referral reward.\nRefer two people who register, and your final payment is waived.\nRefer four who register and continue, and your last two payments are waived.\nBring your teaching partner. Your grade-level team. That friend who keeps saying \"one day\".\nMake it this cohort.\nTerms apply. Ask us for details.",
+   "vo": "A master's is better with friends.\nHere's our referral reward.\nRefer two people who enroll and complete their courses, and your final payment is waived.\nRefer four who register and continue, and your last two payments are waived.\nBring your teaching partner. Your grade-level team. That friend who keeps saying \"one day\".\nMake it this cohort.\nTerms apply. Ask us for details.",
    "scenes": [
     {
      "n": 1,
@@ -288,7 +288,7 @@
     {
      "n": 2,
      "time": "3–10 s",
-     "text": "REFER 2 WHO REGISTER → FINAL PAYMENT WAIVED",
+     "text": "REFER 2 WHO ENROLL & COMPLETE → FINAL PAYMENT WAIVED",
      "visual": "18 payment blocks; last block flips to \"WAIVED\""
     },
     {
@@ -310,8 +310,8 @@
      "visual": "End card"
     }
    ],
-   "caption_ig": "Tag the colleague you'd do your master's with 👇\nRefer 2 who register → your final payment is waived.\nRefer 4 who register and continue → your last 2 payments are waived.\nTerms apply — DM us for details.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #TeacherFriends #ProfessionalLearningInstitute",
-   "caption_li": "Professional growth is easier as a team. PLI's referral reward: refer 2 educators who register and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}",
+   "caption_ig": "Tag the colleague you'd do your master's with 👇\nRefer 2 who enroll and complete their courses → your final payment is waived.\nRefer 4 who register and continue → your last 2 payments are waived.\nTerms apply — DM us for details.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #TeacherFriends #ProfessionalLearningInstitute",
+   "caption_li": "Professional growth is easier as a team. PLI's referral reward: refer 2 educators who enroll and complete their courses and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}",
    "pillar": "P3"
   },
   {
@@ -405,8 +405,8 @@
   {
    "id": "V09",
    "title": "Is it accredited? Straight answers.",
-   "meta": "P4 · 35–40 s · **needs PLI/HR wording approval**",
-   "vo": "Is it accredited? Here's the straight answer.\nSaint Mary's University of Minnesota is accredited in the United States by the Higher Learning Commission.\nIn Kuwait, the degree is recognized by the Ministry of Education as part of work-permit approval.\nIf you're a Kuwaiti citizen asking about the public-sector salary scale, talk to us first. We'll give you the full picture before you apply.\nNo fine print. Just answers.",
+   "meta": "P4 · 40–45 s · **Kuwait wording approved by HR, word for word**",
+   "vo": "Is it accredited? Here's the straight answer.\nSaint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.\nFor expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.\nFor Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.\nQuestions? Ask us anything.",
    "scenes": [
     {
      "n": 1,
@@ -416,31 +416,31 @@
     },
     {
      "n": 2,
-     "time": "4–13 s",
-     "text": "✔ Accredited in the US by the Higher Learning Commission",
+     "time": "4–11 s",
+     "text": "✔ Accredited by the Higher Learning Commission in the United States",
      "visual": "Shield + check"
     },
     {
      "n": 3,
-     "time": "13–21 s",
-     "text": "✔ Recognized by Kuwait's Ministry of Education for work-permit approval",
-     "visual": "Second check"
+     "time": "11–24 s",
+     "text": "EXPATRIATE TEACHERS · Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.",
+     "visual": "Calm text card"
     },
     {
      "n": 4,
-     "time": "21–31 s",
-     "text": "Kuwaiti citizen? Ask us about the salary scale before you apply.",
+     "time": "24–38 s",
+     "text": "KUWAITI CITIZENS · Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.",
      "visual": "Periwinkle note card, calm"
     },
     {
      "n": 5,
-     "time": "31–37 s",
-     "text": "NO FINE PRINT. JUST ANSWERS.",
-     "visual": "End card \"Ask us anything\""
+     "time": "38–42 s",
+     "text": "QUESTIONS? ASK US ANYTHING.",
+     "visual": "End card"
     }
    ],
-   "caption_ig": "\"Is it accredited?\" — the question we get most. Straight answers:\n✔ Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.\n✔ In Kuwait, the degree is recognized by the Ministry of Education as part of work-permit approval.\nKuwaiti citizens: please talk to us about the public-sector salary scale before applying — we'll give you the full picture.\n#ProfessionalLearningInstitute #MAEd #SaintMarysUniversity #TeachersOfKuwait",
-   "caption_li": "Transparency matters when choosing a degree. Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission, and in Kuwait the degree is recognized by the Ministry of Education as part of work-permit approval. Kuwaiti citizens considering the public-sector salary scale: please speak to us first. → pli@aca.edu.kw",
+   "caption_ig": "\"Is it accredited?\" — the question we get most. Straight answers:\n✔ Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.\nExpatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.\nKuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.\n#ProfessionalLearningInstitute #MAEd #SaintMarysUniversity #TeachersOfKuwait",
+   "caption_li": "Transparency matters when choosing a degree. Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States. For expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application. For Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling. Questions? → pli@aca.edu.kw",
    "pillar": "P4"
   },
   {
@@ -488,7 +488,7 @@
    "id": "V11",
    "title": "Welcome, January cohort. March is next.",
    "meta": "P5 · 25–30 s",
-   "vo": "This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.\nWelcome to the January cohort.\nMissed it? The next cohort starts at the end of March.\nSame programme. Same support. Same monthly plan.\nApplications for March are open now.",
+   "vo": "This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.\nWelcome to the January cohort.\nMissed it? The next cohort starts on March fifteenth.\nSame programme. Same support. Same monthly plan.\nApplications for March are open now.",
    "scenes": [
     {
      "n": 1,
@@ -511,7 +511,7 @@
     {
      "n": 4,
      "time": "17–23 s",
-     "text": "NEXT COHORT: END OF MARCH",
+     "text": "NEXT COHORT: 15 MARCH",
      "visual": "Periwinkle date block \"MAR\""
     },
     {
@@ -521,8 +521,8 @@
      "visual": "End card \"Applications open\""
     }
    ],
-   "caption_ig": "Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.\nMissed this one? Our next cohort starts at the end of March — applications are open now.\n#GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute",
-   "caption_li": "A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the end-of-March cohort are now open → {{APPLY_LINK}}",
+   "caption_ig": "Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.\nMissed this one? Our next cohort starts on 15 March — applications are open now.\n#GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute",
+   "caption_li": "A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → {{APPLY_LINK}}",
    "pillar": "P5"
   },
   {
@@ -604,7 +604,7 @@
     }
    ],
    "caption_ig": "Final call 📣 March cohort applications close {{MAR_DEADLINE}}.\n18 months from now, be the one who did it. Link in bio.\n#GrowWhereYouTeach #MAEd #TeachersOfKuwait #FinalCall",
-   "caption_li": "Final call: applications for PLI's end-of-March MAED cohort close {{MAR_DEADLINE}}. → {{APPLY_LINK}}",
+   "caption_li": "Final call: applications for PLI's March MAED cohort close {{MAR_DEADLINE}}. → {{APPLY_LINK}}",
    "pillar": "P5"
   },
   {
@@ -686,7 +686,7 @@
     "**The format** · In person in Kuwait, every week · Online option for learners outside Kuwait",
     "**Accreditation** · Accredited in the US by the Higher Learning Commission",
     "**The investment** · ACA staff: 4,000 KD (222.22 KD/month × 18) · External: 4,200 KD (233.33 KD/month × 18)",
-    "**Next cohorts: January & end of March** · Link in bio · pli@aca.edu.kw"
+    "**Next cohorts: January & March** · Link in bio · pli@aca.edu.kw"
    ],
    "caption_ig": "Everything you need to know about the MAED, on 8 slides. Save it 📌 · Next cohort: January. #MAEd #MastersInEducation #TeachersOfKuwait #GrowWhereYouTeach",
    "caption_li": "The Saint Mary's University of Minnesota MAED at a glance — tracks, structure, format, accreditation and investment in one document. January cohort → {{APPLY_LINK}}",
@@ -702,7 +702,7 @@
     "**The structure** · 39 credits · 3 years",
     "**The format** · Fully online · With a local cohort in Kuwait for collaboration",
     "**No dissertation.**",
-    "**The investment** · About 14,760 KD · 410 KD/month over 36 months, or 307.50 KD/month over 48 months *(staff pricing — external price on request until confirmed)*",
+    "**The investment** · 14,760 KD · 410 KD/month over 36 months, or 307.50 KD/month over 48 months · Same price for ACA staff and external applicants",
     "**Let's talk** · Book a conversation: pli@aca.edu.kw · {{APPLY_LINK}}"
    ],
    "caption_ig": "The doctorate built for experienced school leaders — online, 3 years, no dissertation. Swipe 👉 #EdD #SchoolLeaders #EducationalLeadership #ProfessionalLearningInstitute",
@@ -718,7 +718,7 @@
     "**ACA staff** · 4,000 KD ÷ 18 months = **222.22 KD/month**",
     "**External educators** · 4,200 KD ÷ 18 months = **233.33 KD/month**",
     "**ACA staff boosters** · Use your professional learning (PL) stipend · Use your signing bonus",
-    "**Referral reward** · Refer 2 who register → final payment waived · Refer 4 who register and continue → last 2 payments waived *(terms apply)*",
+    "**Referral reward** · Refer 2 who enroll and complete their courses → final payment waived · Refer 4 who register and continue → last 2 payments waived *(terms apply)*",
     "**Thinking bigger? The Ed.D** · 410 KD/month × 36 or 307.50 KD/month × 48",
     "**Get your personal payment plan** · DM \"PLAN\" · pli@aca.edu.kw"
    ],
@@ -732,7 +732,7 @@
    "meta": "P3 · 6 slides",
    "slides": [
     "**BRING YOUR PEOPLE.** We'll waive your last payments.",
-    "**Refer 2** educators who register → your **final payment** is waived.",
+    "**Refer 2** educators who enroll and complete their courses → your **final payment** is waived.",
     "**Refer 4** who register and continue → your **last 2 payments** are waived.",
     "**What that means** · ACA staff MAED: up to 444.44 KD saved · External MAED: up to 466.66 KD saved",
     "**Who to bring** · Your teaching partner · Your grade-level team · Your friend teaching outside Kuwait (online option)",
@@ -762,20 +762,20 @@
   {
    "id": "C07",
    "title": "Straight answers: 8 questions",
-   "meta": "P4 · 9 slides; `C07b` = March CTA · **recognition wording needs approval**",
+   "meta": "P4 · 9 slides; `C07b` = March CTA · **Kuwait wording approved by HR, word for word**",
    "slides": [
     "**STRAIGHT ANSWERS** · 8 questions we hear every week",
     "**Can I study while teaching full-time?** Yes. The MAED is designed for working educators, with weekly in-person classes.",
     "**How long does it take?** 18 months: 30 credits across 10 courses.",
     "**How much is it?** ACA staff 4,000 KD (222.22 KD/month). External 4,200 KD (233.33 KD/month).",
     "**Can ACA staff use PL funds?** Yes — your PL stipend and signing bonus can go toward tuition.",
-    "**Is it accredited?** Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.",
-    "**Is it recognized in Kuwait?** It is recognized by the Ministry of Education as part of work-permit approval. It is not currently recognized by the Civil Service Commission for the public-sector salary scale. Kuwaiti citizens: talk to us before you apply.",
+    "**Is it accredited?** Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.",
+    "**What about working in Kuwait?** Expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application. Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.",
     "**I'm not in Kuwait. Can I join?** Yes — through our online option. Same programme, same degree, same diploma.",
-    "**When is the next cohort?** January and end of March · pli@aca.edu.kw · {{APPLY_LINK}}"
+    "**When is the next cohort?** January and March · pli@aca.edu.kw · {{APPLY_LINK}}"
    ],
    "caption_ig": "The 8 questions we hear most — answered honestly. Got another one? Drop it in the comments 👇 #MAEd #FAQ #TeachersOfKuwait #ProfessionalLearningInstitute",
-   "caption_li": "Before you apply, read this: time, cost, PL funds, accreditation, recognition in Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}",
+   "caption_li": "Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}",
    "pillar": "P4"
   },
   {
@@ -803,9 +803,9 @@
     "**HOW TO APPLY** · 4 simple steps",
     "**Step 1 · Say hello** · Fill in the short form ({{APPLY_LINK}}) or email pli@aca.edu.kw",
     "**Step 2 · 15-minute call** · We'll answer your questions and help you choose a track.",
-    "**Step 3 · Send your documents** · We'll send you the checklist. *({{APPLICATION_STEPS}})*",
+    "**Step 3 · Get your steps** · We'll contact you with the steps for your degree (from the US or elsewhere).",
     "**Step 4 · Choose your plan** · Pick your track and monthly payment plan.",
-    "**Start your cohort** · January / end of March · Deadline: {{JAN_DEADLINE}} / {{MAR_DEADLINE}}"
+    "**Start your cohort** · January / March · Deadline: {{JAN_DEADLINE}} / {{MAR_DEADLINE}}"
    ],
    "caption_ig": "Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach",
    "caption_li": "Four steps from \"I'm interested\" to \"I'm enrolled\". → {{APPLY_LINK}}",
@@ -902,7 +902,7 @@
     "**1. Name one skill** you want to master this year.",
     "**2. Find your people** — learning sticks better in a cohort.",
     "**3. Make it monthly** — big goals feel lighter in small steps.",
-    "**4. Put a date on it** — cohorts start in January and at the end of March.",
+    "**4. Put a date on it** — cohorts start on 4 January and 15 March.",
     "**New year. Next degree.** {{APPLY_LINK}}"
    ],
    "caption_ig": "New year, next step ✨ What's the one skill you want to master in 2027? #NewYearGoals #TeacherPD #GrowWhereYouTeach",
@@ -943,11 +943,11 @@
   {
    "id": "S04a/b/c",
    "pillar": "P4",
-   "raw": "**Live Q&A (template ×3):** **H:** ASK PLI · LIVE · **Sub:** Everything about the MAED & Ed.D — fees, tracks, schedule, recognition · **Tag:** {{LIVE_DATE}} · {{LIVE_TIME}} · Instagram Live @professionallearninginstitute (+ LinkedIn if available)",
+   "raw": "**Live Q&A (template ×3):** **H:** ASK PLI · LIVE · **Sub:** Everything about the MAED & Ed.D — fees, tracks, schedule, accreditation · **Tag:** {{LIVE_DATE}} · {{LIVE_TIME}} · Instagram Live @professionallearninginstitute (+ LinkedIn if available)",
    "visual": "Like the \"Ask Dr. Michael Hahn\" post: host photo cut-out, serif name, date block",
    "caption_ig": "Bring your questions! Join our coordinator {{LIVE_HOST}} live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇",
    "h": "ASK PLI · LIVE",
-   "sub": "Everything about the MAED & Ed.D — fees, tracks, schedule, recognition",
+   "sub": "Everything about the MAED & Ed.D — fees, tracks, schedule, accreditation",
    "tag": "{{LIVE_DATE}} · {{LIVE_TIME}} · Instagram Live @professionallearninginstitute (+ LinkedIn if available)"
   },
   {
@@ -1010,11 +1010,11 @@
   {
    "id": "S10",
    "pillar": "P5",
-   "raw": "**H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Starts end of March · In person in Kuwait · Online option outside Kuwait · **Tag:** Deadline {{MAR_DEADLINE}}",
+   "raw": "**H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Starts 15 March · In person in Kuwait · Online option outside Kuwait · **Tag:** Deadline {{MAR_DEADLINE}}",
    "visual": "Same as S01 with \"MAR\" block",
-   "caption_ig": "Missed January? Our next MAED cohort starts at the end of March 🗓️ Applications are open now. Link in bio.",
+   "caption_ig": "Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.",
    "h": "MARCH COHORT · APPLICATIONS OPEN",
-   "sub": "Starts end of March · In person in Kuwait · Online option outside Kuwait",
+   "sub": "Starts 15 March · In person in Kuwait · Online option outside Kuwait",
    "tag": "Deadline {{MAR_DEADLINE}}"
   },
   {
@@ -1112,7 +1112,7 @@
    "id": "L02",
    "title": "What I learned from our cohorts",
    "when": "Week 6",
-   "text": "Three things I've learned from coordinating our MAED cohorts:\n\n1. Nobody feels \"ready\". The educators who finish are the ones who start anyway.\n2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.\n3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.\n\nIf one of these sounds like you, our next cohort starts at the end of March.\n→ {{APPLY_LINK}}"
+   "text": "Three things I've learned from coordinating our MAED cohorts:\n\n1. Nobody feels \"ready\". The educators who finish are the ones who start anyway.\n2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.\n3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.\n\nIf one of these sounds like you, our next cohort starts on 15 March.\n→ {{APPLY_LINK}}"
   },
   {
    "id": "L03",
@@ -1204,7 +1204,7 @@
   ],
   "cta_buttons": "Learn More · Sign Up · Apply Now (LinkedIn) · Get Quote / Sign Up (Meta lead forms)",
   "thank_you": "\"Thank you! Our coordinator will contact you within 1 working day. In the meantime, download the programme guide: {{GUIDE_LINK}}\"",
-  "lead_form_questions": "full name · email · phone/WhatsApp · Are you currently ACA staff? (Yes/No) · Programme (MAED C&I / MAED Educational Leadership / Ed.D / Not sure) · Cohort (January / End of March / Online from outside Kuwait) · Best time for a 15-minute call."
+  "lead_form_questions": "full name · email · phone/WhatsApp · Are you currently ACA staff? (Yes/No) · Programme (MAED C&I / MAED Educational Leadership / Ed.D / Not sure) · Cohort (January / March / Online from outside Kuwait) · Best time for a 15-minute call."
  },
  "emails": [
   {
@@ -1227,7 +1227,7 @@
   },
   {
    "id": "Staff email #4",
-   "week": "Week 18",
+   "week": "Week 15",
    "subject": "Final call: March MAED cohort",
    "summary": "deadline + \"talk to a graduate ambassador\"."
   }
@@ -1282,8 +1282,8 @@
    "week": 6,
    "dates": "20–26 Dec",
    "phase": "2",
-   "linkedin": "S06 (deadline day) · C14 · L02 (Salwa)",
-   "instagram": "S06 · C14 · S17",
+   "linkedin": "S06 (deadline day, Thu 24 Dec) · C14 · L02 (Salwa)",
+   "instagram": "S06 (deadline day, Thu 24 Dec) · C14 · S17",
    "stories": "ST-COUNT (last day) → ST-QBOX \"Missed it? March is next\"",
    "offplatform": "Pause Jan ads after deadline; keep retargeting"
   },
@@ -1345,8 +1345,8 @@
    "week": 13,
    "dates": "7–13 Feb",
    "phase": "5 Ramadan begins (≈Mon 8 Feb)",
-   "linkedin": "S12 (Mon 8 Feb) · C09 · V09",
-   "instagram": "S12 (Sun 7 Feb night, after official announcement) · C09 · V12",
+   "linkedin": "S12 (Mon 8 Feb) · C09b · V09",
+   "instagram": "S12 (Sun 7 Feb night, after official announcement) · C09b · V12",
    "stories": "ST-RAMADAN",
    "offplatform": "Switch to Ramadan posting times"
   },
@@ -1354,71 +1354,71 @@
    "week": 14,
    "dates": "14–20 Feb",
    "phase": "5",
-   "linkedin": "S04c (Live #3 announce) · C10 · V08",
-   "instagram": "S04c · C10 · V09",
+   "linkedin": "S04c (Live #3 announce) · C04b · L04 (Salwa)",
+   "instagram": "S04c · C04b · V01b",
    "stories": "ST-LIVE · ST-QBOX",
-   "offplatform": "Live #3: Wed 17 Feb, 21:30"
+   "offplatform": "Live #3: Wed 17 Feb, 21:30 · principals reminder (L04 angle)"
   },
   {
    "week": 15,
    "dates": "21–27 Feb",
-   "phase": "5 National Day",
-   "linkedin": "V12 · C11 · S11 (Wed 24 Feb)",
-   "instagram": "S03c · V03b · S11 (Thu 25 Feb)",
-   "stories": "ST-SLIDER",
-   "offplatform": "—"
+   "phase": "6 Close March · National Day",
+   "linkedin": "V12 · C07b · S11 (Wed 24 Feb)",
+   "instagram": "V03b · C07b · S11 (Thu 25 Feb)",
+   "stories": "ST-COUNT",
+   "offplatform": "Staff email #4 · budget +30%"
   },
   {
    "week": 16,
    "dates": "28 Feb–6 Mar",
-   "phase": "5",
-   "linkedin": "V05 · C04b · L04 (Salwa)",
-   "instagram": "V01b · C04b · S16",
-   "stories": "ST-QUIZ",
-   "offplatform": "Principals reminder (L04 angle)"
+   "phase": "6",
+   "linkedin": "S14 · V13 · S15 (deadline day, Fri 5 Mar)",
+   "instagram": "S14 · V13 · S15 (deadline day, Fri 5 Mar)",
+   "stories": "ST-COUNT (last day, Fri 5 Mar)",
+   "offplatform": "Pause March ads after the deadline; Ed.D stays on"
   },
   {
    "week": 17,
    "dates": "7–13 Mar",
-   "phase": "5 Eid (≈Tue 9 / Wed 10 Mar)",
-   "linkedin": "C07b · S13 (Eid day) · —",
-   "instagram": "C07b · S13 (Eid day) · —",
+   "phase": "7 Eid (≈Tue 9 / Wed 10 Mar)",
+   "linkedin": "S13 (Eid day) · L06 (Salwa)",
+   "instagram": "S13 (Eid day) · S16",
    "stories": "Eid greeting frames",
    "offplatform": "Light week (holiday)"
   },
   {
    "week": 18,
    "dates": "14–20 Mar",
-   "phase": "6 Close March",
-   "linkedin": "S14 · V13 · C09b",
-   "instagram": "S14 · V13 · S03d",
-   "stories": "ST-COUNT",
-   "offplatform": "Staff email #4 · budget +30%"
+   "phase": "7 March cohort starts (Mon 15 Mar)",
+   "linkedin": "S09b (after first class) · C10 · S03d",
+   "instagram": "S09b · C10 · S03d",
+   "stories": "ST-BTS (first class, consent)",
+   "offplatform": "—"
   },
   {
    "week": 19,
    "dates": "21–27 Mar",
-   "phase": "6",
-   "linkedin": "S15 (deadline day, Sun 21 Mar) · L06 (Salwa) · S03d",
-   "instagram": "S15 · S18 · S07",
-   "stories": "ST-COUNT (last day)",
-   "offplatform": "Pause March ads after deadline; Ed.D stays on"
+   "phase": "7",
+   "linkedin": "V05 · C11 · V08",
+   "instagram": "V09 · S18 · S07",
+   "stories": "ST-QUIZ",
+   "offplatform": "Ed.D always-on"
   },
   {
    "week": 20,
    "dates": "28 Mar–3 Apr",
-   "phase": "7 Welcome March",
-   "linkedin": "S09b (after first class) · L05 (graduates post) · S03c",
-   "instagram": "S09b · C12 or C03 · S03e",
-   "stories": "ST-BTS",
+   "phase": "7 Always-on",
+   "linkedin": "L05 (graduates post) · S03c · C03",
+   "instagram": "S03c · C12 or C03 · S03e",
+   "stories": "ST-SLIDER",
    "offplatform": "Send L05 template to graduates · campaign report"
   }
  ],
  "poster_spec": "Staff-room poster (A3, 2 versions): \"6 IN 10 of our past MAED students were ACA educators. Your turn.\" + QR to {{APPLY_LINK}}?utm_source=poster · Version 2 for March.",
- "guide_spec": "Programme guide (2-page PDF, lead magnet for \"Comment MAED\"): Page 1: MAED overview, tracks, structure, format, accreditation, pricing, referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the approved recognition wording), how to apply, contacts.",
+ "guide_spec": "Programme guide (2-page PDF, lead magnet for \"Comment MAED\"): Page 1: MAED overview, tracks, structure, format, accreditation, pricing, referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the HR-approved Kuwait wording), how to apply, contacts.",
  "calendar_notes": [
   "Floating asset: C12 (Saturday Learning Series recap) is posted the Tuesday after any SLS session; it replaces that week's Tuesday carousel on both platforms, or is added as an extra post.",
-  "If deadlines change: move the \"close\" weeks (5–6 and 18–19) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day."
+  "If deadlines change: move the \"close\" weeks (5–6 and 15–16) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day."
  ],
  "bio_instagram": "Professional Learning Institute · ACA Kuwait\nSaint Mary's University of Minnesota MAED & Ed.D\nPay monthly · Next cohorts: Jan & Mar\n👇 Ask us",
  "highlights": [

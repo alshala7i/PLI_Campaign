@@ -12,7 +12,7 @@ const tagsOf = (t) => (t.match(/#\w+/g) || []);
 const stripTags = (t) => t.replace(/(\s*#\w+)+\s*$/g, '').trim();
 
 // March variants of captions
-const toMarch = (t) => t.replace(/(^|\n)January 2027 cohort/g, '$1End-of-March 2027 cohort').replace(/January 2027 cohort/g, 'end-of-March 2027 cohort').replace(/January cohort/g, 'March cohort').replace(/Next cohort: January/g, 'Next cohort: end of March');
+const toMarch = (t) => t.replace(/(^|\n)January 2027 cohort/g, '$1March 2027 cohort').replace(/January 2027 cohort/g, 'March 2027 cohort').replace(/January cohort/g, 'March cohort').replace(/Next cohort: January/g, 'Next cohort: March');
 
 function liFromIg(ig) {
   const body = stripTags(ig).split('\n').filter(Boolean).slice(0, 2).join('\n');
@@ -79,6 +79,34 @@ for (const a of assets) {
 }
 fs.writeFileSync(path.join(OUT, 'captions.md'), md);
 
+// ---------- HR review pack (Salwa, Nov 2026: HR reviews final captions, scripts and posts before anything is published)
+{
+  const H = ['# HR review pack — PLI “Grow Where You Teach”', '', `Generated ${new Date().toISOString().slice(0, 10)}. Every caption, video script, on-screen text, post, carousel, LinkedIn post, ad text and staff email in the campaign, in one file.`, '',
+    '## HR checks applied to every asset', '', '- Kuwait wording used word for word, as approved by HR (two versions: expatriate teachers · Kuwaiti citizens). It appears in V09, C07, C07b and the programme guide.',
+    '- Never: “recognized in Kuwait”, “MOHE approved”; anything that says or implies a work permit, promotion or salary adjustment; the Civil Service Commission or the Public Authority for Manpower; any earlier accreditation submission or pending approval.',
+    '- Prices: MAED 4,000 KD (ACA staff, 222.22 KD × 18) · 4,200 KD (external, 233.33 KD × 18) · Ed.D 14,760 KD for everyone (410 KD × 36 or 307.50 KD × 48).',
+    '- Referral: refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply.',
+    '- Deadlines: January cohort Thu 24 Dec 2026 (classes from Mon 4 Jan) · March cohort Fri 5 Mar 2027 (classes from Mon 15 Mar).',
+    '- {{APPLY_LINK}} = the enquiry form Salwa is creating. Graduate spotlights (S03a–e) stay templates until the 4 consenting graduates’ photos and quotes arrive.', ''];
+  const q = (s) => String(s || '').split('\n').map((x) => '> ' + x).join('\n');
+  H.push('## Videos (voice-over script · on-screen text · captions)', '');
+  for (const a of assets.filter((x) => x.kind === 'video')) {
+    const base = C.videos.find((v) => v.id === a.id.replace('b', ''));
+    H.push(`### ${a.id} — ${a.title}`, '', '**Voice-over (spoken and burned in as captions)**', '', q(a.vo), '', '**On-screen text**', '', ...(base.scenes || []).map((s) => `- ${L.ct(s.text)}`), '', '**Instagram / Facebook caption**', '', q(a.caption_ig), '', '**LinkedIn caption**', '', q(a.caption_li), '', '---', '');
+  }
+  H.push('## Carousels (slide text · captions)', '');
+  for (const a of assets.filter((x) => x.kind === 'carousel')) H.push(`### ${a.id} — ${a.title}`, '', ...a.alt.map((s, i) => `${i + 1}. ${s}`), '', '**Instagram / Facebook caption**', '', q(a.caption_ig), '', '**LinkedIn caption**', '', q(a.caption_li), '', '---', '');
+  H.push('## Single posts (image text · caption)', '');
+  for (const a of assets.filter((x) => x.kind === 'post')) H.push(`### ${a.id}${a.template ? ' (template)' : ''}`, '', `**Image text:** ${a.alt}`, '', q(a.caption_ig), '', '---', '');
+  H.push('## LinkedIn posts (Salwa)', '');
+  for (const a of assets.filter((x) => x.kind === 'linkedin')) H.push(`### ${a.id} — ${a.title}`, '', q(a.caption_li), '', '---', '');
+  H.push('## Ads', '', '```', JSON.stringify(C.ads, null, 2), '```', '');
+  const emDir = path.join(OUT, 'assets/extras/emails');
+  if (fs.existsSync(emDir)) { H.push('## Staff emails', ''); for (const f of fs.readdirSync(emDir).sort()) H.push(`### ${f}`, '', '```', fs.readFileSync(path.join(emDir, f), 'utf8').trim(), '```', ''); }
+  H.push('## Instagram bio', '', '```', C.bio_instagram, '```', '', 'Programme guide (2 pages) and staff-room posters: see assets/extras/programme_guide.pdf, poster_jan.pdf and poster_mar.pdf.', '');
+  fs.writeFileSync(path.join(OUT, 'HR_REVIEW_PACK.md'), H.join('\n'));
+}
+
 // ---------- calendar
 const START = new Date(Date.UTC(2026, 10, 15)); // Sun 15 Nov 2026
 const DAY = 86400000;
@@ -95,7 +123,7 @@ function parseCell(cell, wkStart, slot, platform) {
   let t = wkStart + (platform === 'linkedin' ? [0, 2, 3][slot] : [0, 2, 4][slot]) * DAY;
   const dm = note.match(/(Sun|Mon|Tue|Wed|Thu|Fri|Sat) (\d{1,2}) (Jan|Feb|Mar|Apr|Nov|Dec)/);
   if (dm) t = Date.UTC(MON[dm[3]] >= 10 ? 2026 : 2027, MON[dm[3]], +dm[2]);
-  else if (/deadline day/.test(note)) t = id === 'S06' ? Date.UTC(2026, 11, 20) : Date.UTC(2027, 2, 21);
+  else if (/deadline day/.test(note)) t = id === 'S06' ? Date.UTC(2026, 11, 24) : Date.UTC(2027, 2, 5);
   else if (/Eid day/.test(note)) t = EID;
   return { id, alt, note, t };
 }
@@ -160,10 +188,12 @@ function qa() {
   const priceOK = new Set(['4,000', '222.22', '4,200', '233.33', '14,760', '410', '307.50', '444.44', '466.66']);
   const priceIssues = [];
   allCopy.forEach(([id, t]) => { (t.match(/[\d,.]+(?=\s?KD)/g) || []).forEach((p) => { if (!priceOK.has(p)) priceIssues.push(`${id}: ${p} KD`); }); });
-  const forb = ['guarantee', 'promotion', 'salary increase', 'internationally accredited', 'no one will know'];
+  const forb = ['guarantee', 'promotion', 'salary increase', 'internationally accredited', 'no one will know', 'recognized in kuwait', 'recognised in kuwait', 'recognized by', 'mohe', 'work permit', 'work-permit', 'civil service', 'manpower', 'pending', 'submission', 'ministry of education'];
+  // HR (Nov 2026): "salary" only inside the approved Kuwaiti-citizens sentence
+  const KWT_OK = 'eligibility for any salary or career benefits';
   const forbIssues = [];
   allCopy.forEach(([id, t]) => forb.forEach((w) => { if (t.toLowerCase().includes(w)) forbIssues.push(`${id}: “${w}”`); }));
-  const csc = allCopy.filter(([id, t]) => /Civil Service Commission/.test(t)).map(([id]) => id);
+  const csc = allCopy.filter(([id, t]) => /salary/i.test(t.split(KWT_OK).join(''))).map(([id]) => id);
   const uniIssues = allCopy.filter(([id, t]) => /Saint Mary's/.test(t) && !/Saint Mary's University of Minnesota/.test(t)).map(([id]) => id);
   // videos
   const vrows = [];
@@ -184,16 +214,18 @@ function qa() {
   const noAlt = assets.filter((a) => (a.kind === 'post' || a.kind === 'carousel') && !a.alt).map((a) => a.id);
   const sundays = [...new Set(C.calendar.map((w) => fmtD(START.getTime() + (w.week - 1) * 7 * DAY)))];
   lines.push(`# QA report — PLI “Grow Where You Teach” kit`, '', `Generated ${new Date().toISOString().slice(0, 16)}Z with مصنع المحتوى (Content Factory).`, '');
-  lines.push('## Copy checks', '', `- Prices outside the allowed list: ${priceIssues.length ? priceIssues.join(', ') : '✅ none'}`, `- Forbidden words: ${forbIssues.length ? forbIssues.join(', ') : '✅ none'}`, `- “Civil Service Commission” appears only in: ${csc.join(', ') || '—'} (allowed: C07, C07b, V09 FAQ context and the programme guide)`, `- University named without “of Minnesota” somewhere in the asset: ${uniIssues.length ? uniIssues.join(', ') : '✅ none'}`, '- Copy source: content/content.json, transcribed word for word from the plan (Parts 3–4) by tools/parse_plan.py.', '');
+  lines.push('## Copy checks', '', `- Prices outside the allowed list: ${priceIssues.length ? priceIssues.join(', ') : '✅ none'}`, `- Forbidden words: ${forbIssues.length ? forbIssues.join(', ') : '✅ none'}`, `- “Salary” outside the HR-approved Kuwaiti-citizens sentence: ${csc.length ? csc.join(', ') : '✅ none'}`, `- University named without “of Minnesota” somewhere in the asset: ${uniIssues.length ? uniIssues.join(', ') : '✅ none'}`, '- Copy source: content/content.json, transcribed word for word from the plan (Parts 3–4) by tools/parse_plan.py.', '');
   lines.push('## Layout', '', '- Text overflow (Playwright, every `[data-fit]` box): ✅ 0 issues across posts, carousels, stories, covers, posters and guide (last render).', '- Visual review: contact sheets of every asset reviewed during the build; fixes applied (cover sizing, footer wrap, overlaps on S01/S10/S02/poster).', '');
   lines.push('## Videos (target −16 LUFS integrated, true peak ≤ −1 dBTP; 30 fps H.264 + AAC 48 kHz; 9:16 + 4:5)', '', '| Asset | Voice | Files | Duration | LUFS | Peak dBFS |', '|---|---|---|---|---|---|', ...vrows, '', '- Captions: burned in from ElevenLabs word timestamps (scene changes anchored to the spoken words); `.srt` beside every video.', '- Music: an original bed synthesised for this kit (tools/music_bed.py) — no third-party samples, no licence needed.', '- Voices: ElevenLabs (eleven_v4_turbo) · Eric (male) and Sarah (female), chosen by the owner from 6 samples.', '- Duration: the voices speak at their natural pace (≈180 words a minute, as approved in the samples), so V05–V14 run 19–28 s — shorter than the plan’s 25–40 s targets (V01–V04 are on target). For the plan’s 150 wpm, set `speed: 0.85` in src/tts.js and run `npm run videos`.', '');
   lines.push('## Calendar', '', `- Rows: ${calRows.length} (LinkedIn page ${calRows.filter((r) => r.Platform === 'LinkedIn (PLI page)').length} · Salwa personal ${calRows.filter((r) => r.Platform.includes('Salwa')).length} · Instagram ${calRows.filter((r) => r.Platform === 'Instagram').length} · Facebook ${calRows.filter((r) => r.Platform === 'Facebook').length})`, `- Week-start Sundays: ${sundays[0]} … ${sundays[sundays.length - 1]} (${sundays.length} weeks) ✅`, `- Rows whose file is missing: ${missingCal.length ? missingCal.join(', ') : '✅ none'}`, `- Rows without caption: ${noCap.length ? noCap.join(', ') : '✅ none'}`, `- Images without alt text: ${noAlt.length ? noAlt.join(', ') : '✅ none'}`, '');
-  lines.push('## Choices made by the builder (plan 5.5 rule 9)', '', '- Unconfirmed dates are rendered with the plan’s proposed values (e.g. SUN 20 DEC) so assets look final; every one is listed in PLACEHOLDERS_OPEN.md and must be confirmed before publishing.', '- No form link exists yet: visuals say “Link in bio · pli@aca.edu.kw”; captions keep a visible {{APPLY_LINK}} (the kit site replaces it once you type the link). Poster QR codes open an email to pli@aca.edu.kw until the form exists.', '- Graduate spotlights (S03a–e), Saturday Learning Series recap (C12) and story answer frames are templates with magenta placeholders — no invented people or quotes.', '- Welcome posts/videos (S09, S09b, V11) use the PLI class photo from the official PLI page as a stand-in for the first-day cohort photo.', '- Logos: PLI shield (LinkedIn page logo, 200 px — replace with the original file when available), ACA logo and Saint Mary’s logo from the official sites. The positive Saint Mary’s version was produced from the official reverse (white) file by setting the wordmark to ink; please replace with the official full-colour file.', '- Week folders (week-01 … week-20) are presented as sections in the kit site and the calendar instead of duplicated files.', '- Staff emails #2–#4 are drafts expanded from the plan’s one-line summaries; Salwa approves before sending.');
+  lines.push('## Choices made by the builder (plan 5.5 rule 9)', '', '- Deadlines, start dates, prices, referral terms and the Kuwait wording were confirmed by PLI on 11 Nov 2026 (HR-approved Kuwait wording used word for word). Items still open are listed in PLACEHOLDERS_OPEN.md.', '- HR asked to review the final captions, scripts and posts before anything is published: downloads/HR_REVIEW_PACK.md.', '- No form link exists yet: visuals say “Link in bio · pli@aca.edu.kw”; captions keep a visible {{APPLY_LINK}} (the kit site replaces it once you type the link). Poster QR codes open an email to pli@aca.edu.kw until the form exists.', '- Graduate spotlights (S03a–e), Saturday Learning Series recap (C12) and story answer frames are templates with magenta placeholders — no invented people or quotes.', '- Welcome posts/videos (S09, S09b, V11) use the PLI class photo from the official PLI page as a stand-in for the first-day cohort photo.', '- Logos: PLI shield (LinkedIn page logo, 200 px — replace with the original file when available), ACA logo and Saint Mary’s logo from the official sites. The positive Saint Mary’s version was produced from the official reverse (white) file by setting the wordmark to ink; please replace with the official full-colour file.', '- Week folders (week-01 … week-20) are presented as sections in the kit site and the calendar instead of duplicated files.', '- Staff emails #2–#4 are drafts expanded from the plan’s one-line summaries; Salwa approves before sending.');
   fs.writeFileSync(path.join(OUT, 'QA_REPORT.md'), lines.join('\n') + '\n');
   // placeholders
   const ph = ['# Placeholders still open', '', 'Confirm each item with PLI, then update `config/placeholders.json` and re-render (`npm run all`).', '', '| Key | What | Proposed value | Used in |', '|---|---|---|---|'];
   const used = (k) => { const ids = new Set(); const re = new RegExp(`\\{\\{${k.replace('..', '\\.\\.')}`); C.videos.concat(C.carousels).forEach((x) => { if (re.test(JSON.stringify(x))) ids.add(x.id); }); C.posts.forEach((x) => { if (re.test(JSON.stringify(x))) ids.add(x.id); }); C.linkedin.forEach((x) => { if (re.test(x.text)) ids.add(x.id); }); return [...ids].join(', '); };
-  Object.entries(L.PH).forEach(([k, v]) => ph.push(`| ${k} | ${v.what} | ${v.proposed || '—'} | ${used(k) || '—'} |`));
+  Object.entries(L.PH).filter(([, v]) => !v.confirmed).forEach(([k, v]) => ph.push(`| ${k} | ${v.what} | ${v.proposed || '—'} | ${used(k) || '—'} |`));
+  ph.push('', '## Confirmed by PLI (11 Nov 2026)', '', '| Key | What | Confirmed value |', '|---|---|---|');
+  Object.entries(L.PH).filter(([, v]) => v.confirmed).forEach(([k, v]) => ph.push(`| ${k} | ${v.what} | ${v.proposed || v.copy || '—'} |`));
   ph.push('', 'Also to collect: TARGET_ENROLMENTS, TARGET_APPS, TARGET_LEADS (KPIs) · SLS_TOPIC / SLS_SPEAKER / TAKEAWAY_1–3 / NEXT_SLS_DATE (C12) · SCHOOL / ONE_THING (L05 graduate template) · official logo files and brand fonts.');
   fs.writeFileSync(path.join(OUT, 'PLACEHOLDERS_OPEN.md'), ph.join('\n') + '\n');
 }
