@@ -33,9 +33,9 @@ The 62% statistic is the campaign's anchor. It does three jobs at once:
 
 | # | Segment | Share / size | What they need to hear | Main channels |
 |---|---|---|---|---|
-| A | **ACA staff, Kuwait** (teachers, coordinators, TAs with degrees) | ~62% of past students; the core | Your colleagues did it · staff rate 4,000 KD (222.22 KD/month) · use your PL stipend and signing bonus · classes on campus · refer colleagues to save | Internal channels first, then Instagram, LinkedIn, retargeting |
+| A | **ACA staff, Kuwait** (teachers, coordinators, TAs with degrees) | ~62% of past students; the core | Your colleagues did it · ACA staff rate, paid monthly · use your PL stipend and signing bonus · classes on campus · refer colleagues to save | Internal channels first, then Instagram, LinkedIn, retargeting |
 | B | **ACA new hires** (January joiners, recent arrivals) | Small but high intent | Your signing bonus and PL stipend can fund a master's · start your first year with a plan | HR onboarding, Instagram, internal email |
-| C | **External educators in Kuwait** (private American/British/IB schools, expat and Arab teachers, Kuwaiti teachers in private schools) | ~38% of past students | US degree delivered in Kuwait · built for working teachers · 4,200 KD (233.33 KD/month) | LinkedIn (main), Instagram, Facebook groups, Meta ads |
+| C | **External educators in Kuwait** (private American/British/IB schools, expat and Arab teachers, Kuwaiti teachers in private schools) | ~38% of past students | US degree delivered in Kuwait · built for working teachers · pay monthly | LinkedIn (main), Instagram, Facebook groups, Meta ads |
 | D | **Educators outside Kuwait** (former ACA staff abroad, GCC teachers) | New segment (online option) | Same programme, same degree and diploma, studied online | LinkedIn, Meta ads (GCC), ACA alumni email list |
 | E | **Experienced leaders** (principals, VPs, HODs, directors; 10+ years leadership) | Ed.D | Executive doctorate, online, no dissertation, monthly plan | LinkedIn (main), personal outreach |
 | F | **Kuwaiti citizens** | Sensitive | The HR-approved wording for Kuwaiti citizens (see 1.11) | Handle 1:1, never target with salary or career-benefit messages |
@@ -45,7 +45,7 @@ Use the messages in this order. Every piece of content leads with one and suppor
 
 1. **Proof:** Your colleagues already did it (62% ACA).
 2. **Built for working teachers:** weekly in-person classes in Kuwait, 18 months, keep teaching.
-3. **Simple money:** pay monthly from 222.22 KD (ACA staff) / 233.33 KD (external) · PL stipend + signing bonus (ACA staff) · referral reward.
+3. **Simple money:** pay monthly over 18 months · ACA staff rate · PL stipend + signing bonus (ACA staff) · referral reward.
 4. **Credibility:** Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission.
 5. **Reach:** online option for anyone outside Kuwait, leading to the same degree.
 
@@ -113,7 +113,7 @@ Social media amplifies; internal channels convert ACA staff. Run these alongside
 
 ## 1.9 Paid media plan (recommended)
 
-**Budget options (suggested; adjust to PLI's budget):** one MAED enrolment is worth 4,000–4,200 KD, so the campaign pays for itself with very few extra enrolments.
+**Budget options (suggested; adjust to PLI's budget):** one extra MAED enrolment covers most of the recommended budget, so the campaign pays for itself with very few extra enrolments.
 
 | Option | Total (20 weeks) | LinkedIn | Meta (IG + FB) | Boost reserve |
 |---|---|---|---|---|
@@ -163,8 +163,7 @@ These protect PLI's credibility. Every asset must respect them.
 | Kuwait: expatriate teachers (HR-approved, word for word) | "Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States. Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application." | "Recognized in Kuwait", "MOHE approved"; anything that says or implies a work permit, promotion or salary adjustment |
 | Kuwait: Kuwaiti citizens (HR-approved, word for word) | "Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States. Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling." | Naming the Civil Service Commission or the Public Authority for Manpower (separate authorities, never interchangeable); any earlier accreditation submission or any suggestion that an approval is pending |
 | Online option | "Same programme. Same degree. Same diploma." | "No one will know you studied online" or anything that sounds like hiding it |
-| Price | Exact figures: 4,000 KD (222.22 KD/month × 18) for ACA staff; 4,200 KD (233.33 KD/month × 18) external; Ed.D 14,760 KD (410 KD × 36 or 307.50 KD × 48) | "Cheap", "free", rounded figures that change the price |
-| Ed.D price | "14,760 KD", the same for ACA staff and external applicants (confirmed by PLI) | "About", "for staff" or a different external price |
+| Price | "Pay monthly" (MAED over 18 months, Ed.D over 36 or 48 months), "ACA staff rate", "Ask us for the fees". Saint Mary's University of Minnesota prefers fees to be shared by email only, so they go in the private price sheet that PLI emails on request. | Any fee or monthly figure in posts, videos, carousels, captions, ads, the guide or the kit site; "cheap", "free" |
 | Ed.D eligibility | "Designed for professionals with 10+ years of leadership experience" (from the PLI website; confirm) | — |
 | Referral | "Refer 2 who enroll and complete their courses → final payment waived. Refer 4 who register and continue → last 2 payments waived. Terms apply." | Cash rewards |
 | Outcomes | "Grow", "deepen your practice", "step toward leadership" | Guaranteed promotion, salary adjustment, work permit, job |
@@ -181,7 +180,7 @@ These protect PLI's credibility. Every asset must respect them.
 | `{{MAR_START}}` | March cohort first class | ✅ Mon 15 Mar 2027 |
 | `{{APPLY_LINK}}` | Enquiry/application form URL | New form (Week 0) |
 | `{{WHATSAPP}}` | PLI WhatsApp Business number (optional) | — |
-| `{{EDD_EXTERNAL_PRICE}}` | Ed.D price for non-ACA applicants | ✅ Same as staff: 14,760 KD |
+| `{{EDD_EXTERNAL_PRICE}}` | Ed.D price for non-ACA applicants | ✅ Same as ACA staff (in the private price sheet) |
 | `{{APPLICATION_STEPS}}` | Real application steps and document checklist | ✅ Form → PLI contacts each applicant with the steps for their degree (US or non-US) |
 | `{{LIVE_1}}`, `{{LIVE_2}}`, `{{LIVE_3}}` | Live Q&A dates/hosts | Wed 9 Dec 7:30 pm · Wed 27 Jan 7:30 pm · Wed 17 Feb 9:30 pm |
 | `{{GRAD_1..5}}` | Graduate spotlights: name, role, track, cohort, 2–3 sentence quote, photo, consent | 4 consenting MAED and Ed.D graduates; photos and quotes coming from Salwa |
@@ -351,40 +350,35 @@ Pay monthly · Next cohorts: Jan & Mar
 
 ---
 
-### V03 — "The math"  (P3 · 35–40 s; `V03b` = March end card)
-**Voiceover (≈95 words):**
-> Let's talk numbers.
-> For ACA staff, the master's is four thousand Kuwaiti dinars. Spread over eighteen months, that's about two hundred and twenty-two dinars a month.
-> Not at ACA? It's four thousand two hundred, about two hundred and thirty-three a month.
-> ACA staff can also put their professional learning stipend and signing bonus toward tuition.
+### V03 — "Pay monthly"  (P3 · 30–35 s; `V03b` = March end card · **no prices in public content: fees are shared by email**)
+**Voiceover (≈65 words):**
+> Let's talk money.
+> You don't pay for your master's all at once. You pay monthly, over eighteen months.
+> ACA staff get a staff rate, and can put their professional learning stipend and signing bonus toward tuition.
 > And when colleagues you refer enroll, your final payments can be waived.
 > A master's degree, one month at a time.
-> Ask us for your personal payment plan.
+> Ask us for your fees and personal payment plan.
 
 | # | Time | On-screen text | Visual / motion |
 |---|---|---|---|
-| 1 | 0–3 s | LET'S TALK NUMBERS. | Cream bg, calculator-key style tiles |
-| 2 | 3–11 s | ACA STAFF · 4,000 KD ÷ 18 = **222.22 KD / month** | Equation types itself; result pops in periwinkle |
-| 3 | 11–17 s | EXTERNAL EDUCATORS · 4,200 KD ÷ 18 = **233.33 KD / month** | Same layout, indigo bg |
-| 4 | 17–24 s | + PL STIPEND · + SIGNING BONUS (ACA staff) | Two tags drop onto the monthly figure |
-| 5 | 24–30 s | REFER COLLEAGUES → FINAL PAYMENTS WAIVED* | Two/four small figures icons; last block(s) of 18 fade out |
-| 6 | 30–34 s | A MASTER'S DEGREE. ONE MONTH AT A TIME. | Headline stack |
-| 7 | 34–38 s | Ask for your payment plan · *Terms apply | End card |
+| 1 | 0–3 s | LET'S TALK MONEY. | Cream bg, stamp |
+| 2 | 3–10 s | NO LUMP SUM · PAY MONTHLY · OVER 18 MONTHS | Three bars rise |
+| 3 | 10–17 s | ACA STAFF RATE + PL STIPEND · + SIGNING BONUS | Two tags drop in |
+| 4 | 17–24 s | REFER COLLEAGUES → FINAL PAYMENTS WAIVED* | Last blocks of 18 fade out |
+| 5 | 24–29 s | A MASTER'S DEGREE. ONE MONTH AT A TIME. | Headline stack |
+| 6 | 29–33 s | Ask for your payment plan · *Terms apply | End card |
 
 **IG/FB caption:**
-> What does a master's actually cost per month? 🧮
-> ACA staff: 4,000 KD → 222.22 KD/month × 18
-> External educators: 4,200 KD → 233.33 KD/month × 18
-> ACA staff can also use their PL stipend and signing bonus toward tuition.
+> How do you pay for a master's? One month at a time 🧮
+> No lump sum: you pay monthly over 18 months.
+> ACA staff get a staff rate and can use their PL stipend and signing bonus toward tuition.
 > Plus our referral reward can waive your final payments (terms apply).
-> DM us "PLAN" for your personal payment plan.
+> DM us "PLAN" and we'll email you the fees and your personal payment plan.
 > #GrowWhereYouTeach #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #MastersInEducation
 
 **LinkedIn caption:**
-> Cost is the first question every teacher asks, so here's the straight answer.
-> MAED (Saint Mary's University of Minnesota): 4,000 KD for ACA staff (222.22 KD/month over 18 months) · 4,200 KD for external educators (233.33 KD/month).
-> ACA staff can apply their PL stipend and signing bonus. Referral rewards can waive final payments.
-> Ask for a personal payment plan → {{APPLY_LINK}}
+> Cost is the first question every teacher asks. Here's how it works: the Saint Mary's University of Minnesota MAED is paid monthly over 18 months, ACA staff get a staff rate and can apply their PL stipend and signing bonus, and referral rewards can waive final payments.
+> Ask us for the fees and a personal payment plan → {{APPLY_LINK}}
 
 ---
 
@@ -408,7 +402,7 @@ Pay monthly · Next cohorts: Jan & Mar
 | 4 | 14–21 s | 39 CREDITS · 3 YEARS · FULLY ONLINE + LOCAL COHORT | Three columns rise |
 | 5 | 21–25 s | NO DISSERTATION | Big stamp; strike-through animation on the word "dissertation" |
 | 6 | 25–30 s | For leaders with 10+ years of leadership experience | Periwinkle bar |
-| 7 | 30–35 s | 410 KD/month × 36 · or 307.50 KD/month × 48 | Two options cards (same price for ACA staff and external applicants) |
+| 7 | 30–35 s | PAY MONTHLY · 36 OR 48 MONTHS | Two options cards (no figures) |
 | 8 | 35–40 s | LEAD THE NEXT CHAPTER. | End card "Ask about the Ed.D" |
 
 **IG/FB caption:**
@@ -667,7 +661,7 @@ Pay monthly · Next cohorts: Jan & Mar
 > Final call for the March cohort.
 > Eighteen months from now, you can still be "thinking about a master's", or you can have one.
 > Saint Mary's University of Minnesota. Thirty credits. Ten courses.
-> Pay monthly, from about two hundred and twenty-two dinars for ACA staff.
+> Pay monthly, one month at a time.
 > Applications close {{MAR_DEADLINE_SPOKEN}}.
 > Don't wait for the next cohort.
 
@@ -676,7 +670,7 @@ Pay monthly · Next cohorts: Jan & Mar
 | 1 | 0–3 s | FINAL CALL · MARCH COHORT | Indigo, flashing periwinkle underline |
 | 2 | 3–11 s | 18 MONTHS FROM NOW: "STILL THINKING ABOUT IT" vs. "DONE." | Split screen; "DONE." wins |
 | 3 | 11–17 s | SAINT MARY'S · 30 CREDITS · 10 COURSES | Logo + counters |
-| 4 | 17–23 s | FROM 222.22 KD / MONTH (ACA staff) | Price block |
+| 4 | 17–23 s | PAY MONTHLY · ONE MONTH AT A TIME | Headline block |
 | 5 | 23–30 s | APPLICATIONS CLOSE {{MAR_DEADLINE}} | End card |
 
 **IG/FB caption:**
@@ -703,12 +697,12 @@ Pay monthly · Next cohorts: Jan & Mar
 | 1 | 0–4 s | NEW TO ACA? WELCOME. | Cream; waving-hand line icon |
 | 2 | 4–9 s | Here's something many new staff hear about later… | Whisper-style small text, then zoom |
 | 3 | 9–17 s | SIGNING BONUS + PL STIPEND → YOUR MASTER'S | Two tags slide into a cap icon |
-| 4 | 17–23 s | ACA STAFF RATE · 4,000 KD · 222.22 KD/month | Price card |
+| 4 | 17–23 s | ACA STAFF RATE · PAY MONTHLY | Card (no figures) |
 | 5 | 23–29 s | 6 IN 10 of our past students were ACA educators | Dot motif |
 | 6 | 29–34 s | START YOUR FIRST YEAR WITH A PLAN. | End card |
 
 **IG/FB caption:**
-> New to ACA? 👋 Did you know your signing bonus and PL stipend can go toward a Saint Mary's University of Minnesota master's — at the ACA staff rate (222.22 KD/month)?
+> New to ACA? 👋 Did you know your signing bonus and PL stipend can go toward a Saint Mary's University of Minnesota master's — at the ACA staff rate, paid monthly?
 > More than 6 in 10 of our past students were ACA educators. Start your first year with a plan.
 > #GrowWhereYouTeach #ACAKuwait #NewTeacher #MAEd #TeachInKuwait
 
@@ -728,7 +722,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 1. **MORE THAN 6 IN 10** · of our past master's students were ACA educators. Here's why. → (dot motif)
 2. **1. It's here.** Classes meet in person, in Kuwait, at ACA.
 3. **2. It's built for working teachers.** Weekly classes designed around a teaching schedule. 18 months, start to finish.
-4. **3. It's priced for staff.** ACA staff rate: 4,000 KD — that's 222.22 KD a month over 18 months.
+4. **3. It's priced for staff.** ACA educators get a staff rate, paid monthly over 18 months.
 5. **4. Your PL stipend can help.** ACA staff can put their professional learning stipend and signing bonus toward tuition.
 6. **5. You learn with people you know.** Your cohort may include colleagues — and educators from 8+ nationalities.
 7. **6. It goes straight into your classroom.** Bring what you learn each week back to your students.
@@ -751,7 +745,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 4. **The structure** · 30 credits · 10 courses · 18 months
 5. **The format** · In person in Kuwait, every week · Online option for learners outside Kuwait
 6. **Accreditation** · Accredited in the US by the Higher Learning Commission
-7. **The investment** · ACA staff: 4,000 KD (222.22 KD/month × 18) · External: 4,200 KD (233.33 KD/month × 18)
+7. **The investment** · Pay monthly over 18 months · Staff rate for ACA educators · Ask us for the fees: pli@aca.edu.kw
 8. **Next cohorts: January & March** · Link in bio · pli@aca.edu.kw
 
 **IG/FB caption:** Everything you need to know about the MAED, on 8 slides. Save it 📌 · Next cohort: January. #MAEd #MastersInEducation #TeachersOfKuwait #GrowWhereYouTeach
@@ -765,7 +759,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 3. **The structure** · 39 credits · 3 years
 4. **The format** · Fully online · With a local cohort in Kuwait for collaboration
 5. **No dissertation.**
-6. **The investment** · 14,760 KD · 410 KD/month over 36 months, or 307.50 KD/month over 48 months · Same price for ACA staff and external applicants
+6. **The investment** · Pay monthly over 36 or 48 months · Same fees for ACA staff and external applicants · Ask us for the fees: pli@aca.edu.kw
 7. **Let's talk** · Book a conversation: pli@aca.edu.kw · {{APPLY_LINK}}
 
 **IG/FB caption:** The doctorate built for experienced school leaders — online, 3 years, no dissertation. Swipe 👉 #EdD #SchoolLeaders #EducationalLeadership #ProfessionalLearningInstitute
@@ -773,17 +767,17 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 
 ---
 
-### C04 — "What does a master's really cost per month?"  (P3 · 7 slides; `C04b` = March CTA)
-1. **WHAT DOES A MASTER'S REALLY COST — PER MONTH?**
-2. **ACA staff** · 4,000 KD ÷ 18 months = **222.22 KD/month**
-3. **External educators** · 4,200 KD ÷ 18 months = **233.33 KD/month**
+### C04 — "How does paying for a master's work?"  (P3 · 7 slides; `C04b` = March CTA)
+1. **HOW DOES PAYING FOR A MASTER'S WORK?**
+2. **Pay monthly** · Spread over 18 months. No lump sum.
+3. **ACA staff rate** · ACA educators get a staff rate.
 4. **ACA staff boosters** · Use your professional learning (PL) stipend · Use your signing bonus
 5. **Referral reward** · Refer 2 who enroll and complete their courses → final payment waived · Refer 4 who register and continue → last 2 payments waived *(terms apply)*
-6. **Thinking bigger? The Ed.D** · 410 KD/month × 36 or 307.50 KD/month × 48
-7. **Get your personal payment plan** · DM "PLAN" · pli@aca.edu.kw
+6. **Thinking bigger? The Ed.D** · Pay monthly over 36 or 48 months
+7. **Get your fees and payment plan** · DM "PLAN" · pli@aca.edu.kw
 
-**IG/FB caption:** The numbers, made simple 🧮 Save this and DM "PLAN" for your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
-**LinkedIn caption:** Clear pricing, monthly payments, and PL stipends for ACA staff — the full breakdown in one document. → {{APPLY_LINK}}
+**IG/FB caption:** Paying for a master's, made simple 🧮 Save this and DM "PLAN": we'll email you the fees and your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
+**LinkedIn caption:** Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → {{APPLY_LINK}}
 
 ---
 
@@ -791,7 +785,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 1. **BRING YOUR PEOPLE.** We'll waive your last payments.
 2. **Refer 2** educators who enroll and complete their courses → your **final payment** is waived.
 3. **Refer 4** who register and continue → your **last 2 payments** are waived.
-4. **What that means** · ACA staff MAED: up to 444.44 KD saved · External MAED: up to 466.66 KD saved
+4. **What that means** · The more colleagues you bring, the fewer payments you make.
 5. **Who to bring** · Your teaching partner · Your grade-level team · Your friend teaching outside Kuwait (online option)
 6. **Tag them below 👇** · Terms apply · pli@aca.edu.kw
 
@@ -818,7 +812,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 1. **STRAIGHT ANSWERS** · 8 questions we hear every week
 2. **Can I study while teaching full-time?** Yes. The MAED is designed for working educators, with weekly in-person classes.
 3. **How long does it take?** 18 months: 30 credits across 10 courses.
-4. **How much is it?** ACA staff 4,000 KD (222.22 KD/month). External 4,200 KD (233.33 KD/month).
+4. **How much is it?** You pay monthly over 18 months, and ACA staff get a staff rate. We email the fees and a personal plan: pli@aca.edu.kw
 5. **Can ACA staff use PL funds?** Yes — your PL stipend and signing bonus can go toward tuition.
 6. **Is it accredited?** Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.
 7. **What about working in Kuwait?** Expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application. Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.
@@ -833,7 +827,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 ### C08 — "Myths vs facts: a master's while teaching"  (P4 · 7 slides)
 1. **MYTHS VS FACTS** · Doing a master's while teaching full-time
 2. **Myth:** "I don't have time." · **Fact:** It's designed around a teaching week — weekly classes, 18 months.
-3. **Myth:** "It's too expensive." · **Fact:** From 222.22 KD/month for ACA staff, plus PL stipend support.
+3. **Myth:** "It's too expensive." · **Fact:** You pay monthly over 18 months, with a staff rate and PL stipend support for ACA staff.
 4. **Myth:** "I'll be on my own." · **Fact:** You study in a cohort — often with colleagues you already know.
 5. **Myth:** "I'd have to quit my job." · **Fact:** Our students keep teaching the whole way through.
 6. **Myth:** "Online means a different degree." · **Fact:** The online option leads to the same degree and diploma.
@@ -902,7 +896,7 @@ Use the Tuesday after any Saturday Learning Series session (replace that week's 
 2. **Who it's for** · Educators living outside Kuwait — including former ACA colleagues.
 3. **What you study** · The same Saint Mary's University of Minnesota MAED: 30 credits, 10 courses, 18 months.
 4. **What you receive** · The same degree and the same diploma as our in-person students.
-5. **Investment** · 4,200 KD · 233.33 KD/month × 18 *(confirm for online)*
+5. **Investment** · Pay monthly over 18 months · Ask us for the fees
 6. **Start in March** · Message us · {{APPLY_LINK}}
 
 **Caption:** Left Kuwait but not your growth plans? 🌍 Swipe for how the online option works. #GrowWhereverYouTeach #OnlineMasters #MAEd #InternationalTeachers
@@ -958,7 +952,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 | **S15** | P5 | **H:** LAST DAY TO APPLY · **Sub:** March cohort · {{MAR_DEADLINE}} | Same as S06 | Today's the day ⏰ March cohort applications close tonight. |
 | **S16** | P4 | **H:** WHAT'S ONE THING YOU WANT TO MASTER THIS YEAR? | Big question mark (like the existing "?" post), cream | Tell us in the comments 👇 We read every one. #TeacherPD #GrowWhereYouTeach |
 | **S17** | P1 | **H:** WHERE IT ENDS · **Sub:** Cap. Gown. Saint Mary's University of Minnesota. · **Tag:** Your story could be next. | Best real graduation group photo, full-bleed with indigo gradient | Throwback to graduation day 🎓 Every one of these graduates started with one decision. Your story could be next. |
-| **S18** | P3 | **H:** FROM 222.22 KD / MONTH · **Sub:** Saint Mary's University of Minnesota MAED · ACA staff rate · **Tag:** External educators: 233.33 KD/month | Price-tag card, periwinkle block | A US master's degree, one month at a time 💳 DM "PLAN" for your payment plan. |
+| **S18** | P3 | **H:** PAY MONTHLY · **Sub:** Saint Mary's University of Minnesota MAED · **Tag:** Ask us for your payment plan | Payment-blocks card, periwinkle block | A US master's degree, one month at a time 💳 DM "PLAN" for your payment plan. |
 | **S19** | P5 | **H:** NEW YEAR. NEXT DEGREE. · **Sub:** Happy 2027 from the Professional Learning Institute. | Cream, confetti in brand colours | Happy New Year! ✨ Here's to growing where you teach in 2027. |
 
 ---
@@ -993,7 +987,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 **L03 — "Why we price it monthly" (Week 12)**
 > The first question every teacher asks me is "How much?"
 >
-> So we made the answer simple. The MAED is 4,000 KD for ACA staff, paid as 222.22 KD a month over 18 months. For external educators it's 4,200 KD, or 233.33 KD a month. ACA staff can also apply their PL stipend and signing bonus.
+> So we made the answer simple. You pay the MAED monthly, over 18 months. ACA staff get a staff rate and can apply their PL stipend and signing bonus. Email me and I'll send you the exact fees and a plan that fits.
 >
 > No lump sum. No surprises. One month at a time.
 >
@@ -1048,7 +1042,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 **Primary text options (Meta) / Intro text (LinkedIn):**
 1. More than 6 in 10 of our past MAED students were ACA educators. Earn a Saint Mary's University of Minnesota master's in 18 months — in person in Kuwait, pay monthly.
-2. A US master's degree, built for working teachers in Kuwait. 30 credits · 10 courses · 18 months · from 222.22 KD/month (ACA staff).
+2. A US master's degree, built for working teachers in Kuwait. 30 credits · 10 courses · 18 months · pay monthly.
 3. Curriculum & Instruction or Educational Leadership? Earn your Saint Mary's University of Minnesota MAED without pausing your career.
 4. (Online) Teaching outside Kuwait? Join the Saint Mary's University of Minnesota MAED online — same programme, same degree.
 5. (Ed.D) 10+ years of leadership? The Executive Leadership Doctorate: 3 years, fully online, no dissertation.
@@ -1069,7 +1063,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 >
 > Our next Saint Mary's University of Minnesota MAED cohort starts in January. It's 30 credits over 18 months, with weekly in-person classes here in Kuwait, and two tracks: Curriculum & Instruction or Educational Leadership.
 >
-> As ACA staff you receive the staff rate of 4,000 KD (222.22 KD/month over 18 months), and you can apply your PL stipend and signing bonus toward tuition.
+> As ACA staff you receive the staff rate ([FEES: paste from the private price sheet before sending]), paid monthly over 18 months, and you can apply your PL stipend and signing bonus toward tuition.
 >
 > Book a 15-minute chat: {{APPLY_LINK}} or reply to this email.
 >
@@ -1082,7 +1076,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 **Staff-room poster (A3, 2 versions):** "6 IN 10 of our past MAED students were ACA educators. Your turn." + QR to `{{APPLY_LINK}}?utm_source=poster` · Version 2 for March.
 
-**Programme guide (2-page PDF, lead magnet for "Comment MAED"):** Page 1: MAED overview, tracks, structure, format, accreditation, pricing, referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the HR-approved Kuwait wording), how to apply, contacts.
+**Programme guide (2-page PDF, lead magnet for "Comment MAED"):** Page 1: MAED overview, tracks, structure, format, accreditation, monthly payments (fees by email), referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the HR-approved Kuwait wording), how to apply, contacts.
 
 
 ---
@@ -1237,7 +1231,7 @@ output/
 9. Ask the user only if truly blocked; otherwise take the most reasonable choice and note it in `QA_REPORT.md`.
 
 ## 5.6 QA checks (automated where possible → `QA_REPORT.md`)
-- [ ] Prices appear only as: 4,000 KD · 222.22 KD · 4,200 KD · 233.33 KD · 14,760 KD · 410 KD · 307.50 KD · 444.44 KD · 466.66 KD.
+- [ ] No fee or monthly figure (KD) anywhere in public copy; fees live only in the private price sheet and internal staff emails.
 - [ ] Forbidden words scan in all copy: "guarantee", "promotion", "salary increase", "internationally accredited", "no one will know". HR list: "recognized in Kuwait", "MOHE approved", "work permit", "Civil Service Commission", "Public Authority for Manpower", "pending" appear nowhere; "salary" appears only inside the HR-approved Kuwaiti-citizens sentence.
 - [ ] University name always written "Saint Mary's University of Minnesota" (first mention in every asset).
 - [ ] No text overflow (Playwright: every text box `scrollHeight <= clientHeight`, `scrollWidth <= clientWidth`).

@@ -111,7 +111,7 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
 <div class="grid3" style="margin-top:6mm">
   <div class="card ind"><h4>The big idea</h4><div style="font-family:var(--anton);font-size:19pt;line-height:1;color:var(--cream)">GROW WHERE YOU TEACH</div><p class="small" style="color:#dfe6ff;margin-top:2mm">Online: “Grow wherever you teach.” Ed.D: “Lead the next chapter.”</p></div>
   <div class="card"><h4>The proof</h4><div class="num">6 in 10</div><p class="small">of our past MAED students were ACA educators. Used in every asset.</p></div>
-  <div class="card"><h4>The offer</h4><div class="num">222.22 KD</div><p class="small">a month for ACA staff (4,000 KD ÷ 18). External: 233.33 KD/month.</p></div>
+  <div class="card"><h4>The offer</h4><div class="num">Monthly</div><p class="small">MAED paid over 18 months, ACA staff rate. Fees are shared by email only (Saint Mary's preference).</p></div>
   <div class="card"><h4>Who we talk to</h4><p class="small">ACA staff (the core) · new ACA hires · external educators in Kuwait · educators outside Kuwait (online) · experienced leaders (Ed.D).</p></div>
   <div class="card"><h4>Where</h4><p class="small"><b>LinkedIn</b> to convince · <b>Instagram</b> to remind · <b>Facebook</b> for reach and ads · <b>internal ACA channels</b> to convert staff.</p></div>
   <div class="card"><h4>When</h4><p class="small">January cohort: apply by Thu 24 Dec 2026, classes start Mon 4 Jan. March cohort: apply by Fri 5 Mar 2027, classes start Mon 15 Mar. Ed.D always-on.</p></div>
@@ -128,13 +128,13 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
 <li>January and March cohorts filled to the targets PLI sets, with a clear picture of which channel brought each student.</li>
 <li>PLI becomes the obvious answer when a teacher in Kuwait says “one day I'll do my master's”.</li>
 </ul>
-<p class="small" style="margin-top:4mm"><b>Budget (recommended):</b> about 2,000 KD of paid media over 20 weeks (lean option about 900 KD). One MAED enrolment is worth 4,000–4,200 KD, so the campaign pays for itself with very few extra students.</p>`));
+<p class="small" style="margin-top:4mm"><b>Budget (recommended):</b> about 2,000 KD of paid media over 20 weeks (lean option about 900 KD). One extra MAED enrolment covers most of the recommended budget, so the campaign pays for itself with very few extra students.</p>`));
 
 // 3. SITUATION
 pages.push(pg(n++, `${kick('Where PLI stands today')}<h1>A great product, told quietly.</h1>
 <p class="lead">The Professional Learning Institute delivers two Saint Mary's University of Minnesota degrees in Kuwait: the <b>MAED</b> (Master of Arts in Education — Curriculum &amp; Instruction or Educational Leadership; 30 credits, 10 courses, 18 months) and the <b>Ed.D</b> (Executive Leadership Doctorate; 39 credits, 3 years, fully online, no dissertation).</p>
 <div class="grid2" style="margin:6mm 0">
-  <div class="card"><h4>What the numbers say</h4><ul class="small"><li>About <b>62%</b> of past students were ACA staff; <b>38%</b> were external.</li><li>Students came from at least <b>eight nationalities</b>.</li><li>Prices are clear and monthly: 4,000 KD (staff) and 4,200 KD (external) over 18 months.</li></ul></div>
+  <div class="card"><h4>What the numbers say</h4><ul class="small"><li>About <b>62%</b> of past students were ACA staff; <b>38%</b> were external.</li><li>Students came from at least <b>eight nationalities</b>.</li><li>Payments are monthly, over 18 months, with a staff rate for ACA educators.</li></ul></div>
   <div class="card"><h4>What the audience sees</h4><ul class="small"><li>A good-looking Instagram, mostly about events (Saturday Learning Series) and programme facts.</li><li>No price, no proof story, no clear “apply here”.</li><li>Website “Apply Now” buttons that lead to ACA job listings, not to PLI.</li></ul></div>
 </div>
 <h3>The diagnosis in plain words</h3>
@@ -150,7 +150,7 @@ const SW = {
     ['S1', 'Proof from inside', 'More than 6 in 10 past MAED students were ACA educators — the strongest social proof a teacher can hear.'],
     ['S2', 'A real US degree', "Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission."],
     ['S3', 'Built for working teachers', 'Weekly in-person classes in Kuwait, 18 months, no career pause.'],
-    ['S4', 'Simple money', '222.22 / 233.33 KD a month, PL stipend and signing bonus for ACA staff, a referral reward.'],
+    ['S4', 'Simple money', 'Monthly payments, a staff rate, PL stipend and signing bonus for ACA staff, a referral reward.'],
     ['S5', 'A diverse community', '38% external students from 8+ nationalities: credible beyond ACA.'],
     ['S6', 'Brand and events', 'A recognisable visual identity, real graduation photos and a warm Saturday Learning Series audience.'],
     ['S7', 'A rare doctorate', 'Executive Ed.D: online, 3 years, no dissertation — few local competitors.'],
@@ -246,7 +246,7 @@ pages.push(pg(n++, `${kick('Big idea and messages')}<h1>Grow where you teach.</h
 <table><tr><th style="width:6%">#</th><th style="width:28%">Message</th><th>What we say</th></tr>
 <tr><td>1</td><td><b>Proof</b></td><td>Your colleagues already did it — more than 6 in 10 of our past MAED students were ACA educators.</td></tr>
 <tr><td>2</td><td><b>Built for working teachers</b></td><td>Weekly in-person classes in Kuwait, 18 months, keep teaching.</td></tr>
-<tr><td>3</td><td><b>Simple money</b></td><td>From 222.22 KD a month (ACA staff) / 233.33 KD (external) · PL stipend + signing bonus · referral reward.</td></tr>
+<tr><td>3</td><td><b>Simple money</b></td><td>Pay monthly over 18 months · ACA staff rate · PL stipend + signing bonus · referral reward (fees by email).</td></tr>
 <tr><td>4</td><td><b>Credibility</b></td><td>Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission.</td></tr>
 <tr><td>5</td><td><b>Reach</b></td><td>An online option for anyone outside Kuwait, leading to the same degree.</td></tr></table>
 <h3>Tone of voice</h3>
@@ -255,9 +255,9 @@ pages.push(pg(n++, `${kick('Big idea and messages')}<h1>Grow where you teach.</h
 // 8. AUDIENCES + CHANNELS
 pages.push(pg(n++, `${kick('Who we talk to, and where')}<h1>Five audiences, four channels.</h1>
 <table><tr><th style="width:4%">#</th><th style="width:22%">Audience</th><th>What they need to hear</th><th style="width:22%">Main channels</th></tr>
-<tr><td>A</td><td><b>ACA staff</b> — the core (~62%)</td><td>Your colleagues did it · staff rate 4,000 KD (222.22 KD/month) · PL stipend and signing bonus · classes on campus · referrals save money</td><td>Internal first, then Instagram, LinkedIn, retargeting</td></tr>
+<tr><td>A</td><td><b>ACA staff</b> — the core (~62%)</td><td>Your colleagues did it · ACA staff rate, paid monthly · PL stipend and signing bonus · classes on campus · referrals save money</td><td>Internal first, then Instagram, LinkedIn, retargeting</td></tr>
 <tr><td>B</td><td><b>New ACA hires</b></td><td>Your signing bonus and PL stipend can fund a master's · start your first year with a plan</td><td>HR onboarding, Instagram, staff email</td></tr>
-<tr><td>C</td><td><b>External educators in Kuwait</b> (~38%)</td><td>A US degree delivered in Kuwait · built for working teachers · 4,200 KD (233.33 KD/month)</td><td>LinkedIn (main), Instagram, Facebook groups, Meta ads</td></tr>
+<tr><td>C</td><td><b>External educators in Kuwait</b> (~38%)</td><td>A US degree delivered in Kuwait · built for working teachers · pay monthly</td><td>LinkedIn (main), Instagram, Facebook groups, Meta ads</td></tr>
 <tr><td>D</td><td><b>Educators outside Kuwait</b></td><td>Same programme, same degree and diploma, studied online</td><td>LinkedIn, Meta ads (GCC), ACA alumni email</td></tr>
 <tr><td>E</td><td><b>Experienced leaders</b> (10+ years)</td><td>Executive doctorate, online, no dissertation, monthly plan</td><td>LinkedIn (main), personal outreach</td></tr>
 <tr><td>F</td><td><b>Kuwaiti citizens</b> (sensitive)</td><td>The HR-approved wording for Kuwaiti citizens — handled one-to-one, never targeted with salary or career-benefit messages</td><td>Personal conversations, FAQ</td></tr></table>
@@ -383,7 +383,7 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 <tr><td>Kuwait: expatriate teachers</td><td>HR-approved, word for word: “…Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.”</td><td>“Recognized in Kuwait”, “MOHE approved”; any work-permit, promotion or salary promise</td></tr>
 <tr><td>Kuwaiti citizens</td><td>HR-approved, word for word: “…Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.”</td><td>Naming other authorities; any earlier submission or “approval pending”</td></tr>
 <tr><td>Online option</td><td>“Same programme. Same degree. Same diploma.”</td><td>Anything that sounds like hiding it</td></tr>
-<tr><td>Price</td><td>4,000 KD (222.22 × 18) staff · 4,200 KD (233.33 × 18) external · Ed.D 14,760 KD for everyone (410 × 36 or 307.50 × 48)</td><td>“Cheap”, “free”, rounded figures</td></tr>
+<tr><td>Price</td><td>“Pay monthly”, “ACA staff rate”, “Ask us for the fees”. Fees go by email only (private price sheet).</td><td>Any fee or monthly figure in public content; “cheap”, “free”</td></tr>
 <tr><td>Referral</td><td>Refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply</td><td>Cash rewards</td></tr>
 <tr><td>Outcomes</td><td>“Grow”, “deepen your practice”, “step toward leadership”</td><td>Guaranteed promotion, salary adjustment, work permit, job</td></tr>
 <tr><td>Testimonials</td><td>Real graduates, real words, written consent, real photos</td><td>Invented quotes, AI “graduates”, stock photos</td></tr></table>`, 'cream'));

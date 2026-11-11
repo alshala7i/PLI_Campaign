@@ -31,10 +31,9 @@ S.V02 = { vo: vo('V02'), cover: 0, scenes: [
 ] };
 
 S.V03 = { vo: vo('V03'), cover: 1, scenes: [
-  { type: 'stamp', bg: 'cream', lines: [{ text: "LET'S TALK", size: 190 }, { text: 'NUMBERS.', size: 230, color: 'deep' }] },
-  { type: 'equation', bg: 'cream', at: 'For ACA staff', label: 'ACA staff', eq: '4,000 KD ÷ 18 =', result: '222.22', resAt: { at: "that's about" } },
-  { type: 'equation', bg: 'indigo', at: 'Not at ACA', label: 'External educators', eq: '4,200 KD ÷ 18 =', result: '233.33', resAt: { at: 'about two hundred and thirty-three' } },
-  { type: 'tags', bg: 'cream', at: 'ACA staff can also', head: '222.22 KD / MONTH', tags: ['+ PL STIPEND', '+ SIGNING BONUS'], tagAt: [{ at: 'professional learning' }, { at: 'signing bonus' }], foot: 'ACA staff' },
+  { type: 'stamp', bg: 'cream', lines: [{ text: "LET'S TALK", size: 190 }, { text: 'MONEY.', size: 230, color: 'deep' }] },
+  { type: 'bars', bg: 'indigo', at: "You don't pay", items: [{ text: 'NO LUMP SUM', at: "You don't pay" }, { text: 'PAY MONTHLY', at: 'You pay monthly' }, { text: 'OVER 18 MONTHS', at: 'over eighteen' }] },
+  { type: 'tags', bg: 'cream', at: 'ACA staff get', head: 'ACA STAFF RATE', tags: ['+ PL STIPEND', '+ SIGNING BONUS'], tagAt: [{ at: 'professional learning' }, { at: 'signing bonus' }], foot: 'ACA staff' },
   { type: 'blocks', bg: 'indigo', at: 'And when colleagues', head: 'REFER COLLEAGUES → FINAL PAYMENTS WAIVED*', headSize: 84, total: 18, waived: 2, wAt: { at: 'final payments' }, label: '*Terms apply' },
   { type: 'stack', bg: 'cream', at: "A master's degree, one", lines: [{ text: "A MASTER'S DEGREE.", size: 140 }, { text: 'ONE MONTH', size: 190, color: 'deep', at: 'one month' }, { text: 'AT A TIME.', size: 190, color: 'deep' }] },
   { type: 'end', at: 'Ask us for', lines: ['ASK FOR YOUR PAYMENT PLAN', 'January cohort · Applications open', CONTACT, '*Terms apply'], size: 120, cta: 'DM “PLAN”' },
@@ -48,7 +47,7 @@ S.V04 = { vo: vo('V04'), cover: 4, scenes: [
   { type: 'counters', bg: 'indigo', at: 'Thirty-nine credits', items: [{ n: 39, label: 'CREDITS', at: 'Thirty-nine credits' }, { n: 3, label: 'YEARS', at: 'three years' }], foot: 'FULLY ONLINE + LOCAL COHORT', footAt: { at: 'Fully online' } },
   { type: 'stamp', bg: 'cream', at: 'And no dissertation', lines: [{ text: 'NO', size: 260, color: 'deep' }, { text: 'DISSERTATION', size: 170 }], strike: true },
   { type: 'bars', bg: 'indigo', at: "It's designed", head: 'FOR LEADERS WITH', items: [{ text: '10+ YEARS OF', at: 'ten or more' }, { text: 'LEADERSHIP EXPERIENCE', at: 'leadership experience' }] },
-  { type: 'split', at: 'Pay monthly', a: { tag: 'Option 1', title: '410 KD / MONTH', sub: '× 36 months', bg: 'peri' }, b: { tag: 'Option 2', title: '307.50 KD / MONTH', sub: '× 48 months', bg: 'indigo', at: 'forty-eight' } },
+  { type: 'split', at: 'Pay monthly', a: { tag: 'Option 1', title: 'PAY MONTHLY', sub: 'over 36 months', bg: 'peri' }, b: { tag: 'Option 2', title: 'PAY MONTHLY', sub: 'over 48 months', bg: 'indigo', at: 'forty-eight' } },
   { type: 'end', bg: 'deep', at: 'Lead the next', lines: ['LEAD THE NEXT CHAPTER.', 'Ask about the Ed.D', CONTACT], cta: 'Ask about the Ed.D' },
 ] };
 
@@ -122,7 +121,7 @@ S.V13 = { vo: vo('V13'), cover: 0, scenes: [
   { type: 'stamp', bg: 'indigo', lines: [{ text: 'FINAL CALL', size: 220 }, { text: 'MARCH COHORT', size: 150, color: 'peri' }] },
   { type: 'split', at: 'Eighteen months from now', a: { tag: '18 months from now', title: '“STILL THINKING ABOUT IT”', bg: 'cream', size: 96 }, b: { tag: '…or', title: 'DONE.', bg: 'indigo', size: 220, at: 'or you can have' } },
   { type: 'counters', bg: 'cream', at: "Saint Mary's University", head: "SAINT MARY'S", items: [{ n: 30, label: 'CREDITS', at: 'Thirty credits' }, { n: 10, label: 'COURSES', at: 'Ten courses' }] },
-  { type: 'stack', bg: 'indigo', at: 'Pay monthly', lines: [{ text: 'FROM', size: 130 }, { text: '222.22 KD / MONTH', size: 150, color: 'peri', pop: true, at: 'two hundred' }], sub: 'ACA staff' },
+  { type: 'stack', bg: 'indigo', at: 'Pay monthly', lines: [{ text: 'PAY MONTHLY.', size: 150 }, { text: 'ONE MONTH AT A TIME.', size: 120, color: 'peri', pop: true, at: 'one month' }] },
   { type: 'end', at: 'Applications close', lines: ['APPLICATIONS CLOSE', PH.MAR_DEADLINE.visual, CONTACT], cta: "Don't wait" },
 ] };
 
@@ -130,9 +129,9 @@ S.V14 = { vo: vo('V14'), cover: 4, scenes: [
   { type: 'icon', bg: 'cream', icon: 'hand', iconSize: 280, lines: [{ text: 'NEW TO ACA? WELCOME.', size: 140 }] },
   { type: 'stack', bg: 'indigo', at: "Here's something", lines: [{ text: "Here's something many new staff hear about later…", serif: true, italic: true, size: 96, color: 'cream' }] },
   { type: 'tags', bg: 'cream', at: 'Your signing bonus', head: "→ YOUR MASTER'S", tags: ['SIGNING BONUS', '+ PL STIPEND'], tagAt: [{ at: 'signing bonus' }, { at: 'professional learning' }] },
-  { type: 'equation', bg: 'indigo', at: "The Saint Mary's", label: 'ACA staff rate', eq: '4,000 KD ÷ 18 =', result: '222.22', resAt: { at: 'staff rate' } },
+  { type: 'stack', bg: 'indigo', at: "The Saint Mary's", lines: [{ text: 'ACA STAFF RATE', size: 150 }, { text: 'PAY MONTHLY', size: 130, color: 'peri', pop: true, at: 'staff rate' }], sub: "Saint Mary's University of Minnesota MAED · in Kuwait" },
   { type: 'dots', bg: 'cream', at: 'More than six', pre: 'MORE THAN', big: '6 IN 10', count: 62, sub: 'of our past students were ACA educators' },
-  { type: 'end', at: 'Start your first', lines: ['START YOUR FIRST YEAR WITH A PLAN.', 'ACA staff rate · 222.22 KD/month', CONTACT], size: 110, cta: 'Ask us' },
+  { type: 'end', at: 'Start your first', lines: ['START YOUR FIRST YEAR WITH A PLAN.', 'ACA staff rate · pay monthly', CONTACT], size: 110, cta: 'Ask us' },
 ] };
 
 Object.entries(S).forEach(([id, s]) => (s.id = id));
