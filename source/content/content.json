@@ -1136,7 +1136,7 @@
  "stories": [
   {
    "id": "ST-LAUNCH",
-   "use": "Week 1, Week 9",
+   "use": "Launch (Thu 12 – Sat 14 Nov), Week 9",
    "frames": "1) \"Big news 👀\" teaser · 2) \"Applications open: {{COHORT}} cohort\" · 3) Poll sticker: \"Have you ever thought about a master's? Yes / Every year 😅\" · 4) Link sticker \"Ask us\""
   },
   {
@@ -1228,13 +1228,22 @@
  ],
  "calendar": [
   {
+   "week": 0,
+   "dates": "12–14 Nov",
+   "phase": "0 Launch (Thu 12 Nov)",
+   "linkedin": "S01 (Thu 12 Nov)",
+   "instagram": "S01 (Thu 12 Nov) · S17 (Sat 14 Nov)",
+   "stories": "ST-LAUNCH (Thu–Sat)",
+   "offplatform": "Staff email #1 (Thu 12 Nov) · bio, highlights and covers live · posters"
+  },
+  {
    "week": 1,
    "dates": "15–21 Nov",
    "phase": "1 Launch Jan",
-   "linkedin": "S01 · C01 · L01 (Salwa)",
-   "instagram": "V01 · C01 · S01",
-   "stories": "ST-LAUNCH",
-   "offplatform": "Staff email #1 · principals' briefing · posters · start LI-1, LI-2, META-1"
+   "linkedin": "C01 · L01 (Salwa) · S16",
+   "instagram": "V01 · C01 · S16",
+   "stories": "ST-LAUNCH (poll + link frames)",
+   "offplatform": "Principals' briefing · start LI-1, LI-2, META-1"
   },
   {
    "week": 2,

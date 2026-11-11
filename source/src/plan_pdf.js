@@ -91,7 +91,7 @@ pages.push(`<section class="pg indigo" style="padding:0">
   <div style="position:absolute;left:18mm;right:18mm;top:196mm;display:grid;grid-template-columns:1fr 1fr 1fr;gap:4mm;font-size:8.8pt">
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">PREPARED FOR</b><br>Salwa Sleiman<br>PLI Coordinator, American Creativity Academy</div>
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">CHANNELS</b><br>LinkedIn (main) · Instagram<br>Facebook · Internal ACA channels</div>
-    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Sun 15 Nov 2026 → Sat 3 Apr 2027<br>20 weeks + 1 setup week</div>
+    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Thu 12 Nov 2026 → Sat 3 Apr 2027<br>launch days + 20 weeks</div>
   </div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:44mm;background:var(--cream);color:var(--ink);display:flex;align-items:center;justify-content:space-between;padding:0 18mm">
     <div style="display:flex;align-items:center;gap:5mm">
@@ -180,9 +180,9 @@ pages.push(pg(n++, `${kick('Strengths and weaknesses')}<h1 style="font-size:26pt
 // 5. GOALS
 pages.push(pg(n++, `${kick('Campaign goals')}<h1 style="font-size:26pt;margin-bottom:2mm">Short-term wins, long-term position.</h1>
 <p class="lead" style="margin-bottom:1mm">Short-term goals fill the next two cohorts. Long-term goals make sure PLI never has to start from zero again.</p>
-<h3>Short-term goals · this campaign (15 Nov 2026 – 3 Apr 2027)</h3>
+<h3>Short-term goals · this campaign (12 Nov 2026 – 3 Apr 2027)</h3>
 <table><tr><th style="width:8%">#</th><th style="width:42%">Goal</th><th>How we measure it</th></tr>
-<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on 15 Nov; every bio, ad and post uses the same link.</td></tr>
+<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on Thu 12 Nov; every bio, ad and post uses the same link.</td></tr>
 <tr><td><b>ST2</b></td><td>Fill the January cohort (deadline Thu 24 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
 <tr><td><b>ST3</b></td><td>Fill the March cohort, including the first online learners (deadline Fri 5 Mar).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
 <tr><td><b>ST4</b></td><td>Generate qualified leads every week from every channel.</td><td>Leads by source (UTM) and segment; cost per lead on paid media.</td></tr>
@@ -282,7 +282,7 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 <li><b>Response standard.</b> A reply within 24 hours (working days) and an offer of a 15-minute call.</li>
 <li><b>Lead tracker.</b> One shared sheet: date, source (UTM), segment, programme, cohort, status (New → Contacted → Call booked → Applied → Enrolled → Lost + reason).</li>
 </ol></div>
-<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov)</h3>
+<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov · launch Thu 12)</h3>
 <ul class="check small">
 <li>✅ Deadlines, start dates, application steps, Ed.D price, referral terms and Kuwait wording confirmed (11 Nov).</li>
 <li>Create the form and the lead tracker.</li>
@@ -298,7 +298,7 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 
 // 10. PHASES
 const PHASES = [
-  ['0 · Setup', '8–14 Nov', 'Path to conversion ready'],
+  ['0 · Setup + launch', '8–14 Nov', 'Launch Thu 12 Nov · path to conversion ready'],
   ['1 · Launch Jan', '15 Nov–12 Dec', 'Awareness + consideration · Live #1 (9 Dec)'],
   ['2 · Close Jan', '13–26 Dec', 'Applications · deadline Thu 24 Dec'],
   ['3 · New year + Ed.D', '27 Dec–9 Jan', 'Growth plan, Ed.D, welcome January (4 Jan)'],

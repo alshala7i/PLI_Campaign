@@ -1,6 +1,6 @@
 # Professional Learning Institute (PLI) — Cohort Campaign Plan
 ## "Grow Where You Teach" · Instagram · LinkedIn · Facebook
-**Campaign window:** Sun 15 Nov 2026 → Sat 3 Apr 2027 (20 weeks + 1 setup week)
+**Campaign window:** Thu 12 Nov 2026 (launch) → Sat 3 Apr 2027 (launch days 12–14 Nov + 20 weeks)
 **Cohorts promoted:** January 2027 cohort (in person, Kuwait) · March 2027 cohort (in person, Kuwait) · Online option for educators outside Kuwait · Ed.D (always-on)
 **Prepared for:** Salwa Sleiman, PLI Coordinator, American Creativity Academy
 **Language of all content:** English
@@ -83,7 +83,7 @@ Reels / video ads → Carousels, FAQ, Live Q&A,  →  Lead form / email / DM    
 
 | Phase | Dates | Goal | Focus content |
 |---|---|---|---|
-| **0. Setup** | 8–14 Nov 2026 | Path to conversion ready | Bio, highlights, form, UTM, pixel/Insight Tag, Facebook page, collect graduate quotes and photos, book Live hosts |
+| **0. Setup + launch** | 8–14 Nov 2026 | Path to conversion ready · **launch Thu 12 Nov** | Bio, highlights, form, UTM, pixel/Insight Tag, Facebook page, collect graduate quotes and photos, book Live hosts · first posts Thu 12 Nov (S01) and Sat 14 Nov (S17) |
 | **1. Launch: January cohort** | 15 Nov – 12 Dec | Awareness + consideration | 62% proof, MAED at a glance, the monthly maths, tracks, Live Q&A #1 (Wed 9 Dec) |
 | **2. Close: January cohort** | 13 Dec – 26 Dec | Applications | FAQ, final week, deadline `{{JAN_DEADLINE}}` (Thu 24 Dec 2026), graduate proof |
 | **3. New year + Ed.D** | 27 Dec – 9 Jan | Retain attention over the break, Ed.D | 2027 growth plan, Ed.D video, welcome the January cohort (first class Mon 4 Jan) |
@@ -99,7 +99,7 @@ Social media amplifies; internal channels convert ACA staff. Run these alongside
 
 | When | Action | Owner |
 |---|---|---|
-| Week 1 | **Staff email #1** from PLI: "Grow where you teach" + staff rate + PL stipend + form link | Salwa |
+| Thu 12 Nov (launch) | **Staff email #1** from PLI: "Grow where you teach" + staff rate + PL stipend + form link | Salwa |
 | Week 1 | **Principals' briefing:** one slide for every campus/division meeting; ask principals to mention it once | Salwa + principals |
 | Week 1–2 | **Staff-room posters** (A3, QR code to form) in every staff room and the PLI office | Print |
 | Week 2 | **Graduate ambassadors:** 1–2 past students per campus/division; "Ask me about the MAED" sticker; 2–3 coffee chats per term | Salwa |
@@ -1026,7 +1026,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 | ID | Use | Frames (1080×1920) |
 |---|---|---|
-| **ST-LAUNCH** | Week 1, Week 9 | 1) "Big news 👀" teaser · 2) "Applications open: {{COHORT}} cohort" · 3) Poll sticker: "Have you ever thought about a master's? Yes / Every year 😅" · 4) Link sticker "Ask us" |
+| **ST-LAUNCH** | Launch (Thu 12 – Sat 14 Nov), Week 9 | 1) "Big news 👀" teaser · 2) "Applications open: {{COHORT}} cohort" · 3) Poll sticker: "Have you ever thought about a master's? Yes / Every year 😅" · 4) Link sticker "Ask us" |
 | **ST-QBOX** | Weeks 2, 10, 14 | 1) Question sticker: "Ask us anything about the MAED" · 2–4) Answers on branded frames (reply to real questions) |
 | **ST-QUIZ** | Weeks 3, 11 | Quiz sticker: "How long is the MAED? 12 / 18 / 24 months" → reveal 18 · "How many of our past students were ACA educators? 3 in 10 / 6 in 10 / 9 in 10" → reveal 6 in 10 |
 | **ST-SLIDER** | Weeks 4, 12 | Emoji slider "How ready do you feel for a master's?" → follow-up frame "Most graduates didn't feel ready either." |
@@ -1081,7 +1081,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 ---
 
-# PART 4 — CONTENT CALENDAR (15 Nov 2026 → 3 Apr 2027)
+# PART 4 — CONTENT CALENDAR (launch Thu 12 Nov 2026 → 3 Apr 2027)
 
 ## 4.1 Posting rhythm
 | Platform | Days | Time (Kuwait, UTC+3) | Ramadan (≈8 Feb – 8 Mar 2027) |
@@ -1094,7 +1094,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 Weeks run **Sunday → Saturday** (Kuwait work week). In the table, "Sun" = week start date, "Mon" = +1 day, "Tue" = +2, "Wed" = +3, "Thu" = +4.
 
-## 4.2 Week 0 — Setup (Sun 8 – Sat 14 Nov 2026)
+## 4.2 Week 0 — Setup + launch (Sun 8 – Sat 14 Nov 2026; first posts Thu 12 Nov)
 - [x] Confirm the placeholders in 1.12 with Salwa (deadlines, start dates, application steps, Ed.D external price, referral terms, recognition wording) — confirmed 11 Nov 2026; form link still to come.
 - [ ] Create the enquiry form → `{{APPLY_LINK}}`; set up the lead tracker sheet.
 - [ ] Ask ACA web team to point PLI "Apply Now" buttons to `{{APPLY_LINK}}`.
@@ -1110,7 +1110,8 @@ Weeks run **Sunday → Saturday** (Kuwait work week). In the table, "Sun" = week
 
 | Wk | Dates | Phase | LinkedIn (Sun · Tue · Wed) | Instagram + Facebook (Sun · Tue · Thu) | Stories | Off-platform / ads |
 |---|---|---|---|---|---|---|
-| 1 | 15–21 Nov | 1 Launch Jan | S01 · C01 · L01 (Salwa) | V01 · C01 · S01 | ST-LAUNCH | Staff email #1 · principals' briefing · posters · start LI-1, LI-2, META-1 |
+| 0 | 12–14 Nov | 0 Launch (Thu 12 Nov) | S01 (Thu 12 Nov) | S01 (Thu 12 Nov) · S17 (Sat 14 Nov) | ST-LAUNCH (Thu–Sat) | Staff email #1 (Thu 12 Nov) · bio, highlights and covers live · posters |
+| 1 | 15–21 Nov | 1 Launch Jan | C01 · L01 (Salwa) · S16 | V01 · C01 · S16 | ST-LAUNCH (poll + link frames) | Principals' briefing · start LI-1, LI-2, META-1 |
 | 2 | 22–28 Nov | 1 | V01 · C02 · S02 | V02 · C02 · S02 | ST-QBOX | Recruit ambassadors · ST-RESHARE |
 | 3 | 29 Nov–5 Dec | 1 | V02 · C04 · S04a (Live #1 announce) | V03 · C04 · S04a | ST-QUIZ | Start LI-RT, META-2 retargeting |
 | 4 | 6–12 Dec | 1 | V03 · C06 · S03a | V08 · C06 · S03a | ST-LIVE (Sun–Tue) | **Live #1: Wed 9 Dec, 19:30** |
@@ -1236,7 +1237,7 @@ output/
 - [ ] University name always written "Saint Mary's University of Minnesota" (first mention in every asset).
 - [ ] No text overflow (Playwright: every text box `scrollHeight <= clientHeight`, `scrollWidth <= clientWidth`).
 - [ ] Every video: duration within ±3 s of target, captions in sync (±100 ms), loudness and peak per 5.3, both sizes rendered.
-- [ ] Every calendar row has an existing file path and a caption; dates match 4.3 (week start Sundays: 15 Nov 2026 … 28 Mar 2027).
+- [ ] Every calendar row has an existing file path and a caption; dates match 4.3 (launch days Thu 12 – Sat 14 Nov; week start Sundays: 15 Nov 2026 … 28 Mar 2027).
 - [ ] Every image has alt text.
 - [ ] Placeholder report generated.
 - [ ] Visual review: open `preview/index.html` with Playwright, screenshot each week section, and look at the screenshots for alignment, overlaps and brand consistency.
@@ -1260,7 +1261,7 @@ You are building a complete social media content package for the Professional Le
 Read PLI_Marketing_Plan.md in this folder from start to finish before doing anything. It is the full specification:
 - Part 1 = strategy, brand identity (1.14) and claims guardrails (1.11) that are hard rules.
 - Part 3 = the final English copy for every asset (videos with voiceover scripts and scene tables, carousels, single posts, LinkedIn posts, stories, ads, emails). Use the copy exactly as written.
-- Part 4 = the 20-week calendar (15 Nov 2026 to 3 Apr 2027, weeks start on Sunday, Asia/Kuwait time).
+- Part 4 = the calendar: launch days Thu 12 – Sat 14 Nov 2026, then 20 weeks (15 Nov 2026 to 3 Apr 2027, weeks start on Sunday, Asia/Kuwait time).
 - Part 5 = the technical build specification: deliverables (5.1), inputs (5.2), stack (5.3), design system (5.4), rules (5.5), QA (5.6) and build order (5.7).
 
 Your job: build every deliverable in Part 5.1, following Parts 5.2 to 5.7 exactly.

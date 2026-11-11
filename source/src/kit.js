@@ -212,7 +212,7 @@ function qa() {
   const missingCal = calRows.filter((r) => r['Asset ID'] && !r['Asset ID'].startsWith('L') && r['File(s)'].split(' | ').some((p) => p && !p.endsWith('/') && !exists(p))).map((r) => `${r.Date} ${r.Platform} ${r['Asset ID']}`);
   const noCap = calRows.filter((r) => !r.Caption).map((r) => `${r.Date} ${r.Platform} ${r['Asset ID']}`);
   const noAlt = assets.filter((a) => (a.kind === 'post' || a.kind === 'carousel') && !a.alt).map((a) => a.id);
-  const sundays = [...new Set(C.calendar.map((w) => fmtD(START.getTime() + (w.week - 1) * 7 * DAY)))];
+  const sundays = [...new Set(C.calendar.filter((w) => w.week > 0).map((w) => fmtD(START.getTime() + (w.week - 1) * 7 * DAY)))];
   lines.push(`# QA report — PLI “Grow Where You Teach” kit`, '', `Generated ${new Date().toISOString().slice(0, 16)}Z with مصنع المحتوى (Content Factory).`, '');
   lines.push('## Copy checks', '', `- Fee figures (KD) in public copy: ${priceIssues.length ? priceIssues.join(', ') : '✅ none'}`, `- Forbidden words: ${forbIssues.length ? forbIssues.join(', ') : '✅ none'}`, `- “Salary” outside the HR-approved Kuwaiti-citizens sentence: ${csc.length ? csc.join(', ') : '✅ none'}`, `- University named without “of Minnesota” somewhere in the asset: ${uniIssues.length ? uniIssues.join(', ') : '✅ none'}`, '- Copy source: content/content.json, transcribed word for word from the plan (Parts 3–4) by tools/parse_plan.py.', '');
   lines.push('## Layout', '', '- Text overflow (Playwright, every `[data-fit]` box): ✅ 0 issues across posts, carousels, stories, covers, posters and guide (last render).', '- Visual review: contact sheets of every asset reviewed during the build; fixes applied (cover sizing, footer wrap, overlaps on S01/S10/S02/poster).', '');

@@ -196,7 +196,7 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
     <div class="warn" id="ph-warn"></div>
   </div>
 </section>
-<section id="calendar"><h2>20-week calendar</h2><p class="sub">Sun 15 Nov 2026 → Sat 3 Apr 2027 · Kuwait time · weeks run Sunday to Saturday. Every row has the file, the caption and a tracked link.</p>
+<section id="calendar"><h2>20-week calendar</h2><p class="sub">Launch Thu 12 Nov 2026 (week 0), then weeks 1–20 to Sat 3 Apr 2027 · Kuwait time · weeks run Sunday to Saturday. Every row has the file, the caption and a tracked link.</p>
   <div class="filters" id="calf"></div><div id="cal"></div></section>
 <section id="videos"><h2>Motion videos</h2><p class="sub">Each video exists with a male (Eric) and a female (Sarah) voiceover: Reel 9:16 for Instagram/Facebook, feed 4:5 for LinkedIn/Facebook, captions burned in, plus .srt, voiceover .mp3 and a Reel cover.</p><div class="grid g-vid" id="vids"></div></section>
 <section id="carousels"><h2>Carousels</h2><p class="sub">Swipe to see the slides. PNG slides for Instagram/Facebook, one PDF per carousel for LinkedIn document posts.</p><div class="grid" id="cars"></div></section>
