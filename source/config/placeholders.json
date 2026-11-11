@@ -7,7 +7,7 @@
   "MAR_START": {"what": "March cohort first class", "proposed": "Mon 15 Mar 2027", "visual": "MON 15 MAR", "copy": "Monday 15 March", "confirmed": true},
   "APPLY_LINK": {"what": "Enquiry / application form URL (create in Week 0)", "proposed": "Salwa is creating the form (link to follow); enquiries: pli@aca.edu.kw", "visual": "Link in bio", "copy": "{{APPLY_LINK}}", "confirmed": false},
   "WHATSAPP": {"what": "PLI WhatsApp Business number (optional)", "proposed": "", "confirmed": false},
-  "EDD_EXTERNAL_PRICE": {"what": "Ed.D price for non-ACA applicants", "proposed": "Same as ACA staff: 14,760 KD (410 KD × 36 or 307.50 KD × 48)", "confirmed": true, "copy": "14,760 KD"},
+  "EDD_EXTERNAL_PRICE": {"what": "Ed.D price for non-ACA applicants", "proposed": "Same fees as ACA staff (in the private price sheet, shared by email)", "confirmed": true, "copy": "Same fees as ACA staff"},
   "APPLICATION_STEPS": {"what": "Real application steps and document checklist", "proposed": "Applicant fills in the form; PLI contacts them with the steps for their degree (US or non-US)", "visual": "We contact you with your steps", "copy": "We'll contact you with the steps for your degree.", "confirmed": true},
   "LIVE_1": {"what": "Live Q&A #1", "proposed": "Wed 9 Dec 2026 · 7:30 pm", "confirmed": false},
   "LIVE_2": {"what": "Live Q&A #2", "proposed": "Wed 27 Jan 2027 · 7:30 pm", "confirmed": false},
@@ -21,5 +21,6 @@
   "CLASS_PATTERN": {"what": "Real class pattern (V05 'one class night')", "proposed": "One class night a week", "confirmed": false},
   "LOGOS_PHOTOS": {"what": "High-res logos, photos and content (shared folder from Salwa)", "proposed": "Coming", "confirmed": false},
   "ACCOUNTS_BUDGET": {"what": "Who runs the accounts and the ad budget", "proposed": "Not answered yet", "confirmed": false},
-  "HR_REVIEW": {"what": "HR review of final captions, scripts and posts (downloads/HR_REVIEW_PACK.md)", "proposed": "Before anything is published", "confirmed": false}
+  "HR_REVIEW": {"what": "HR review of final captions, scripts and posts (downloads/HR_REVIEW_PACK.md)", "proposed": "Before anything is published", "confirmed": false},
+  "PRICES_PUBLIC": {"what": "Fees in public content", "proposed": "None: Saint Mary's shares fees by email only (Dr. Claire via Salwa, 11 Nov 2026)", "copy": "Fees by email only", "confirmed": true}
 }

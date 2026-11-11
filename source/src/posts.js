@@ -121,11 +121,9 @@ const B = {
   S18: () => { const p = P('S18'); return { cls: 'bg-cream', body: `${shield()}
     <div class="abs" style="left:80px;top:150px"><div class="tagline c-indigo">${vt(p.sub)}</div></div>
     <div class="abs" style="left:80px;right:80px;top:260px;background:var(--indigo);border-radius:40px;padding:70px 70px 60px;color:#fff">
-      <div class="hd c-peri" style="font-size:90px">FROM</div>
-      <div class="hd c-cream" style="font-size:300px;line-height:.9">222.22</div>
-      <div class="hd c-cream" style="font-size:96px">KD / MONTH</div>
+      <div class="hd c-cream" style="font-size:200px;line-height:.92">PAY<br>MONTHLY</div>
       <div style="display:flex;gap:16px;margin-top:40px">${Array.from({ length: 18 }, () => '<i style="flex:1;height:44px;border-radius:8px;background:var(--peri)"></i>').join('')}</div>
-      <div class="sub" style="margin-top:22px;font-size:30px;color:#dfe6ff">ACA staff rate · 4,000 KD over 18 months</div></div>
+      <div class="sub" style="margin-top:22px;font-size:30px;color:#dfe6ff">18 months · ACA staff rate · fees by email</div></div>
     <div class="abs" style="left:80px;top:1150px"><span class="pill" style="font-size:32px">${vt(p.tag)}</span></div>` }; },
   S19: () => { const p = P('S19'); const conf = Array.from({ length: 40 }, (_, i) => { const x = (i * 197) % 1000 + 30, y = (i * 113) % 520 + 60, c = ['var(--peri)', 'var(--indigo)', 'var(--red)', 'var(--deep)'][i % 4], r = (i * 37) % 180; return `<i class="abs" style="left:${x}px;top:${y}px;width:${i % 3 ? 14 : 22}px;height:${i % 3 ? 34 : 22}px;border-radius:${i % 3 ? 4 : 50}px;background:${c};transform:rotate(${r}deg);opacity:${i % 4 === 2 ? .7 : 1}"></i>`; }).join('');
     return { cls: 'bg-cream', body: `${conf}${shield()}

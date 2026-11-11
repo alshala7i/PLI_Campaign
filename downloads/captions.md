@@ -56,24 +56,21 @@ January 2027 cohort → {{APPLY_LINK}}
 
 ---
 
-## V03 — The math
+## V03 — Pay monthly
 
 **Instagram / Facebook**
 
-What does a master's actually cost per month? 🧮
-ACA staff: 4,000 KD → 222.22 KD/month × 18
-External educators: 4,200 KD → 233.33 KD/month × 18
-ACA staff can also use their PL stipend and signing bonus toward tuition.
+How do you pay for a master's? One month at a time 🧮
+No lump sum: you pay monthly over 18 months.
+ACA staff get a staff rate and can use their PL stipend and signing bonus toward tuition.
 Plus our referral reward can waive your final payments (terms apply).
-DM us "PLAN" for your personal payment plan.
+DM us "PLAN" and we'll email you the fees and your personal payment plan.
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #MastersInEducation
 
 **LinkedIn**
 
-Cost is the first question every teacher asks, so here's the straight answer.
-MAED (Saint Mary's University of Minnesota): 4,000 KD for ACA staff (222.22 KD/month over 18 months) · 4,200 KD for external educators (233.33 KD/month).
-ACA staff can apply their PL stipend and signing bonus. Referral rewards can waive final payments.
-Ask for a personal payment plan → {{APPLY_LINK}}
+Cost is the first question every teacher asks. Here's how it works: the Saint Mary's University of Minnesota MAED is paid monthly over 18 months, ACA staff get a staff rate and can apply their PL stipend and signing bonus, and referral rewards can waive final payments.
+Ask us for the fees and a personal payment plan → {{APPLY_LINK}}
 
 ---
 
@@ -244,7 +241,7 @@ Final call: applications for PLI's March MAED cohort close Friday 5 March. → {
 
 **Instagram / Facebook**
 
-New to ACA? 👋 Did you know your signing bonus and PL stipend can go toward a Saint Mary's University of Minnesota master's — at the ACA staff rate (222.22 KD/month)?
+New to ACA? 👋 Did you know your signing bonus and PL stipend can go toward a Saint Mary's University of Minnesota master's — at the ACA staff rate, paid monthly?
 More than 6 in 10 of our past students were ACA educators. Start your first year with a plan.
 #GrowWhereYouTeach #ACAKuwait #NewTeacher #MAEd #TeachInKuwait
 
@@ -284,24 +281,21 @@ March 2027 cohort: applications open → {{APPLY_LINK}}
 
 ---
 
-## V03b — The math (March)
+## V03b — Pay monthly (March)
 
 **Instagram / Facebook**
 
-What does a master's actually cost per month? 🧮
-ACA staff: 4,000 KD → 222.22 KD/month × 18
-External educators: 4,200 KD → 233.33 KD/month × 18
-ACA staff can also use their PL stipend and signing bonus toward tuition.
+How do you pay for a master's? One month at a time 🧮
+No lump sum: you pay monthly over 18 months.
+ACA staff get a staff rate and can use their PL stipend and signing bonus toward tuition.
 Plus our referral reward can waive your final payments (terms apply).
-DM us "PLAN" for your personal payment plan.
+DM us "PLAN" and we'll email you the fees and your personal payment plan.
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #ProfessionalLearningInstitute #MastersInEducation
 
 **LinkedIn**
 
-Cost is the first question every teacher asks, so here's the straight answer.
-MAED (Saint Mary's University of Minnesota): 4,000 KD for ACA staff (222.22 KD/month over 18 months) · 4,200 KD for external educators (233.33 KD/month).
-ACA staff can apply their PL stipend and signing bonus. Referral rewards can waive final payments.
-Ask for a personal payment plan → {{APPLY_LINK}}
+Cost is the first question every teacher asks. Here's how it works: the Saint Mary's University of Minnesota MAED is paid monthly over 18 months, ACA staff get a staff rate and can apply their PL stipend and signing bonus, and referral rewards can waive final payments.
+Ask us for the fees and a personal payment plan → {{APPLY_LINK}}
 
 ---
 
@@ -343,15 +337,15 @@ For leaders with 10+ years of experience: the Saint Mary's University of Minneso
 
 ---
 
-## C04 — What does a master's really cost per month?
+## C04 — How does paying for a master's work?
 
 **Instagram / Facebook**
 
-The numbers, made simple 🧮 Save this and DM "PLAN" for your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
+Paying for a master's, made simple 🧮 Save this and DM "PLAN": we'll email you the fees and your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
 
 **LinkedIn**
 
-Clear pricing, monthly payments, and PL stipends for ACA staff — the full breakdown in one document. → {{APPLY_LINK}}
+Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → {{APPLY_LINK}}
 
 ---
 
@@ -495,15 +489,15 @@ New year, next step ✨ What's the one skill you want to master in 2027?
 
 ---
 
-## C04b — What does a master's really cost per month? (March)
+## C04b — How does paying for a master's work? (March)
 
 **Instagram / Facebook**
 
-The numbers, made simple 🧮 Save this and DM "PLAN" for your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
+Paying for a master's, made simple 🧮 Save this and DM "PLAN": we'll email you the fees and your personal plan. #MAEd #TeachersOfKuwait #GrowWhereYouTeach
 
 **LinkedIn**
 
-Clear pricing, monthly payments, and PL stipends for ACA staff — the full breakdown in one document. → {{APPLY_LINK}}
+Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → {{APPLY_LINK}}
 
 ---
 
@@ -854,7 +848,7 @@ Throwback to graduation day 🎓 Every one of these graduates started with one d
 
 ---
 
-## S18 — FROM 222.22 KD / MONTH
+## S18 — PAY MONTHLY
 
 **Instagram / Facebook**
 
@@ -921,7 +915,7 @@ If one of these sounds like you, our next cohort starts on 15 March.
 
 The first question every teacher asks me is "How much?"
 
-So we made the answer simple. The MAED is 4,000 KD for ACA staff, paid as 222.22 KD a month over 18 months. For external educators it's 4,200 KD, or 233.33 KD a month. ACA staff can also apply their PL stipend and signing bonus.
+So we made the answer simple. You pay the MAED monthly, over 18 months. ACA staff get a staff rate and can apply their PL stipend and signing bonus. Email me and I'll send you the exact fees and a plan that fits.
 
 No lump sum. No surprises. One month at a time.
 

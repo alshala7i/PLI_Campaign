@@ -91,7 +91,7 @@ pages.push(`<section class="pg indigo" style="padding:0">
   <div style="position:absolute;left:18mm;right:18mm;top:196mm;display:grid;grid-template-columns:1fr 1fr 1fr;gap:4mm;font-size:8.8pt">
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">PREPARED FOR</b><br>Salwa Sleiman<br>PLI Coordinator, American Creativity Academy</div>
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">CHANNELS</b><br>LinkedIn (main) · Instagram<br>Facebook · Internal ACA channels</div>
-    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Sun 15 Nov 2026 → Sat 3 Apr 2027<br>20 weeks + 1 setup week</div>
+    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Thu 12 Nov 2026 → Sat 3 Apr 2027<br>launch days + 20 weeks</div>
   </div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:44mm;background:var(--cream);color:var(--ink);display:flex;align-items:center;justify-content:space-between;padding:0 18mm">
     <div style="display:flex;align-items:center;gap:5mm">
@@ -111,7 +111,7 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
 <div class="grid3" style="margin-top:6mm">
   <div class="card ind"><h4>The big idea</h4><div style="font-family:var(--anton);font-size:19pt;line-height:1;color:var(--cream)">GROW WHERE YOU TEACH</div><p class="small" style="color:#dfe6ff;margin-top:2mm">Online: “Grow wherever you teach.” Ed.D: “Lead the next chapter.”</p></div>
   <div class="card"><h4>The proof</h4><div class="num">6 in 10</div><p class="small">of our past MAED students were ACA educators. Used in every asset.</p></div>
-  <div class="card"><h4>The offer</h4><div class="num">222.22 KD</div><p class="small">a month for ACA staff (4,000 KD ÷ 18). External: 233.33 KD/month.</p></div>
+  <div class="card"><h4>The offer</h4><div class="num">Monthly</div><p class="small">MAED paid over 18 months, ACA staff rate. Fees are shared by email only (Saint Mary's preference).</p></div>
   <div class="card"><h4>Who we talk to</h4><p class="small">ACA staff (the core) · new ACA hires · external educators in Kuwait · educators outside Kuwait (online) · experienced leaders (Ed.D).</p></div>
   <div class="card"><h4>Where</h4><p class="small"><b>LinkedIn</b> to convince · <b>Instagram</b> to remind · <b>Facebook</b> for reach and ads · <b>internal ACA channels</b> to convert staff.</p></div>
   <div class="card"><h4>When</h4><p class="small">January cohort: apply by Thu 24 Dec 2026, classes start Mon 4 Jan. March cohort: apply by Fri 5 Mar 2027, classes start Mon 15 Mar. Ed.D always-on.</p></div>
@@ -128,13 +128,13 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
 <li>January and March cohorts filled to the targets PLI sets, with a clear picture of which channel brought each student.</li>
 <li>PLI becomes the obvious answer when a teacher in Kuwait says “one day I'll do my master's”.</li>
 </ul>
-<p class="small" style="margin-top:4mm"><b>Budget (recommended):</b> about 2,000 KD of paid media over 20 weeks (lean option about 900 KD). One MAED enrolment is worth 4,000–4,200 KD, so the campaign pays for itself with very few extra students.</p>`));
+<p class="small" style="margin-top:4mm"><b>Budget (recommended):</b> about 2,000 KD of paid media over 20 weeks (lean option about 900 KD). One extra MAED enrolment covers most of the recommended budget, so the campaign pays for itself with very few extra students.</p>`));
 
 // 3. SITUATION
 pages.push(pg(n++, `${kick('Where PLI stands today')}<h1>A great product, told quietly.</h1>
 <p class="lead">The Professional Learning Institute delivers two Saint Mary's University of Minnesota degrees in Kuwait: the <b>MAED</b> (Master of Arts in Education — Curriculum &amp; Instruction or Educational Leadership; 30 credits, 10 courses, 18 months) and the <b>Ed.D</b> (Executive Leadership Doctorate; 39 credits, 3 years, fully online, no dissertation).</p>
 <div class="grid2" style="margin:6mm 0">
-  <div class="card"><h4>What the numbers say</h4><ul class="small"><li>About <b>62%</b> of past students were ACA staff; <b>38%</b> were external.</li><li>Students came from at least <b>eight nationalities</b>.</li><li>Prices are clear and monthly: 4,000 KD (staff) and 4,200 KD (external) over 18 months.</li></ul></div>
+  <div class="card"><h4>What the numbers say</h4><ul class="small"><li>About <b>62%</b> of past students were ACA staff; <b>38%</b> were external.</li><li>Students came from at least <b>eight nationalities</b>.</li><li>Payments are monthly, over 18 months, with a staff rate for ACA educators.</li></ul></div>
   <div class="card"><h4>What the audience sees</h4><ul class="small"><li>A good-looking Instagram, mostly about events (Saturday Learning Series) and programme facts.</li><li>No price, no proof story, no clear “apply here”.</li><li>Website “Apply Now” buttons that lead to ACA job listings, not to PLI.</li></ul></div>
 </div>
 <h3>The diagnosis in plain words</h3>
@@ -150,7 +150,7 @@ const SW = {
     ['S1', 'Proof from inside', 'More than 6 in 10 past MAED students were ACA educators — the strongest social proof a teacher can hear.'],
     ['S2', 'A real US degree', "Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission."],
     ['S3', 'Built for working teachers', 'Weekly in-person classes in Kuwait, 18 months, no career pause.'],
-    ['S4', 'Simple money', '222.22 / 233.33 KD a month, PL stipend and signing bonus for ACA staff, a referral reward.'],
+    ['S4', 'Simple money', 'Monthly payments, a staff rate, PL stipend and signing bonus for ACA staff, a referral reward.'],
     ['S5', 'A diverse community', '38% external students from 8+ nationalities: credible beyond ACA.'],
     ['S6', 'Brand and events', 'A recognisable visual identity, real graduation photos and a warm Saturday Learning Series audience.'],
     ['S7', 'A rare doctorate', 'Executive Ed.D: online, 3 years, no dissertation — few local competitors.'],
@@ -180,9 +180,9 @@ pages.push(pg(n++, `${kick('Strengths and weaknesses')}<h1 style="font-size:26pt
 // 5. GOALS
 pages.push(pg(n++, `${kick('Campaign goals')}<h1 style="font-size:26pt;margin-bottom:2mm">Short-term wins, long-term position.</h1>
 <p class="lead" style="margin-bottom:1mm">Short-term goals fill the next two cohorts. Long-term goals make sure PLI never has to start from zero again.</p>
-<h3>Short-term goals · this campaign (15 Nov 2026 – 3 Apr 2027)</h3>
+<h3>Short-term goals · this campaign (12 Nov 2026 – 3 Apr 2027)</h3>
 <table><tr><th style="width:8%">#</th><th style="width:42%">Goal</th><th>How we measure it</th></tr>
-<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on 15 Nov; every bio, ad and post uses the same link.</td></tr>
+<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on Thu 12 Nov; every bio, ad and post uses the same link.</td></tr>
 <tr><td><b>ST2</b></td><td>Fill the January cohort (deadline Thu 24 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
 <tr><td><b>ST3</b></td><td>Fill the March cohort, including the first online learners (deadline Fri 5 Mar).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
 <tr><td><b>ST4</b></td><td>Generate qualified leads every week from every channel.</td><td>Leads by source (UTM) and segment; cost per lead on paid media.</td></tr>
@@ -246,7 +246,7 @@ pages.push(pg(n++, `${kick('Big idea and messages')}<h1>Grow where you teach.</h
 <table><tr><th style="width:6%">#</th><th style="width:28%">Message</th><th>What we say</th></tr>
 <tr><td>1</td><td><b>Proof</b></td><td>Your colleagues already did it — more than 6 in 10 of our past MAED students were ACA educators.</td></tr>
 <tr><td>2</td><td><b>Built for working teachers</b></td><td>Weekly in-person classes in Kuwait, 18 months, keep teaching.</td></tr>
-<tr><td>3</td><td><b>Simple money</b></td><td>From 222.22 KD a month (ACA staff) / 233.33 KD (external) · PL stipend + signing bonus · referral reward.</td></tr>
+<tr><td>3</td><td><b>Simple money</b></td><td>Pay monthly over 18 months · ACA staff rate · PL stipend + signing bonus · referral reward (fees by email).</td></tr>
 <tr><td>4</td><td><b>Credibility</b></td><td>Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission.</td></tr>
 <tr><td>5</td><td><b>Reach</b></td><td>An online option for anyone outside Kuwait, leading to the same degree.</td></tr></table>
 <h3>Tone of voice</h3>
@@ -255,9 +255,9 @@ pages.push(pg(n++, `${kick('Big idea and messages')}<h1>Grow where you teach.</h
 // 8. AUDIENCES + CHANNELS
 pages.push(pg(n++, `${kick('Who we talk to, and where')}<h1>Five audiences, four channels.</h1>
 <table><tr><th style="width:4%">#</th><th style="width:22%">Audience</th><th>What they need to hear</th><th style="width:22%">Main channels</th></tr>
-<tr><td>A</td><td><b>ACA staff</b> — the core (~62%)</td><td>Your colleagues did it · staff rate 4,000 KD (222.22 KD/month) · PL stipend and signing bonus · classes on campus · referrals save money</td><td>Internal first, then Instagram, LinkedIn, retargeting</td></tr>
+<tr><td>A</td><td><b>ACA staff</b> — the core (~62%)</td><td>Your colleagues did it · ACA staff rate, paid monthly · PL stipend and signing bonus · classes on campus · referrals save money</td><td>Internal first, then Instagram, LinkedIn, retargeting</td></tr>
 <tr><td>B</td><td><b>New ACA hires</b></td><td>Your signing bonus and PL stipend can fund a master's · start your first year with a plan</td><td>HR onboarding, Instagram, staff email</td></tr>
-<tr><td>C</td><td><b>External educators in Kuwait</b> (~38%)</td><td>A US degree delivered in Kuwait · built for working teachers · 4,200 KD (233.33 KD/month)</td><td>LinkedIn (main), Instagram, Facebook groups, Meta ads</td></tr>
+<tr><td>C</td><td><b>External educators in Kuwait</b> (~38%)</td><td>A US degree delivered in Kuwait · built for working teachers · pay monthly</td><td>LinkedIn (main), Instagram, Facebook groups, Meta ads</td></tr>
 <tr><td>D</td><td><b>Educators outside Kuwait</b></td><td>Same programme, same degree and diploma, studied online</td><td>LinkedIn, Meta ads (GCC), ACA alumni email</td></tr>
 <tr><td>E</td><td><b>Experienced leaders</b> (10+ years)</td><td>Executive doctorate, online, no dissertation, monthly plan</td><td>LinkedIn (main), personal outreach</td></tr>
 <tr><td>F</td><td><b>Kuwaiti citizens</b> (sensitive)</td><td>The HR-approved wording for Kuwaiti citizens — handled one-to-one, never targeted with salary or career-benefit messages</td><td>Personal conversations, FAQ</td></tr></table>
@@ -282,7 +282,7 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 <li><b>Response standard.</b> A reply within 24 hours (working days) and an offer of a 15-minute call.</li>
 <li><b>Lead tracker.</b> One shared sheet: date, source (UTM), segment, programme, cohort, status (New → Contacted → Call booked → Applied → Enrolled → Lost + reason).</li>
 </ol></div>
-<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov)</h3>
+<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov · launch Thu 12)</h3>
 <ul class="check small">
 <li>✅ Deadlines, start dates, application steps, Ed.D price, referral terms and Kuwait wording confirmed (11 Nov).</li>
 <li>Create the form and the lead tracker.</li>
@@ -298,7 +298,7 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 
 // 10. PHASES
 const PHASES = [
-  ['0 · Setup', '8–14 Nov', 'Path to conversion ready'],
+  ['0 · Setup + launch', '8–14 Nov', 'Launch Thu 12 Nov · path to conversion ready'],
   ['1 · Launch Jan', '15 Nov–12 Dec', 'Awareness + consideration · Live #1 (9 Dec)'],
   ['2 · Close Jan', '13–26 Dec', 'Applications · deadline Thu 24 Dec'],
   ['3 · New year + Ed.D', '27 Dec–9 Jan', 'Growth plan, Ed.D, welcome January (4 Jan)'],
@@ -383,7 +383,7 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 <tr><td>Kuwait: expatriate teachers</td><td>HR-approved, word for word: “…Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.”</td><td>“Recognized in Kuwait”, “MOHE approved”; any work-permit, promotion or salary promise</td></tr>
 <tr><td>Kuwaiti citizens</td><td>HR-approved, word for word: “…Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.”</td><td>Naming other authorities; any earlier submission or “approval pending”</td></tr>
 <tr><td>Online option</td><td>“Same programme. Same degree. Same diploma.”</td><td>Anything that sounds like hiding it</td></tr>
-<tr><td>Price</td><td>4,000 KD (222.22 × 18) staff · 4,200 KD (233.33 × 18) external · Ed.D 14,760 KD for everyone (410 × 36 or 307.50 × 48)</td><td>“Cheap”, “free”, rounded figures</td></tr>
+<tr><td>Price</td><td>“Pay monthly”, “ACA staff rate”, “Ask us for the fees”. Fees go by email only (private price sheet).</td><td>Any fee or monthly figure in public content; “cheap”, “free”</td></tr>
 <tr><td>Referral</td><td>Refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply</td><td>Cash rewards</td></tr>
 <tr><td>Outcomes</td><td>“Grow”, “deepen your practice”, “step toward leadership”</td><td>Guaranteed promotion, salary adjustment, work permit, job</td></tr>
 <tr><td>Testimonials</td><td>Real graduates, real words, written consent, real photos</td><td>Invented quotes, AI “graduates”, stock photos</td></tr></table>`, 'cream'));
@@ -392,7 +392,7 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 const PHL = Object.entries(L.PH).filter(([k]) => !/SPOKEN/.test(k));
 pages.push(pg(n++, `${kick('Before publishing')}<h1>What we need from PLI.</h1>
 <p class="lead">Confirmed by PLI on 11 November 2026 where marked. Open items must be confirmed before they go live; captions keep a visible [placeholder] where the form link is needed. HR reviews the final captions, scripts and posts before publishing.</p>
-<table><tr><th style="width:42%">Item</th><th>Proposed value</th><th style="width:16%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
+<table class="cal" style="font-size:7pt"><tr><th style="width:40%">Item</th><th>Value</th><th style="width:14%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
 
 pages.push(pg(n++, `${kick('Making it happen')}<h1>How to run it, week by week.</h1>
 <div class="grid2" style="align-items:start">
