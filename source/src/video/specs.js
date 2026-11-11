@@ -88,7 +88,7 @@ S.V08 = { vo: vo('V08'), cover: 0, scenes: [
 
 S.V09 = { vo: vo('V09'), cover: 0, scenes: [
   { type: 'question', bg: 'cream', q: 'IS IT ACCREDITED?', sub: 'Straight answers.' },
-  { type: 'checks', bg: 'indigo', at: "Saint Mary's University", icon: 'shield', items: ['Accredited by the Higher Learning Commission in the United States'], size: 58 },
+  { type: 'checks', bg: 'cream', at: "Saint Mary's University", icon: 'shield', items: ['Accredited by the Higher Learning Commission in the United States'], size: 58 },
   { type: 'stack', bg: 'cream', at: 'For expatriate', lines: [{ text: 'EXPATRIATE TEACHERS', size: 110 }], sub: "Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application." },
   { type: 'stack', bg: 'peri', at: 'For Kuwaiti', lines: [{ text: 'KUWAITI CITIZENS', size: 120 }], sub: 'Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.' },
   { type: 'end', at: 'Questions', lines: ['QUESTIONS? ASK US ANYTHING.', 'Straight answers', 'pli@aca.edu.kw'], cta: 'Ask us anything' },

@@ -123,14 +123,14 @@ Next cohort → {{APPLY_LINK}}
 **Instagram / Facebook**
 
 Tag the colleague you'd do your master's with 👇
-Refer 2 who register → your final payment is waived.
+Refer 2 who enroll and complete their courses → your final payment is waived.
 Refer 4 who register and continue → your last 2 payments are waived.
 Terms apply — DM us for details.
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #TeacherFriends #ProfessionalLearningInstitute
 
 **LinkedIn**
 
-Professional growth is easier as a team. PLI's referral reward: refer 2 educators who register and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}
+Professional growth is easier as a team. PLI's referral reward: refer 2 educators who enroll and complete their courses and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}
 
 ---
 
@@ -173,14 +173,14 @@ Choosing between Curriculum & Instruction and Educational Leadership? A simple r
 **Instagram / Facebook**
 
 "Is it accredited?" — the question we get most. Straight answers:
-✔ Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.
-✔ In Kuwait, the degree is recognized by the Ministry of Education as part of work-permit approval.
-Kuwaiti citizens: please talk to us about the public-sector salary scale before applying — we'll give you the full picture.
+✔ Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.
+Expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.
+Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.
 #ProfessionalLearningInstitute #MAEd #SaintMarysUniversity #TeachersOfKuwait
 
 **LinkedIn**
 
-Transparency matters when choosing a degree. Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission, and in Kuwait the degree is recognized by the Ministry of Education as part of work-permit approval. Kuwaiti citizens considering the public-sector salary scale: please speak to us first. → pli@aca.edu.kw
+Transparency matters when choosing a degree. Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States. For expatriate teachers: Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application. For Kuwaiti citizens: Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling. Questions? → pli@aca.edu.kw
 
 ---
 
@@ -189,12 +189,12 @@ Transparency matters when choosing a degree. Saint Mary's University of Minnesot
 **Instagram / Facebook**
 
 ⏳ One week left for the January cohort.
-Applications close Sunday 20 December. Link in bio · pli@aca.edu.kw
+Applications close Thursday 24 December. Link in bio · pli@aca.edu.kw
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #LastCall
 
 **LinkedIn**
 
-Final week: applications for PLI's January 2027 MAED cohort close Sunday 20 December. → {{APPLY_LINK}}
+Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 December. → {{APPLY_LINK}}
 
 ---
 
@@ -203,12 +203,12 @@ Final week: applications for PLI's January 2027 MAED cohort close Sunday 20 Dece
 **Instagram / Facebook**
 
 Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.
-Missed this one? Our next cohort starts at the end of March — applications are open now.
+Missed this one? Our next cohort starts on 15 March — applications are open now.
 #GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute
 
 **LinkedIn**
 
-A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the end-of-March cohort are now open → {{APPLY_LINK}}
+A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → {{APPLY_LINK}}
 
 ---
 
@@ -230,13 +230,13 @@ Ramadan Kareem from the Professional Learning Institute. If you're reflecting on
 
 **Instagram / Facebook**
 
-Final call 📣 March cohort applications close Sunday 21 March.
+Final call 📣 March cohort applications close Friday 5 March.
 18 months from now, be the one who did it. Link in bio.
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #FinalCall
 
 **LinkedIn**
 
-Final call: applications for PLI's end-of-March MAED cohort close Sunday 21 March. → {{APPLY_LINK}}
+Final call: applications for PLI's March MAED cohort close Friday 5 March. → {{APPLY_LINK}}
 
 ---
 
@@ -278,7 +278,7 @@ They taught full days and earned a Saint Mary's University of Minnesota Master o
 
 If you've been saying "one day", this is a programme your own colleagues have already proven works around a teaching schedule.
 
-End-of-March 2027 cohort: applications open → {{APPLY_LINK}}
+March 2027 cohort: applications open → {{APPLY_LINK}}
 
 #MAEd #ProfessionalDevelopment #TeachersOfKuwait
 
@@ -387,7 +387,7 @@ The 8 questions we hear most — answered honestly. Got another one? Drop it in 
 
 **LinkedIn**
 
-Before you apply, read this: time, cost, PL funds, accreditation, recognition in Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
+Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
 
 ---
 
@@ -515,7 +515,7 @@ The 8 questions we hear most — answered honestly. Got another one? Drop it in 
 
 **LinkedIn**
 
-Before you apply, read this: time, cost, PL funds, accreditation, recognition in Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
+Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
 
 ---
 
@@ -672,11 +672,11 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 
 **Instagram / Facebook**
 
-⏳ Final week for the January cohort. Applications close Sunday 20 December. Link in bio.
+⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
 
 **LinkedIn**
 
-⏳ Final week for the January cohort. Applications close Sunday 20 December. Link in bio.
+⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
 → {{APPLY_LINK}}
 
 ---
@@ -753,11 +753,11 @@ Welcome to our March 2027 cohort! 🎉
 
 **Instagram / Facebook**
 
-Missed January? Our next MAED cohort starts at the end of March 🗓️ Applications are open now. Link in bio.
+Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
 
 **LinkedIn**
 
-Missed January? Our next MAED cohort starts at the end of March 🗓️ Applications are open now. Link in bio.
+Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
 → {{APPLY_LINK}}
 
 ---
@@ -910,7 +910,7 @@ Three things I've learned from coordinating our MAED cohorts:
 2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.
 3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.
 
-If one of these sounds like you, our next cohort starts at the end of March.
+If one of these sounds like you, our next cohort starts on 15 March.
 → {{APPLY_LINK}}
 
 ---
