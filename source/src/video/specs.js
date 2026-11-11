@@ -48,7 +48,7 @@ S.V04 = { vo: vo('V04'), cover: 4, scenes: [
   { type: 'counters', bg: 'indigo', at: 'Thirty-nine credits', items: [{ n: 39, label: 'CREDITS', at: 'Thirty-nine credits' }, { n: 3, label: 'YEARS', at: 'three years' }], foot: 'FULLY ONLINE + LOCAL COHORT', footAt: { at: 'Fully online' } },
   { type: 'stamp', bg: 'cream', at: 'And no dissertation', lines: [{ text: 'NO', size: 260, color: 'deep' }, { text: 'DISSERTATION', size: 170 }], strike: true },
   { type: 'bars', bg: 'indigo', at: "It's designed", head: 'FOR LEADERS WITH', items: [{ text: '10+ YEARS OF', at: 'ten or more' }, { text: 'LEADERSHIP EXPERIENCE', at: 'leadership experience' }] },
-  { type: 'split', at: 'Pay monthly', a: { tag: 'Option 1 · for staff', title: '410 KD / MONTH', sub: '× 36 months', bg: 'peri' }, b: { tag: 'Option 2 · for staff', title: '307.50 KD / MONTH', sub: '× 48 months', bg: 'indigo', at: 'forty-eight' } },
+  { type: 'split', at: 'Pay monthly', a: { tag: 'Option 1', title: '410 KD / MONTH', sub: '× 36 months', bg: 'peri' }, b: { tag: 'Option 2', title: '307.50 KD / MONTH', sub: '× 48 months', bg: 'indigo', at: 'forty-eight' } },
   { type: 'end', bg: 'deep', at: 'Lead the next', lines: ['LEAD THE NEXT CHAPTER.', 'Ask about the Ed.D', CONTACT], cta: 'Ask about the Ed.D' },
 ] };
 
@@ -63,7 +63,7 @@ S.V05 = { vo: vo('V05'), cover: 1, scenes: [
 
 S.V06 = { vo: vo('V06'), cover: 1, scenes: [
   { type: 'icon', bg: 'cream', icon: 'people', iconSize: 360, lines: [{ text: "A MASTER'S IS BETTER WITH FRIENDS.", size: 120 }] },
-  { type: 'blocks', bg: 'indigo', at: 'Refer two', head: 'REFER 2 WHO REGISTER → FINAL PAYMENT WAIVED', headSize: 88, total: 18, waived: 1, wAt: { at: 'final payment' }, label: 'Your final payment' },
+  { type: 'blocks', bg: 'indigo', at: 'Refer two', head: 'REFER 2 WHO ENROLL & COMPLETE → FINAL PAYMENT WAIVED', headSize: 88, total: 18, waived: 1, wAt: { at: 'final payment' }, label: 'Your final payment' },
   { type: 'blocks', bg: 'cream', at: 'Refer four', head: 'REFER 4 WHO REGISTER & CONTINUE → LAST 2 PAYMENTS WAIVED', headSize: 80, total: 18, waived: 2, wAt: { at: 'last two' }, label: 'Your last 2 payments' },
   { type: 'tags', bg: 'indigo', at: 'Bring your', tags: ['YOUR TEACHING PARTNER', 'YOUR GRADE TEAM', 'YOUR “ONE DAY” FRIEND'], tagAt: [{ at: 'teaching partner' }, { at: 'grade-level' }, { at: 'That friend' }], size: 60 },
   { type: 'end', at: 'Make it this', lines: ['MAKE IT THIS COHORT.', 'Terms apply · Ask us for details', CONTACT], cta: 'Tag your colleague' },
@@ -88,10 +88,10 @@ S.V08 = { vo: vo('V08'), cover: 0, scenes: [
 
 S.V09 = { vo: vo('V09'), cover: 0, scenes: [
   { type: 'question', bg: 'cream', q: 'IS IT ACCREDITED?', sub: 'Straight answers.' },
-  { type: 'checks', bg: 'indigo', at: "Saint Mary's University", icon: 'shield', items: ['Accredited in the US by the Higher Learning Commission'], size: 58 },
-  { type: 'checks', bg: 'cream', at: 'In Kuwait', items: ["Recognized by Kuwait's Ministry of Education for work-permit approval"], size: 58 },
-  { type: 'stack', bg: 'peri', at: "If you're a Kuwaiti", lines: [{ text: 'KUWAITI CITIZEN?', size: 150 }], sub: 'Ask us about the salary scale before you apply.' },
-  { type: 'end', at: 'No fine print', lines: ['NO FINE PRINT. JUST ANSWERS.', 'Ask us anything', 'pli@aca.edu.kw'], cta: 'Ask us anything' },
+  { type: 'checks', bg: 'cream', at: "Saint Mary's University", icon: 'shield', items: ['Accredited by the Higher Learning Commission in the United States'], size: 58 },
+  { type: 'stack', bg: 'cream', at: 'For expatriate', lines: [{ text: 'EXPATRIATE TEACHERS', size: 110 }], sub: "Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application." },
+  { type: 'stack', bg: 'peri', at: 'For Kuwaiti', lines: [{ text: 'KUWAITI CITIZENS', size: 120 }], sub: 'Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.' },
+  { type: 'end', at: 'Questions', lines: ['QUESTIONS? ASK US ANYTHING.', 'Straight answers', 'pli@aca.edu.kw'], cta: 'Ask us anything' },
 ] };
 
 S.V10 = { vo: vo('V10'), cover: 0, scenes: [
@@ -106,7 +106,7 @@ S.V11 = { vo: vo('V11'), cover: 0, scenes: [
   { type: 'photo', bg: 'cream', photo: P.class, lines: ['WELCOME, JANUARY COHORT.'] },
   { type: 'dots', bg: 'cream', at: 'Teachers from our', pre: 'FROM OUR CLASSROOMS', big: 'AND BEYOND.', bigSize: 190, sub: 'Canadian · American · British · South African · Lebanese · Jordanian · Tunisian · Kuwaiti' },
   { type: 'stamp', bg: 'indigo', at: 'Missed it', lines: [{ text: 'MISSED IT?', size: 230 }] },
-  { type: 'bignum', bg: 'cream', at: 'The next cohort', head: 'NEXT COHORT:', num: 'MAR', label: 'END OF MARCH' },
+  { type: 'bignum', bg: 'cream', at: 'The next cohort', head: 'NEXT COHORT:', num: 'MAR', label: 'STARTS 15 MARCH' },
   { type: 'end', at: 'Same programme', lines: ['SAME PROGRAMME · SAME SUPPORT · SAME MONTHLY PLAN', 'March cohort · Applications open', CONTACT], size: 104, cta: 'Apply now' },
 ] };
 

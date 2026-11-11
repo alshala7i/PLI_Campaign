@@ -2,7 +2,7 @@
 
 **Live kit:** https://alshala7i.github.io/PLI_Campaign/
 
-The complete social-media campaign for the Professional Learning Institute (American Creativity Academy, Kuwait): the Saint Mary's University of Minnesota MAED and Ed.D cohorts of January and end of March 2027.
+The complete social-media campaign for the Professional Learning Institute (American Creativity Academy, Kuwait): the Saint Mary's University of Minnesota MAED and Ed.D cohorts of January (classes from 4 January) and March 2027 (classes from 15 March).
 
 Made entirely with the **مصنع المحتوى (Content Factory)** app: strategy, design, motion, voiceover, captions and calendar.
 
@@ -21,7 +21,7 @@ Made entirely with the **مصنع المحتوى (Content Factory)** app: strate
 
 ## Before publishing
 
-Open `downloads/PLACEHOLDERS_OPEN.md`. Deadlines, start dates, the application form link, the Kuwait recognition wording and the referral terms must be confirmed by PLI. Graduate spotlights (S03a–e) and the Saturday Learning Series recap (C12) are templates waiting for real people and real words.
+PLI confirmed on 11 Nov 2026: deadlines (Thu 24 Dec · Fri 5 Mar), start dates (Mon 4 Jan · Mon 15 Mar), prices, the Ed.D price (same for everyone), referral terms and the HR-approved Kuwait wording (used word for word). HR reviews every caption, script and post before publishing: `downloads/HR_REVIEW_PACK.md`. Still open (`downloads/PLACEHOLDERS_OPEN.md`): the form link, graduate spotlights (S03a–e, 4 consenting graduates), logos/photos, who runs the accounts and the ad budget.
 
 ## Re-render (after editing `source/config/placeholders.json`)
 

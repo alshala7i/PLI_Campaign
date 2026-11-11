@@ -1,39 +1,43 @@
 1
-00:00:00,300 --> 00:00:03,100
+00:00:00,300 --> 00:00:03,020
 One week left to join the January cohort.
 
 2
-00:00:03,100 --> 00:00:05,740
+00:00:03,020 --> 00:00:05,820
 In eighteen months, you could be holding a master's
 
 3
-00:00:05,740 --> 00:00:08,860
+00:00:05,820 --> 00:00:08,780
 degree from Saint Mary's University of Minnesota.
 
 4
-00:00:08,860 --> 00:00:11,580
+00:00:08,780 --> 00:00:11,420
 Or watching this video again next year.
 
 5
-00:00:11,580 --> 00:00:12,700
+00:00:11,420 --> 00:00:12,460
 Thirty credits.
 
 6
-00:00:12,700 --> 00:00:13,820
+00:00:12,460 --> 00:00:13,420
 Ten courses.
 
 7
-00:00:13,820 --> 00:00:14,860
+00:00:13,420 --> 00:00:14,460
 Pay monthly.
 
 8
-00:00:14,860 --> 00:00:16,540
+00:00:14,460 --> 00:00:16,220
 Your colleagues already did it.
 
 9
-00:00:16,540 --> 00:00:19,180
-Applications close Sunday, December twentieth.
+00:00:16,220 --> 00:00:17,820
+Applications close Thursday,
 
 10
-00:00:19,180 --> 00:00:20,560
+00:00:17,820 --> 00:00:19,260
+December twenty-fourth.
+
+11
+00:00:19,260 --> 00:00:20,800
 Apply today.

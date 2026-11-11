@@ -34,7 +34,7 @@ cpDir(path.join(OUT, 'assets'), path.join(SITE, 'assets'), (f) => !/_silent|_mix
 // downloads
 const DL = path.join(SITE, 'downloads');
 fs.mkdirSync(DL, { recursive: true });
-['PLI_Campaign_Plan_Grow_Where_You_Teach.pdf', 'calendar.csv', 'calendar.xlsx', 'captions.md', 'QA_REPORT.md', 'PLACEHOLDERS_OPEN.md'].forEach((f) => fs.existsSync(path.join(OUT, f)) && cp(path.join(OUT, f), path.join(DL, f)));
+['PLI_Campaign_Plan_Grow_Where_You_Teach.pdf', 'calendar.csv', 'calendar.xlsx', 'captions.md', 'QA_REPORT.md', 'PLACEHOLDERS_OPEN.md', 'HR_REVIEW_PACK.md'].forEach((f) => fs.existsSync(path.join(OUT, f)) && cp(path.join(OUT, f), path.join(DL, f)));
 cpDir(path.join(OUT, 'captions'), path.join(DL, 'captions'));
 // branding
 cp(path.join(L.ROOT, 'assets/logos/masna3-icon.png'), path.join(SITE, 'masna3-icon.png'));
@@ -171,7 +171,7 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
   <button class="btn sm ghost themebtn" id="theme" aria-label="Toggle dark mode">◐</button>
   <div class="brandrow"><img src="pli-shield.png" alt="PLI shield"><div class="t">PROFESSIONAL<br>LEARNING INSTITUTE</div></div>
   <h1>Grow where<br>you teach</h1>
-  <p class="lede">The complete campaign kit for the Saint Mary's University of Minnesota MAED and Ed.D cohorts — January and end of March 2027. Download, copy, post.</p>
+  <p class="lede">The complete campaign kit for the Saint Mary's University of Minnesota MAED and Ed.D cohorts — January and March 2027. Download, copy, post.</p>
   <div class="dots" aria-hidden="true"><i class="f"></i><i class="f"></i><i class="f"></i><i class="f"></i><i class="f"></i><i class="f"></i><i></i><i></i><i></i><i></i></div>
   <div style="font-size:14px;color:var(--peri)">More than 6 in 10 of our past MAED students were ACA educators.</div>
   <div class="stats"><span class="stat"><b>${counts.videos}</b> videos × 2 voices</span><span class="stat"><b>${counts.carousels}</b> carousels · <b>${counts.slides}</b> slides</span><span class="stat"><b>${counts.posts}</b> posts</span><span class="stat"><b>${counts.stories}</b> story frames</span><span class="stat"><b>${counts.cal}</b> scheduled posts</span></div>
@@ -187,8 +187,8 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
   <div class="panel">
     <div class="row2">
       <div><label for="f-link">Application / enquiry form link</label><input id="f-link" placeholder="https://forms.office.com/…" inputmode="url"></div>
-      <div><label for="f-jan">January deadline (as written)</label><input id="f-jan" placeholder="Sunday 20 December"></div>
-      <div><label for="f-mar">March deadline (as written)</label><input id="f-mar" placeholder="Sunday 21 March"></div>
+      <div><label for="f-jan">January deadline (as written)</label><input id="f-jan" placeholder="Thursday 24 December"></div>
+      <div><label for="f-mar">March deadline (as written)</label><input id="f-mar" placeholder="Friday 5 March"></div>
     </div>
     <div class="row2">
       <div><label>Instagram bio</label><pre class="cap" style="margin:4px 0" id="bio"></pre><button class="btn sm" data-copy-el="bio">Copy bio</button></div>
@@ -214,7 +214,7 @@ const D=${JSON.stringify(DATA)};
 const $=s=>document.querySelector(s), h=(t,a={},...c)=>{const e=document.createElement(t);for(const[k,v]of Object.entries(a)){if(k==='html')e.innerHTML=v;else if(k.startsWith('on'))e.addEventListener(k.slice(2),v);else e.setAttribute(k,v)}c.flat().forEach(x=>x!=null&&e.append(x));return e};
 const store={get(k){try{return localStorage.getItem('pli.'+k)||''}catch(e){return''}},set(k,v){try{localStorage.setItem('pli.'+k,v)}catch(e){}}};
 let VOICE=store.get('voice')||'eric';
-function fill(t){if(!t)return'';const link=store.get('link'),jan=store.get('jan'),mar=store.get('mar');let s=t;if(link)s=s.split('{{APPLY_LINK}}').join(link);if(jan)s=s.split('Sunday 20 December').join(jan);if(mar)s=s.split('Sunday 21 March').join(mar);return s}
+function fill(t){if(!t)return'';const link=store.get('link'),jan=store.get('jan'),mar=store.get('mar');let s=t;if(link)s=s.split('{{APPLY_LINK}}').join(link);if(jan)s=s.split('Thursday 24 December').join(jan);if(mar)s=s.split('Friday 5 March').join(mar);return s}
 function toast(m){const t=$('#toast');t.textContent=m||'Copied';t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1300)}
 async function copy(t){t=fill(t);try{await navigator.clipboard.writeText(t)}catch(e){const a=h('textarea');a.value=t;document.body.append(a);a.select();document.execCommand('copy');a.remove()}toast(t.includes('{{')?'Copied — still has a {{placeholder}}':'Copied')}
 const capBlock=(label,text)=>text?h('details',{},h('summary',{},label),h('pre',{class:'cap',html:esc(text).replace(/\\{\\{([A-Z_0-9]+)\\}\\}/g,'<span class="ph">{{$1}}</span>')}),h('button',{class:'btn sm',onclick:()=>copy(text)},'Copy')):null;
@@ -224,7 +224,7 @@ const byId=id=>D.assets.find(a=>a.id===id);
 // start
 ['link','jan','mar'].forEach(k=>{const i=$('#f-'+k);i.value=store.get(k);i.addEventListener('input',()=>{store.set(k,i.value.trim());warn()})});
 $('#bio').textContent=D.bio; document.querySelectorAll('[data-copy-el]').forEach(b=>b.onclick=()=>copy($('#'+b.dataset.copyEl).textContent));
-function warn(){const open=Object.entries(D.placeholders).filter(([k,v])=>!v.confirmed).length;$('#ph-warn').innerHTML=(store.get('link')?'':'<b>Add your form link above</b> — captions use {{APPLY_LINK}} until you do. ')+open+' items in the plan still need PLI confirmation (deadlines, recognition wording, referral terms…). See <a href="downloads/PLACEHOLDERS_OPEN.md">PLACEHOLDERS_OPEN.md</a>.'}
+function warn(){const open=Object.entries(D.placeholders).filter(([k,v])=>!v.confirmed).length;$('#ph-warn').innerHTML=(store.get('link')?'':'<b>Add your form link above</b> — captions use {{APPLY_LINK}} until you do. ')+open+' items are still open (form link, graduate stories, photos and logos, HR review…). See <a href="downloads/PLACEHOLDERS_OPEN.md">PLACEHOLDERS_OPEN.md</a>.'}
 warn();
 function setVoice(v){VOICE=v;store.set('voice',v);document.querySelectorAll('.vtog [data-v]').forEach(b=>b.classList.toggle('on',b.dataset.v===v));document.querySelectorAll('[data-vid]').forEach(el=>renderVid(el))}
 // videos
@@ -252,7 +252,7 @@ $('#ext').append(h('div',{class:'grid g-vid'},...ex.emails.map((e,i)=>h('div',{c
  h('h3',{},'Print & guide'),h('div',{class:'dl'},dlb('assets/extras/poster_jan.pdf','Staff-room poster · January (A3)'),dlb('assets/extras/poster_mar.pdf','Staff-room poster · March (A3)'),dlb('assets/extras/programme_guide.pdf','Programme guide (2 pages)')),
  h('h3',{},'LinkedIn showcase tagline'),h('pre',{class:'cap'},D.tagline));
 // files
-[['downloads/PLI_Campaign_Plan_Grow_Where_You_Teach.pdf','Campaign plan PDF'],['downloads/calendar.xlsx','Calendar + lead tracker (Excel)'],['downloads/calendar.csv','Calendar (CSV)'],['downloads/captions.md','All captions'],['downloads/PLACEHOLDERS_OPEN.md','Placeholders to confirm'],['downloads/QA_REPORT.md','QA report'],['downloads/PLI_kit_images_and_docs.zip','All images + docs (zip)']].forEach(([f,l])=>$('#filelist').append(dlb(f,l)));
+[['downloads/PLI_Campaign_Plan_Grow_Where_You_Teach.pdf','Campaign plan PDF'],['downloads/calendar.xlsx','Calendar + lead tracker (Excel)'],['downloads/calendar.csv','Calendar (CSV)'],['downloads/captions.md','All captions'],['downloads/PLACEHOLDERS_OPEN.md','Placeholders to confirm'],['downloads/HR_REVIEW_PACK.md','HR review pack (all copy)'],['downloads/QA_REPORT.md','QA report'],['downloads/PLI_kit_images_and_docs.zip','All images + docs (zip)']].forEach(([f,l])=>$('#filelist').append(dlb(f,l)));
 // calendar
 const plcls=p=>p.startsWith('LinkedIn (S')?'sa':p.startsWith('LinkedIn')?'li':p==='Instagram'?'ig':'fb';
 let CF=store.get('calf')||'All';

@@ -114,7 +114,7 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
   <div class="card"><h4>The offer</h4><div class="num">222.22 KD</div><p class="small">a month for ACA staff (4,000 KD ÷ 18). External: 233.33 KD/month.</p></div>
   <div class="card"><h4>Who we talk to</h4><p class="small">ACA staff (the core) · new ACA hires · external educators in Kuwait · educators outside Kuwait (online) · experienced leaders (Ed.D).</p></div>
   <div class="card"><h4>Where</h4><p class="small"><b>LinkedIn</b> to convince · <b>Instagram</b> to remind · <b>Facebook</b> for reach and ads · <b>internal ACA channels</b> to convert staff.</p></div>
-  <div class="card"><h4>When</h4><p class="small">January cohort: deadline proposed Sun 20 Dec 2026. March cohort: deadline proposed Sun 21 Mar 2027. Ed.D always-on.</p></div>
+  <div class="card"><h4>When</h4><p class="small">January cohort: apply by Thu 24 Dec 2026, classes start Mon 4 Jan. March cohort: apply by Fri 5 Mar 2027, classes start Mon 15 Mar. Ed.D always-on.</p></div>
 </div>
 <h3>What gets built</h3>
 <div class="grid3">
@@ -142,7 +142,7 @@ pages.push(pg(n++, `${kick('Where PLI stands today')}<h1>A great product, told q
 <div class="grid2"><div class="card peri"><h4>1 · Create demand</h4><p class="small">Tell the proof story (your colleagues already did it), show the price as a monthly figure, answer the hard questions honestly, and keep showing up every week.</p></div>
 <div class="card peri"><h4>2 · Build the road to “applied”</h4><p class="small">One enquiry form, one link everywhere, a reply within 24 hours, a 15-minute call, a simple checklist, and a tracker that shows where every student came from.</p></div></div>
 <h3>Why now</h3>
-<p>Two cohorts start within five months (January and end of March). New ACA staff join in January with signing bonuses and PL stipends. The new year, the International Day of Education (24 January) and Ramadan are natural moments when educators think about their next step. And a new online option lets PLI reach former ACA staff and teachers across the GCC for the first time.</p>`));
+<p>Two cohorts start within five months (4 January and 15 March). New ACA staff join in January with signing bonuses and PL stipends. The new year, the International Day of Education (24 January) and Ramadan are natural moments when educators think about their next step. And a new online option lets PLI reach former ACA staff and teachers across the GCC for the first time.</p>`));
 
 // 4. STRENGTHS & WEAKNESSES
 const SW = {
@@ -162,7 +162,7 @@ const SW = {
     ['W3', 'No path to apply', 'No enquiry form, “Apply Now” goes to job listings, no lead tracking.'],
     ['W4', 'Unused proof', 'The 62% fact and graduates’ stories are rarely told.'],
     ['W5', 'Narrow channels', 'No PLI Facebook page, light LinkedIn use, no paid media.'],
-    ['W6', 'Recognition questions', 'Kuwaiti citizens ask about the public-sector salary scale; silence creates doubt.'],
+    ['W6', 'Kuwait questions', 'Expatriate teachers and Kuwaiti citizens need different, careful answers; silence creates doubt.'],
     ['W7', 'Inside-out audience', 'Strong with ACA staff, little awareness among external educators.'],
     ['W8', 'No measurement', 'No weekly numbers, so no way to know what works.'],
   ],
@@ -174,7 +174,7 @@ pages.push(pg(n++, `${kick('Strengths and weaknesses')}<h1 style="font-size:26pt
 </div>
 <div class="grid2" style="margin-top:2mm">
 <div class="card peri"><h4>Opportunities</h4><p class="small">January new hires · two cohorts in one season · teachers scroll Instagram in the evening · LinkedIn is where leaders evaluate degrees · GCC educators via the online option · New Year, Day of Education and Ramadan moments.</p></div>
-<div class="card peri"><h4>Risks to manage</h4><p class="small">Over-claiming on accreditation or recognition · slow replies to leads · ad fatigue · Ramadan and Eid dates moving by a day · small budget spread too thin. Each has a rule in this plan.</p></div>
+<div class="card peri"><h4>Risks to manage</h4><p class="small">Over-claiming on accreditation or on use in Kuwait · slow replies to leads · ad fatigue · Ramadan and Eid dates moving by a day · small budget spread too thin. Each has a rule in this plan.</p></div>
 </div>`, 'cream'));
 
 // 5. GOALS
@@ -183,8 +183,8 @@ pages.push(pg(n++, `${kick('Campaign goals')}<h1 style="font-size:26pt;margin-bo
 <h3>Short-term goals · this campaign (15 Nov 2026 – 3 Apr 2027)</h3>
 <table><tr><th style="width:8%">#</th><th style="width:42%">Goal</th><th>How we measure it</th></tr>
 <tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on 15 Nov; every bio, ad and post uses the same link.</td></tr>
-<tr><td><b>ST2</b></td><td>Fill the January cohort (deadline proposed 20 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
-<tr><td><b>ST3</b></td><td>Fill the end-of-March cohort, including the first online learners (deadline proposed 21 Mar).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
+<tr><td><b>ST2</b></td><td>Fill the January cohort (deadline Thu 24 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
+<tr><td><b>ST3</b></td><td>Fill the March cohort, including the first online learners (deadline Fri 5 Mar).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
 <tr><td><b>ST4</b></td><td>Generate qualified leads every week from every channel.</td><td>Leads by source (UTM) and segment; cost per lead on paid media.</td></tr>
 <tr><td><b>ST5</b></td><td>Answer fast: every lead gets a reply within 1 working day and an offer of a 15-minute call.</td><td>Reply time in the tracker; 25–35% of leads book a call.</td></tr>
 <tr><td><b>ST6</b></td><td>Tell the proof story: collect 5 graduate stories with consent (3 ACA, 2 external).</td><td>5 spotlights published by Week 19.</td></tr>
@@ -215,7 +215,7 @@ const S2G = [
 const G2W = [
   ['ST1 Path to conversion', 'W3 No path to apply · W8 No measurement', 'Form + tracker live; every lead has a source and a status.'],
   ['ST4 Weekly qualified leads', 'W5 Narrow channels · W7 Inside-out audience', 'LinkedIn and Meta campaigns reach external educators and the GCC.'],
-  ['ST5 Fast answers', 'W3 No path to apply · W6 Recognition questions', '24-hour replies and 15-minute calls; honest FAQ for Kuwaiti citizens.'],
+  ['ST5 Fast answers', 'W3 No path to apply · W6 Kuwait questions', '24-hour replies and 15-minute calls; the HR-approved Kuwait wording, word for word.'],
   ['ST6 Proof stories', 'W1 Event-heavy content · W4 Unused proof', 'Five real graduates telling their own story.'],
   ['ST2 / ST3 Show the price', 'W2 Hidden price', 'Monthly figures in videos, carousels and ads.'],
   ['LT1 Staff-room choice', 'W1 · W4 · W7', 'A consistent message that people repeat to each other.'],
@@ -250,7 +250,7 @@ pages.push(pg(n++, `${kick('Big idea and messages')}<h1>Grow where you teach.</h
 <tr><td>4</td><td><b>Credibility</b></td><td>Saint Mary's University of Minnesota, accredited in the US by the Higher Learning Commission.</td></tr>
 <tr><td>5</td><td><b>Reach</b></td><td>An online option for anyone outside Kuwait, leading to the same degree.</td></tr></table>
 <h3>Tone of voice</h3>
-<p>Warm, direct, colleague-to-colleague. Short sentences. Talk to “you”, not “candidates”. No hype, no promises of promotions or salary rises. International English for a Canadian, American, British, South African, Lebanese, Jordanian, Tunisian and Kuwaiti audience.</p>`));
+<p>Warm, direct, colleague-to-colleague. Short sentences. Talk to “you”, not “candidates”. No hype, no promises of promotions, salary adjustments or work permits. International English for a Canadian, American, British, South African, Lebanese, Jordanian, Tunisian and Kuwaiti audience.</p>`));
 
 // 8. AUDIENCES + CHANNELS
 pages.push(pg(n++, `${kick('Who we talk to, and where')}<h1>Five audiences, four channels.</h1>
@@ -260,7 +260,7 @@ pages.push(pg(n++, `${kick('Who we talk to, and where')}<h1>Five audiences, four
 <tr><td>C</td><td><b>External educators in Kuwait</b> (~38%)</td><td>A US degree delivered in Kuwait · built for working teachers · 4,200 KD (233.33 KD/month)</td><td>LinkedIn (main), Instagram, Facebook groups, Meta ads</td></tr>
 <tr><td>D</td><td><b>Educators outside Kuwait</b></td><td>Same programme, same degree and diploma, studied online</td><td>LinkedIn, Meta ads (GCC), ACA alumni email</td></tr>
 <tr><td>E</td><td><b>Experienced leaders</b> (10+ years)</td><td>Executive doctorate, online, no dissertation, monthly plan</td><td>LinkedIn (main), personal outreach</td></tr>
-<tr><td>F</td><td><b>Kuwaiti citizens</b> (sensitive)</td><td>An honest answer on recognition — handled one-to-one, never targeted with salary messages</td><td>Personal conversations, FAQ</td></tr></table>
+<tr><td>F</td><td><b>Kuwaiti citizens</b> (sensitive)</td><td>The HR-approved wording for Kuwaiti citizens — handled one-to-one, never targeted with salary or career-benefit messages</td><td>Personal conversations, FAQ</td></tr></table>
 <h3>The job of each channel</h3>
 <div class="grid2">
 <div class="card"><h4>LinkedIn — convince (main)</h4><p class="small">Credibility, external educators, leaders, Ed.D. 3 posts a week (Sun, Tue, Wed, 8:30 am) + a personal post from Salwa every two weeks. Document ads, video ads, Lead Gen Forms.</p></div>
@@ -284,15 +284,15 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 </ol></div>
 <div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov)</h3>
 <ul class="check small">
-<li>Confirm deadlines, start dates, application steps, Ed.D external price, referral terms and recognition wording.</li>
+<li>✅ Deadlines, start dates, application steps, Ed.D price, referral terms and Kuwait wording confirmed (11 Nov).</li>
 <li>Create the form and the lead tracker.</li>
 <li>Create/link the PLI Facebook page; set up Meta Business Suite, Ads Manager and the Pixel.</li>
 <li>LinkedIn: admin access, Campaign Manager, Insight Tag, Lead Gen Form.</li>
 <li>Update the Instagram bio, story highlights, LinkedIn tagline and covers.</li>
-<li>Collect 5 graduate quotes + photos + written consent; 10–20 real photos; logo files.</li>
+<li>Collect quotes + photos from the 4 consenting graduates; 10–20 real photos; logo files (shared folder).</li>
 <li>Recruit 4–6 graduate ambassadors; book hosts for the 3 Live Q&amp;As.</li>
 <li>Turn on comment-to-DM automation.</li>
-<li>Salwa approves V09, C07 and the programme guide wording.</li>
+<li>HR reviews the final captions, scripts and posts before anything is published.</li>
 </ul></div></div>
 <div class="card peri" style="margin-top:3mm"><h4>Instagram bio (ready to paste)</h4><p class="small" style="white-space:pre-line;margin:0">${esc(L.C.bio_instagram)}</p></div>`));
 
@@ -300,12 +300,12 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 const PHASES = [
   ['0 · Setup', '8–14 Nov', 'Path to conversion ready'],
   ['1 · Launch Jan', '15 Nov–12 Dec', 'Awareness + consideration · Live #1 (9 Dec)'],
-  ['2 · Close Jan', '13–26 Dec', 'Applications · deadline 20 Dec'],
-  ['3 · New year + Ed.D', '27 Dec–9 Jan', 'Growth plan, Ed.D, welcome January'],
+  ['2 · Close Jan', '13–26 Dec', 'Applications · deadline Thu 24 Dec'],
+  ['3 · New year + Ed.D', '27 Dec–9 Jan', 'Growth plan, Ed.D, welcome January (4 Jan)'],
   ['4 · Launch Mar', '10 Jan–6 Feb', 'New hires, referral, online, Live #2 (27 Jan)'],
-  ['5 · Ramadan + National Day', '7 Feb–13 Mar', 'Respectful consideration · Live #3 (17 Feb)'],
-  ['6 · Close Mar', '14–27 Mar', 'Final call · deadline 21 Mar'],
-  ['7 · Welcome + always-on', '28 Mar–3 Apr', 'Advocacy, Ed.D, next intake'],
+  ['5 · Ramadan', '7–20 Feb', 'Respectful consideration · Live #3 (17 Feb)'],
+  ['6 · Close Mar', '21 Feb–6 Mar', 'National Day · final call · deadline Fri 5 Mar'],
+  ['7 · Eid, welcome + always-on', '7 Mar–3 Apr', 'Eid · March cohort starts 15 Mar · Ed.D'],
 ];
 pages.push(pg(n++, `${kick('Timeline')}<h1>Eight phases, two peaks.</h1>
 <div class="tl">${PHASES.map(([a, b, c], i) => `<div class="${[2, 6].includes(i) ? 'c' : ''}"><b>${esc(a)}</b>${esc(b)}<br><span style="opacity:.8">${esc(c)}</span></div>`).join('')}</div>
@@ -320,7 +320,7 @@ pages.push(pg(n++, `${kick('Timeline')}<h1>Eight phases, two peaks.</h1>
 <tr><td>Every SLS</td><td><b>2-minute PLI slot + QR</b> at each Saturday Learning Series session</td><td>Salwa</td></tr>
 <tr><td>Week 5</td><td><b>Staff email #2:</b> final week for January</td><td>Salwa</td></tr>
 <tr><td>Week 9</td><td><b>Staff email #3 / new-hire pack</b> in HR onboarding</td><td>HR + Salwa</td></tr>
-<tr><td>Week 18</td><td><b>Staff email #4:</b> final call for March</td><td>Salwa</td></tr>
+<tr><td>Week 15</td><td><b>Staff email #4:</b> final call for March</td><td>Salwa</td></tr>
 <tr><td>Always</td><td><b>Referral reminder</b> to current students: refer 2 → final payment waived; refer 4 → last 2 payments waived</td><td>Salwa</td></tr></table>`, 'cream'));
 
 // 11. CONTENT PLAN
@@ -355,16 +355,16 @@ pages.push(pg(n++, `${kick('Paid media')}<h1>Spend where the proof lands.</h1>
 <tr><td><b>Recommended</b></td><td><b>~2,000 KD</b></td><td><b>1,100 KD</b></td><td><b>800 KD</b></td><td><b>100 KD</b></td></tr></table>
 <h3>LinkedIn campaigns</h3>
 <table><tr><th style="width:16%">Campaign</th><th style="width:20%">Dates</th><th>Audience</th><th style="width:20%">Assets</th></tr>
-<tr><td>LI-1 MAED Kuwait</td><td>15 Nov–20 Dec, 10 Jan–21 Mar</td><td>Kuwait · Education job function · teacher, HOD, coordinator, coach, assistant principal titles</td><td>C02, C04, C07, V01, V02 + Lead Gen Form</td></tr>
+<tr><td>LI-1 MAED Kuwait</td><td>15 Nov–24 Dec, 10 Jan–5 Mar</td><td>Kuwait · Education job function · teacher, HOD, coordinator, coach, assistant principal titles</td><td>C02, C04, C07, V01, V02 + Lead Gen Form</td></tr>
 <tr><td>LI-2 ACA staff</td><td>Same</td><td>Company: American Creativity Academy (check audience ≥ 300)</td><td>V01, C01, V03</td></tr>
 <tr><td>LI-3 Ed.D leaders</td><td>Always-on from 27 Dec</td><td>Kuwait + GCC · principal, VP, head of school, director · 10+ years</td><td>V04, C03</td></tr>
-<tr><td>LI-4 Online</td><td>31 Jan–21 Mar</td><td>GCC + matched list of ACA alumni (with consent)</td><td>V07, C13</td></tr>
+<tr><td>LI-4 Online</td><td>31 Jan–5 Mar</td><td>GCC + matched list of ACA alumni (with consent)</td><td>V07, C13</td></tr>
 <tr><td>LI-RT Retarget</td><td>Always-on</td><td>Video viewers 50%+, page visitors, form openers (90 days)</td><td>C07, V09, deadline posts</td></tr></table>
 <h3>Meta campaigns (Instagram + Facebook)</h3>
 <table><tr><th style="width:16%">Campaign</th><th style="width:20%">Dates</th><th>Audience</th><th style="width:20%">Assets</th></tr>
-<tr><td>META-1 Kuwait educators</td><td>15 Nov–20 Dec, 10 Jan–21 Mar</td><td>Kuwait, 23–60, teaching and education interests, Advantage+ audience</td><td>V01, V02, V03, V05, V13</td></tr>
+<tr><td>META-1 Kuwait educators</td><td>15 Nov–24 Dec, 10 Jan–5 Mar</td><td>Kuwait, 23–60, teaching and education interests, Advantage+ audience</td><td>V01, V02, V03, V05, V13</td></tr>
 <tr><td>META-2 Retarget</td><td>Always-on</td><td>Engagers 60 days, video viewers 50%+, form openers</td><td>C07, C04, deadline posts</td></tr>
-<tr><td>META-3 Online GCC</td><td>31 Jan–21 Mar</td><td>GCC + Jordan, Lebanon (check regulations), teaching interests</td><td>V07, C13</td></tr></table>
+<tr><td>META-3 Online GCC</td><td>31 Jan–5 Mar</td><td>GCC + Jordan, Lebanon (check regulations), teaching interests</td><td>V07, C13</td></tr></table>
 <h3>Simple rules</h3>
 <ul class="small"><li>Test 2–3 creatives per ad set; after 10–14 days pause the one with the highest cost per lead and move budget to the best.</li><li>Raise budget 30% in the final 10 days before each deadline; pause cohort ads after the deadline (Ed.D stays on).</li><li>Tag every link: utm_source / utm_medium / utm_campaign (jan27, mar27, edd, online) / utm_content (asset ID, e.g. V01).</li></ul>`));
 
@@ -379,20 +379,20 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 <p class="small" style="margin-top:2mm"><b>Rhythm:</b> a short snapshot every Sunday (leads, top 3 posts, actions) and a full report after each deadline (reach → leads → calls → applications → enrolments by segment and source).</p>
 <h3>Claims guardrails — hard rules for every asset</h3>
 <table><tr><th style="width:18%">Topic</th><th>✅ Say</th><th style="width:30%">❌ Never say</th></tr>
-<tr><td>US accreditation</td><td>“Saint Mary's University of Minnesota is accredited in the US by the Higher Learning Commission.”</td><td>“Internationally accredited”</td></tr>
-<tr><td>Kuwait recognition</td><td>“Recognized by Kuwait's Ministry of Education as part of work-permit approval.” (wording approved by PLI/HR)</td><td>Anything implying Civil Service Commission or salary-scale recognition</td></tr>
-<tr><td>Kuwaiti citizens</td><td>FAQ only: not currently recognized by the Civil Service Commission for the public-sector salary scale — talk to us first.</td><td>Salary or promotion promises</td></tr>
+<tr><td>US accreditation</td><td>“Saint Mary's University of Minnesota is accredited by the Higher Learning Commission in the United States.”</td><td>“Internationally accredited”</td></tr>
+<tr><td>Kuwait: expatriate teachers</td><td>HR-approved, word for word: “…Acceptance of its MAED and Ed.D. qualifications for employment in Kuwait is subject to the relevant authorities' requirements and approval of the individual application.”</td><td>“Recognized in Kuwait”, “MOHE approved”; any work-permit, promotion or salary promise</td></tr>
+<tr><td>Kuwaiti citizens</td><td>HR-approved, word for word: “…Prospective Kuwaiti applicants should obtain confirmation from the Ministry of Higher Education and their employer regarding degree equivalency and eligibility for any salary or career benefits before enrolling.”</td><td>Naming other authorities; any earlier submission or “approval pending”</td></tr>
 <tr><td>Online option</td><td>“Same programme. Same degree. Same diploma.”</td><td>Anything that sounds like hiding it</td></tr>
-<tr><td>Price</td><td>4,000 KD (222.22 × 18) staff · 4,200 KD (233.33 × 18) external · Ed.D about 14,760 KD (410 × 36 or 307.50 × 48, staff)</td><td>“Cheap”, “free”, rounded figures</td></tr>
-<tr><td>Referral</td><td>Refer 2 → final payment waived · refer 4 → last 2 payments waived · terms apply</td><td>Cash rewards</td></tr>
-<tr><td>Outcomes</td><td>“Grow”, “deepen your practice”, “step toward leadership”</td><td>Guaranteed promotion, salary rise, job</td></tr>
+<tr><td>Price</td><td>4,000 KD (222.22 × 18) staff · 4,200 KD (233.33 × 18) external · Ed.D 14,760 KD for everyone (410 × 36 or 307.50 × 48)</td><td>“Cheap”, “free”, rounded figures</td></tr>
+<tr><td>Referral</td><td>Refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply</td><td>Cash rewards</td></tr>
+<tr><td>Outcomes</td><td>“Grow”, “deepen your practice”, “step toward leadership”</td><td>Guaranteed promotion, salary adjustment, work permit, job</td></tr>
 <tr><td>Testimonials</td><td>Real graduates, real words, written consent, real photos</td><td>Invented quotes, AI “graduates”, stock photos</td></tr></table>`, 'cream'));
 
 // 15. TO CONFIRM + HOW TO RUN IT
 const PHL = Object.entries(L.PH).filter(([k]) => !/SPOKEN/.test(k));
 pages.push(pg(n++, `${kick('Before publishing')}<h1>What we need from PLI.</h1>
-<p class="lead">These items are proposed in the plan and must be confirmed before anything goes live. Until then, the kit shows the proposed values, and the captions keep a visible [placeholder] where a real link is needed.</p>
-<table><tr><th style="width:42%">Item</th><th>Proposed value</th><th style="width:16%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc(v.proposed || '—')}</td><td><span class="tag r">To confirm</span></td></tr>`).join('')}</table>`, 'cream'));
+<p class="lead">Confirmed by PLI on 11 November 2026 where marked. Open items must be confirmed before they go live; captions keep a visible [placeholder] where the form link is needed. HR reviews the final captions, scripts and posts before publishing.</p>
+<table><tr><th style="width:42%">Item</th><th>Proposed value</th><th style="width:16%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
 
 pages.push(pg(n++, `${kick('Making it happen')}<h1>How to run it, week by week.</h1>
 <div class="grid2" style="align-items:start">

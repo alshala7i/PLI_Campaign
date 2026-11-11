@@ -28,8 +28,8 @@ const ART = {
 // March variants: same slides, March CTA/dates
 const VARIANTS = {
   C04b: { base: 'C04', map: (s, i, n) => (i === n - 1 ? s : s) , ctaExtra: 'March cohort · applications open' },
-  C07b: { base: 'C07', map: (s, i, n) => (i === n - 1 ? s.replace('January and end of March', 'End of March') : s) },
-  C09b: { base: 'C09', map: (s, i, n) => (i === n - 1 ? 'Start your cohort · End of March · Deadline: {{MAR_DEADLINE}}' : s) },
+  C07b: { base: 'C07', map: (s, i, n) => (i === n - 1 ? s.replace('January and March', 'March (starts 15 March)') : s) },
+  C09b: { base: 'C09', map: (s, i, n) => (i === n - 1 ? 'Start your cohort · 15 March · Deadline: {{MAR_DEADLINE}}' : s) },
 };
 
 function splitSlide(s) {
