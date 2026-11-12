@@ -82,15 +82,15 @@ function covers() {
 // ---------- A3 posters (PDF) + A4 guide (PDF)
 async function posters() {
   const J = [];
-  const target = 'mailto:pli@aca.edu.kw?subject=MAED%20enquiry';
+  const target = L.ct('{{APPLY_LINK}}') + '?utm_source=poster&utm_medium=print&utm_campaign=' + 'jan27';
   for (const [k, cohort, dl] of [['jan', 'January', L.PH.JAN_DEADLINE.visual], ['mar', 'March', L.PH.MAR_DEADLINE.visual]]) {
-    const qr = await QR.toDataURL(target, { margin: 1, width: 600, color: { dark: '#363A80', light: '#FFFFFF' } });
+    const qr = await QR.toDataURL(target.replace('jan27', k + '27'), { margin: 1, width: 600, color: { dark: '#363A80', light: '#FFFFFF' } });
     const w = 1123, h = 1587; // A3 at 96dpi/ (297x420mm)
     J.push({ html: page({ w, h, css: CSS, cls: 'bg-cream', body: `<div class="abs" style="left:0;right:0;top:0;height:900px;background:var(--indigo)"></div>${shield('" style="top:60px;right:70px;width:110px')}
       <div class="abs" style="left:80px;right:80px;top:120px"><div class="tagline c-peri" style="font-size:28px">Professional Learning Institute</div><div class="hd c-cream" style="font-size:330px;line-height:.86;margin-top:20px">6 IN 10</div>
       <div style="margin:40px 0">${dots({ size: 70, gap: 24, color: 'var(--peri)', w: 6 })}</div><div class="serif c-white" style="font-size:52px;line-height:1.15;font-weight:600;width:900px">of our past MAED students were ACA educators.</div></div>
       <div class="abs" style="left:80px;top:950px;width:600px"><div class="hd c-indigo" style="font-size:136px;white-space:nowrap">YOUR TURN.</div><div class="sub c-deep" style="font-size:27px;margin-top:20px">${cohort} cohort · applications close ${esc(dl)}<br>Saint Mary's University of Minnesota MAED · ACA staff rate · pay monthly</div></div>
-      <div class="abs" style="right:80px;top:950px;width:360px;text-align:center"><img src="${qr}" style="width:360px;height:360px;border-radius:20px;background:#fff;padding:14px"><div class="tagline c-indigo" style="font-size:22px;margin-top:14px">Scan to ask us</div></div>
+      <div class="abs" style="right:80px;top:950px;width:360px;text-align:center"><img src="${qr}" style="width:360px;height:360px;border-radius:20px;background:#fff;padding:14px"><div class="tagline c-indigo" style="font-size:22px;margin-top:14px">Scan to apply</div></div>
       <div class="abs" style="left:80px;bottom:60px">${lockup(1)}</div><div class="abs sub c-indigo" style="right:80px;bottom:80px;font-size:24px">pli@aca.edu.kw</div>` }), out: path.join(L.OUT, `assets/extras/poster_${k}.pdf`), w, h });
   }
   return J;
@@ -132,7 +132,7 @@ function emails() {
     'Staff email #3': `Subject: ${L.C.emails[2].subject}\n\nNew to ACA? Welcome.\n\nHere's something many new staff only hear about later: your signing bonus and your professional learning stipend can go toward a master's degree.\n\nThe Saint Mary's University of Minnesota MAED is delivered right here in Kuwait, at the ACA staff rate ([FEES: paste from the private price sheet before sending]), paid monthly over 18 months. More than 6 in 10 of our past students were ACA educators, just like you.\n\nStart your first year with a plan to grow. Our next cohort starts on 15 March: {{APPLY_LINK}}\n\n${sig}\n\n[DRAFT based on plan 3.7 summary (V14 message) — Salwa to approve]\n`,
     'Staff email #4': `Subject: ${L.C.emails[3].subject}\n\nDear colleagues,\n\nFinal call: applications for our March Saint Mary's University of Minnesota MAED cohort close ${L.PH.MAR_DEADLINE.copy}.\n\nNot sure yet? Talk to one of our graduate ambassadors on your campus — they did the MAED while teaching full days, and they're happy to share their experience.\n\nPay monthly, at the ACA staff rate ([FEES: paste from the private price sheet before sending]). Book a 15-minute call: {{APPLY_LINK}} or reply to this email.\n\n${sig}\n\n[DRAFT based on plan 3.7 summary — Salwa to approve]\n`,
   };
-  Object.entries(drafts).forEach(([k, v], i) => fs.writeFileSync(path.join(dir, `staff_email_${i + 1}.txt`), v));
+  Object.entries(drafts).forEach(([k, v], i) => fs.writeFileSync(path.join(dir, `staff_email_${i + 1}.txt`), L.ct(v)));
   fs.writeFileSync(path.join(L.OUT, 'assets/extras/instagram_bio.txt'), L.C.bio_instagram + '\n');
   fs.writeFileSync(path.join(L.OUT, 'assets/extras/linkedin_tagline.txt'), L.C.linkedin_tagline + '\n');
 }

@@ -224,7 +224,7 @@ const byId=id=>D.assets.find(a=>a.id===id);
 // start
 ['link','jan','mar'].forEach(k=>{const i=$('#f-'+k);i.value=store.get(k);i.addEventListener('input',()=>{store.set(k,i.value.trim());warn()})});
 $('#bio').textContent=D.bio; document.querySelectorAll('[data-copy-el]').forEach(b=>b.onclick=()=>copy($('#'+b.dataset.copyEl).textContent));
-function warn(){const open=Object.entries(D.placeholders).filter(([k,v])=>!v.confirmed).length;$('#ph-warn').innerHTML=(store.get('link')?'':'<b>Add your form link above</b> — captions use {{APPLY_LINK}} until you do. ')+open+' items are still open (form link, graduate stories, photos and logos, HR review…). See <a href="downloads/PLACEHOLDERS_OPEN.md">PLACEHOLDERS_OPEN.md</a>.'}
+function warn(){const open=Object.entries(D.placeholders).filter(([k,v])=>!v.confirmed).length;$('#ph-warn').innerHTML=((store.get('link')||(D.placeholders.APPLY_LINK||{}).confirmed)?'':'<b>Add your form link above</b> — captions use {{APPLY_LINK}} until you do. ')+open+' items are still open (form link, graduate stories, photos and logos, HR review…). See <a href="downloads/PLACEHOLDERS_OPEN.md">PLACEHOLDERS_OPEN.md</a>.'}
 warn();
 function setVoice(v){VOICE=v;store.set('voice',v);document.querySelectorAll('.vtog [data-v]').forEach(b=>b.classList.toggle('on',b.dataset.v===v));document.querySelectorAll('[data-vid]').forEach(el=>renderVid(el))}
 // videos

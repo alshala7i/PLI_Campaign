@@ -3,6 +3,7 @@ const path = require('path');
 const L = require('./lib');
 const { vt, esc, shield, dots, lockup, dateblock, page, FIT_JS, PHOTO } = L;
 const W = 1080, H = 1350;
+const GRAD_PHOTO = { a: 'file://' + require('path').join(L.ROOT, 'assets/photos/grad_hadi_arbini.jpg'), b: 'file://' + require('path').join(L.ROOT, 'assets/photos/grad_mehrnoosh_cheraghzadeh.jpg') };
 const P = (id) => L.C.posts.find((p) => p.id === id || p.id.startsWith(id));
 
 const CSS = `
@@ -70,7 +71,16 @@ const B = {
     <div class="arch abs" style="right:80px;top:250px;width:380px;height:560px;display:flex;align-items:center;justify-content:center;flex-direction:column;background:var(--peri-soft)"><img src="${L.LOGO.shield}" style="width:210px;height:auto;object-fit:contain"><div class="tagline c-indigo" style="margin-top:30px;font-size:24px;text-align:center">Host<br>Salwa Sleiman<br><span style="font-weight:600;letter-spacing:.04em;text-transform:none">PLI Coordinator</span></div></div>
     <div class="abs sub c-deep" style="left:80px;top:760px;width:500px;font-size:38px">${vt(p.sub)}</div>
     <div class="abs" style="left:80px;top:1010px;display:flex;gap:30px;align-items:center">${dateblock(dates[0], dates[1])}<div class="sub c-indigo" style="font-size:32px;font-weight:700">${esc(dates[2])}<br><span style="font-weight:600;font-size:28px">Instagram Live<br>@professionallearninginstitute</span></div></div>` }; },
-  S03: (k) => { const ext = k === 'd' || k === 'e';
+  S03: (k) => { const real = L.C.posts.find((x) => x.id === 'S03' + k);
+    if (real && GRAD_PHOTO[k]) { const [name, ...rest] = real.sub.split(' · ');
+      return { cls: 'bg-cream', body: `${shield()}
+    <img class="abs" src="${GRAD_PHOTO[k]}" style="left:80px;top:150px;width:400px;height:480px;object-fit:cover;object-position:center 18%;border-radius:200px 200px 28px 28px">
+    <div class="abs tagline c-indigo" style="left:530px;top:170px;width:470px">${vt(real.tag)}</div>
+    <div class="abs serif c-peri" style="left:520px;top:200px;font-size:300px;line-height:1">“</div>
+    <div class="abs serif c-deep" data-fit style="left:80px;right:80px;top:670px;height:320px;font-size:${real.h.length > 140 ? 46 : real.h.length > 80 ? 54 : 66}px;line-height:1.18;font-weight:600;font-style:italic">${vt(real.h.replace(/^“|”$/g, ''))}</div>
+    <div class="abs" style="left:80px;right:80px;bottom:150px"><div class="bar" style="display:inline-block;font-size:36px">${vt(name)}</div><div class="sub c-deep" style="font-size:26px;margin-top:16px;line-height:1.35">${rest.map(vt).join('<br>')}</div></div>
+    <div class="abs tagline c-indigo" style="left:80px;right:80px;bottom:80px;font-size:18px">Saint Mary's University of Minnesota · Grow where you teach</div>` }; }
+    const ext = k === 'd' || k === 'e';
     return { cls: 'bg-cream', body: `${shield()}
     <div class="frame abs" style="left:80px;top:150px;width:400px;height:480px;display:flex;align-items:center;justify-content:center;border:4px dashed #e0218a;background:rgba(224,33,138,.05)"><div class="tagline" style="color:#b0006a;text-align:center;font-size:24px">Graduate photo<br>GRAD_${'abcde'.indexOf(k) + 1}.jpg<br>(real, with consent)</div></div>
     <div class="abs tagline c-indigo" style="left:530px;top:170px;width:470px">${ext ? 'From our community' : 'From our staff room'}</div>
