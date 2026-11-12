@@ -1,1 +1,1 @@
-A simple map of the MAED journey, from application to graduation. → {{APPLY_LINK}}
+A simple map of the MAED journey, from application to graduation. → https://forms.cloud.microsoft/r/GC5UUQubjU
