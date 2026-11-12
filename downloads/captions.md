@@ -26,7 +26,7 @@ They taught full days and earned a Saint Mary's University of Minnesota Master o
 
 If you've been saying "one day", this is a programme your own colleagues have already proven works around a teaching schedule.
 
-January 2027 cohort: applications open → {{APPLY_LINK}}
+January 2027 cohort: applications open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 #MAEd #ProfessionalDevelopment #TeachersOfKuwait
 
@@ -51,7 +51,7 @@ Next cohort: January · Link in bio
 
 A master's degree that fits around a full teaching load — here is the whole programme in 45 seconds.
 Saint Mary's University of Minnesota MAED · Curriculum & Instruction or Educational Leadership · 30 credits, 10 courses, 18 months · weekly in-person classes in Kuwait · monthly payments.
-January 2027 cohort → {{APPLY_LINK}}
+January 2027 cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 #MAEd #EducationalLeadership #ProfessionalDevelopment
 
 ---
@@ -70,7 +70,7 @@ DM us "PLAN" and we'll email you the fees and your personal payment plan.
 **LinkedIn**
 
 Cost is the first question every teacher asks. Here's how it works: the Saint Mary's University of Minnesota MAED is paid monthly over 18 months, ACA staff get a staff rate and can apply their PL stipend and signing bonus, and referral rewards can waive final payments.
-Ask us for the fees and a personal payment plan → {{APPLY_LINK}}
+Ask us for the fees and a personal payment plan → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -93,7 +93,7 @@ Ask us about the Ed.D → link in bio
 For principals, vice principals, heads of department and directors with 10+ years of leadership experience:
 the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits over 3 years, fully online with a local Kuwait cohort, and no dissertation.
 Monthly plans over 36 or 48 months.
-Conversations open now → {{APPLY_LINK}}
+Conversations open now → https://forms.cloud.microsoft/r/GC5UUQubjU
 #EdD #EducationalLeadership #SchoolLeadership
 
 ---
@@ -111,7 +111,7 @@ Link in bio to ask about the next cohort.
 **LinkedIn**
 
 The most common reason teachers delay a master's is time. The MAED is designed for working educators: weekly in-person classes in Kuwait, 18 months, and learning you can apply in your classroom the following week.
-Next cohort → {{APPLY_LINK}}
+Next cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -127,7 +127,7 @@ Terms apply — DM us for details.
 
 **LinkedIn**
 
-Professional growth is easier as a team. PLI's referral reward: refer 2 educators who enroll and complete their courses and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → {{APPLY_LINK}}
+Professional growth is easier as a team. PLI's referral reward: refer 2 educators who enroll and complete their courses and your final MAED payment is waived; refer 4 who register and continue and your last 2 payments are waived. Terms apply. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -143,7 +143,7 @@ Tag a friend who left Kuwait but never stopped learning.
 
 **LinkedIn**
 
-Former Kuwait-based educator, or teaching elsewhere in the region? PLI's MAED (Saint Mary's University of Minnesota) now has an online option for learners outside Kuwait. Same programme, same degree and diploma as our in-person cohorts. → {{APPLY_LINK}}
+Former Kuwait-based educator, or teaching elsewhere in the region? PLI's MAED (Saint Mary's University of Minnesota) now has an online option for learners outside Kuwait. Same programme, same degree and diploma as our in-person cohorts. → https://forms.cloud.microsoft/r/GC5UUQubjU
 #InternationalEducation #MAEd #OnlineLearning
 
 ---
@@ -161,7 +161,7 @@ Comment "C&I" or "LEAD" and we'll send you the details.
 
 **LinkedIn**
 
-Choosing between Curriculum & Instruction and Educational Leadership? A simple rule: C&I if you want to go deeper in the classroom, Educational Leadership if you're stepping toward leading others. Both are 30 credits / 10 courses / 18 months. We're happy to talk it through → {{APPLY_LINK}}
+Choosing between Curriculum & Instruction and Educational Leadership? A simple rule: C&I if you want to go deeper in the classroom, Educational Leadership if you're stepping toward leading others. Both are 30 credits / 10 courses / 18 months. We're happy to talk it through → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -191,7 +191,7 @@ Applications close Thursday 24 December. Link in bio · pli@aca.edu.kw
 
 **LinkedIn**
 
-Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 December. → {{APPLY_LINK}}
+Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 December. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -205,7 +205,7 @@ Missed this one? Our next cohort starts on 15 March — applications are open no
 
 **LinkedIn**
 
-A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → {{APPLY_LINK}}
+A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -233,7 +233,7 @@ Final call 📣 March cohort applications close Friday 5 March.
 
 **LinkedIn**
 
-Final call: applications for PLI's March MAED cohort close Friday 5 March. → {{APPLY_LINK}}
+Final call: applications for PLI's March MAED cohort close Friday 5 March. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -247,7 +247,7 @@ More than 6 in 10 of our past students were ACA educators. Start your first year
 
 **LinkedIn**
 
-Joining ACA this year? Your signing bonus and professional learning stipend can be applied toward the Saint Mary's University of Minnesota MAED at the staff rate. → {{APPLY_LINK}}
+Joining ACA this year? Your signing bonus and professional learning stipend can be applied toward the Saint Mary's University of Minnesota MAED at the staff rate. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -275,7 +275,7 @@ They taught full days and earned a Saint Mary's University of Minnesota Master o
 
 If you've been saying "one day", this is a programme your own colleagues have already proven works around a teaching schedule.
 
-March 2027 cohort: applications open → {{APPLY_LINK}}
+March 2027 cohort: applications open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 #MAEd #ProfessionalDevelopment #TeachersOfKuwait
 
@@ -295,7 +295,7 @@ DM us "PLAN" and we'll email you the fees and your personal payment plan.
 **LinkedIn**
 
 Cost is the first question every teacher asks. Here's how it works: the Saint Mary's University of Minnesota MAED is paid monthly over 18 months, ACA staff get a staff rate and can apply their PL stipend and signing bonus, and referral rewards can waive final payments.
-Ask us for the fees and a personal payment plan → {{APPLY_LINK}}
+Ask us for the fees and a personal payment plan → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -309,7 +309,7 @@ Which reason is yours? Tell us in the comments.
 
 **LinkedIn**
 
-Why do most of our MAED students come from inside ACA? Six reasons, from location and schedule to staff pricing and PL stipends. If they work for full-time teachers at ACA, they can work for you too. January cohort → {{APPLY_LINK}}
+Why do most of our MAED students come from inside ACA? Six reasons, from location and schedule to staff pricing and PL stipends. If they work for full-time teachers at ACA, they can work for you too. January cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -321,7 +321,7 @@ Everything you need to know about the MAED, on 8 slides. Save it 📌 · Next co
 
 **LinkedIn**
 
-The Saint Mary's University of Minnesota MAED at a glance — tracks, structure, format, accreditation and investment in one document. January cohort → {{APPLY_LINK}}
+The Saint Mary's University of Minnesota MAED at a glance — tracks, structure, format, accreditation and investment in one document. January cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -333,7 +333,7 @@ The doctorate built for experienced school leaders — online, 3 years, no disse
 
 **LinkedIn**
 
-For leaders with 10+ years of experience: the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits, 3 years, fully online with a local Kuwait cohort, no dissertation, monthly payment options. → {{APPLY_LINK}}
+For leaders with 10+ years of experience: the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits, 3 years, fully online with a local Kuwait cohort, no dissertation, monthly payment options. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -345,7 +345,7 @@ Paying for a master's, made simple 🧮 Save this and DM "PLAN": we'll email you
 
 **LinkedIn**
 
-Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → {{APPLY_LINK}}
+Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -357,7 +357,7 @@ Who's doing their master's with you? Tag them 👇 #GrowWhereYouTeach #MAEd #Tea
 
 **LinkedIn**
 
-PLI's referral reward, explained in 6 slides. Terms apply. → {{APPLY_LINK}}
+PLI's referral reward, explained in 6 slides. Terms apply. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -369,7 +369,7 @@ Comment "C&I" or "LEAD" — which one is you? #CurriculumAndInstruction #Educati
 
 **LinkedIn**
 
-A simple guide to choosing between the two MAED tracks. → {{APPLY_LINK}}
+A simple guide to choosing between the two MAED tracks. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -381,7 +381,7 @@ The 8 questions we hear most — answered honestly. Got another one? Drop it in 
 
 **LinkedIn**
 
-Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
+Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -393,7 +393,7 @@ Which myth stopped you? Be honest 😄 #MAEd #TeacherLife #TeachersOfKuwait #Gro
 
 **LinkedIn**
 
-Five myths that keep teachers from starting a master's — and the facts. → {{APPLY_LINK}}
+Five myths that keep teachers from starting a master's — and the facts. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -405,7 +405,7 @@ Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach
 
 **LinkedIn**
 
-Four steps from "I'm interested" to "I'm enrolled". → {{APPLY_LINK}}
+Four steps from "I'm interested" to "I'm enrolled". → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -417,7 +417,7 @@ What 18 months really looks like 🗺️ #MAEd #GrowWhereYouTeach #TeachersOfKuw
 
 **LinkedIn**
 
-A simple map of the MAED journey, from application to graduation. → {{APPLY_LINK}}
+A simple map of the MAED journey, from application to graduation. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -429,7 +429,7 @@ Our MAED cohorts bring together educators from at least 8 nationalities 🌍 Whe
 
 **LinkedIn**
 
-One of the most valuable parts of the MAED is the cohort itself: educators from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learning together. → {{APPLY_LINK}}
+One of the most valuable parts of the MAED is the cohort itself: educators from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learning together. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -442,7 +442,7 @@ Missed Saturday's session? Here are 3 takeaways from {{SLS_SPEAKER}} on {{SLS_TO
 **LinkedIn**
 
 Missed Saturday's session? Here are 3 takeaways from {{SLS_SPEAKER}} on {{SLS_TOPIC}} 👉
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #SaturdayLearningSeries #TeacherPD #TeachersOfKuwait
 
 ---
@@ -456,7 +456,7 @@ Left Kuwait but not your growth plans? 🌍 Swipe for how the online option work
 **LinkedIn**
 
 Left Kuwait but not your growth plans? 🌍 Swipe for how the online option works.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereverYouTeach #OnlineMasters #MAEd
 
 ---
@@ -470,7 +470,7 @@ How many are you? Comment your number 👇 #TeacherLife #MAEd #GrowWhereYouTeach
 **LinkedIn**
 
 How many are you? Comment your number 👇
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #TeacherLife #MAEd #GrowWhereYouTeach
 
 ---
@@ -484,7 +484,7 @@ New year, next step ✨ What's the one skill you want to master in 2027? #NewYea
 **LinkedIn**
 
 New year, next step ✨ What's the one skill you want to master in 2027?
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #NewYearGoals #TeacherPD #GrowWhereYouTeach
 
 ---
@@ -497,7 +497,7 @@ Paying for a master's, made simple 🧮 Save this and DM "PLAN": we'll email you
 
 **LinkedIn**
 
-Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → {{APPLY_LINK}}
+Monthly payments, a staff rate and PL stipends for ACA staff: how paying for your master's works. Ask us for the fees → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -509,7 +509,7 @@ The 8 questions we hear most — answered honestly. Got another one? Drop it in 
 
 **LinkedIn**
 
-Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → {{APPLY_LINK}}
+Before you apply, read this: time, cost, PL funds, accreditation, Kuwait, online study and start dates — answered plainly. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -521,7 +521,7 @@ Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach
 
 **LinkedIn**
 
-Four steps from "I'm interested" to "I'm enrolled". → {{APPLY_LINK}}
+Four steps from "I'm interested" to "I'm enrolled". → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -534,7 +534,7 @@ Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach
 **LinkedIn**
 
 Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait
 
 ---
@@ -548,36 +548,36 @@ More than 6 in 10 of our past MAED students taught at ACA while they studied. If
 **LinkedIn**
 
 More than 6 in 10 of our past MAED students taught at ACA while they studied. If they could, you can. 💙
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #ACAKuwait
 
 ---
 
-## S03a — "[GRAD_QUOTE_SHORT]"
+## S03a — “It’s a chance to become someone you never thought you could be.”
 
 **Instagram / Facebook**
 
-{{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories
+Meet Hadi Arbini, Interventionist for Grades 4 and 5 at ACA and a Saint Mary's University of Minnesota MAED graduate (Curriculum & Instruction): “My Curriculum and Instruction degree at Saint Mary’s University of Minnesota wasn’t as hard as people think. If you stay consistent and don’t postpone your work, you can do it. It’s a chance to become someone you never thought you could be.” Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories #ProfessionalLearningInstitute
 
 **LinkedIn**
 
-{{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙
-→ {{APPLY_LINK}}
+Meet Hadi Arbini, Interventionist for Grades 4 and 5 at ACA and a Saint Mary's University of Minnesota MAED graduate (Curriculum & Instruction): “My Curriculum and Instruction degree at Saint Mary’s University of Minnesota wasn’t as hard as people think. If you stay consistent and don’t postpone your work, you can do it. It’s a chance to become someone you never thought you could be.” Thank you for sharing your story 💙
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeacherStories
 
 ---
 
-## S03b — "[GRAD_QUOTE_SHORT]"
+## S03b — “Saint Mary’s University has played an important role in my growth as an educator and school leader.”
 
 **Instagram / Facebook**
 
-{{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories
+Meet Dr. Mehrnoosh Cheraghzadeh, Kindergarten Principal at American Creativity Academy – Salmiya and a Saint Mary's University of Minnesota graduate: “Saint Mary’s University has played an important role in my growth as an educator and school leader. The program strengthened my ability to connect research with practice, reflect more deeply on my leadership, and create meaningful change within my school community. I would highly recommend it to educators who are ready to grow personally and professionally.” Thank you for sharing your story 💙 #GrowWhereYouTeach #SchoolLeaders #EducatorStories #ProfessionalLearningInstitute
 
 **LinkedIn**
 
-{{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙
-→ {{APPLY_LINK}}
-#GrowWhereYouTeach #MAEd #TeacherStories
+Meet Dr. Mehrnoosh Cheraghzadeh, Kindergarten Principal at American Creativity Academy – Salmiya and a Saint Mary's University of Minnesota graduate: “Saint Mary’s University has played an important role in my growth as an educator and school leader. The program strengthened my ability to connect research with practice, reflect more deeply on my leadership, and create meaningful change within my school community. I would highly recommend it to educators who are ready to grow personally and professionally.” Thank you for sharing your story 💙
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
+#GrowWhereYouTeach #SchoolLeaders #EducatorStories
 
 ---
 
@@ -590,7 +590,7 @@ More than 6 in 10 of our past MAED students taught at ACA while they studied. If
 **LinkedIn**
 
 {{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeacherStories
 
 ---
@@ -604,7 +604,7 @@ More than 6 in 10 of our past MAED students taught at ACA while they studied. If
 **LinkedIn**
 
 {{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeacherStories
 
 ---
@@ -618,7 +618,7 @@ More than 6 in 10 of our past MAED students taught at ACA while they studied. If
 **LinkedIn**
 
 {{GRAD_NAME}} on doing the MAED while teaching: "{{GRAD_QUOTE_FULL}}" Thank you for sharing your story 💙
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeacherStories
 
 ---
@@ -632,7 +632,7 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 **LinkedIn**
 
 Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -645,7 +645,7 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 **LinkedIn**
 
 Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -658,7 +658,7 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 **LinkedIn**
 
 Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -671,7 +671,7 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 **LinkedIn**
 
 ⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -684,7 +684,7 @@ Today's the day ⏰ January cohort applications close tonight. Email pli@aca.edu
 **LinkedIn**
 
 Today's the day ⏰ January cohort applications close tonight. Email pli@aca.edu.kw or use the link in bio.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -697,7 +697,7 @@ Leading for 10+ years? The Ed.D was built for you — online, 3 years, no disser
 **LinkedIn**
 
 Leading for 10+ years? The Ed.D was built for you — online, 3 years, no dissertation. Ask us 👉 link in bio
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #EdD #SchoolLeaders
 
 ---
@@ -711,7 +711,7 @@ Happy International Day of Education 📚 Here's to every educator who keeps lea
 **LinkedIn**
 
 Happy International Day of Education 📚 Here's to every educator who keeps learning — so their students can too.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #InternationalDayOfEducation #TeachersOfKuwait
 
 ---
@@ -725,7 +725,7 @@ Welcome to our January 2027 cohort! 🎉 We can't wait to see you grow. #NewCoho
 **LinkedIn**
 
 Welcome to our January 2027 cohort! 🎉 We can't wait to see you grow.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #NewCohort #MAEd #GrowWhereYouTeach
 
 ---
@@ -739,7 +739,7 @@ Welcome to our March 2027 cohort! 🎉
 **LinkedIn**
 
 Welcome to our March 2027 cohort! 🎉
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -752,7 +752,7 @@ Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are
 **LinkedIn**
 
 Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -765,7 +765,7 @@ Happy National and Liberation Day, Kuwait 🇰🇼 Proud to learn, teach and gro
 **LinkedIn**
 
 Happy National and Liberation Day, Kuwait 🇰🇼 Proud to learn, teach and grow here.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -778,7 +778,7 @@ Ramadan Kareem from the Professional Learning Institute 🌙 Our team is availab
 **LinkedIn**
 
 Ramadan Kareem from the Professional Learning Institute 🌙 Our team is available for evening calls this month.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -791,7 +791,7 @@ Eid Mubarak! Wishing you and your families joy and peace ✨
 **LinkedIn**
 
 Eid Mubarak! Wishing you and your families joy and peace ✨
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -804,7 +804,7 @@ Eid Mubarak! Wishing you and your families joy and peace ✨
 **LinkedIn**
 
 ⏳ One week left for the March cohort. Link in bio.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -817,7 +817,7 @@ Today's the day ⏰ March cohort applications close tonight.
 **LinkedIn**
 
 Today's the day ⏰ March cohort applications close tonight.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -830,7 +830,7 @@ Tell us in the comments 👇 We read every one. #TeacherPD #GrowWhereYouTeach
 **LinkedIn**
 
 Tell us in the comments 👇 We read every one.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 #TeacherPD #GrowWhereYouTeach
 
 ---
@@ -844,7 +844,7 @@ Throwback to graduation day 🎓 Every one of these graduates started with one d
 **LinkedIn**
 
 Throwback to graduation day 🎓 Every one of these graduates started with one decision. Your story could be next.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -857,7 +857,7 @@ A US master's degree, one month at a time 💳 DM "PLAN" for your payment plan.
 **LinkedIn**
 
 A US master's degree, one month at a time 💳 DM "PLAN" for your payment plan.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -870,7 +870,7 @@ Happy New Year! ✨ Here's to growing where you teach in 2027.
 **LinkedIn**
 
 Happy New Year! ✨ Here's to growing where you teach in 2027.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -888,7 +888,7 @@ That tells me two things. First, the programme works around a real teaching sche
 
 If you've been thinking about a master's, ask someone in your staff room who has done it. Then ask me anything.
 
-Our January 2027 cohort is open → {{APPLY_LINK}}
+Our January 2027 cohort is open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 #ProfessionalLearning #MAEd #TeachersOfKuwait
 
@@ -905,7 +905,7 @@ Three things I've learned from coordinating our MAED cohorts:
 3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.
 
 If one of these sounds like you, our next cohort starts on 15 March.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -935,7 +935,7 @@ Some of the strongest teachers in your building have probably told you they want
 You can make "one day" this year. Mention the MAED in your next team meeting. Share this post with the colleague you think is ready. More than 6 in 10 of our past students were ACA educators — and many started because a leader encouraged them.
 
 For leaders with 10+ years of experience, our Executive Leadership Doctorate is also open.
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 

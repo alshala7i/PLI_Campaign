@@ -1,1 +1,1 @@
-Four steps from "I'm interested" to "I'm enrolled". → {{APPLY_LINK}}
+Four steps from "I'm interested" to "I'm enrolled". → https://forms.cloud.microsoft/r/GC5UUQubjU

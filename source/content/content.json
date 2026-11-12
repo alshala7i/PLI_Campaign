@@ -925,9 +925,29 @@
    "tag": "Grow where you teach."
   },
   {
+   "id": "S03a",
+   "pillar": "P1",
+   "raw": "**H:** “It’s a chance to become someone you never thought you could be.” · **Sub:** Hadi Arbini · Interventionist for Grades 4 and 5, American Creativity Academy (Elementary Boys’ Campus) · MAED Curriculum & Instruction · **Tag:** FROM OUR STAFF ROOM",
+   "visual": "Real graduation photo (written consent), rounded frame, Playfair quote, periwinkle name bar",
+   "caption_ig": "Meet Hadi Arbini, Interventionist for Grades 4 and 5 at ACA and a Saint Mary's University of Minnesota MAED graduate (Curriculum & Instruction): “My Curriculum and Instruction degree at Saint Mary’s University of Minnesota wasn’t as hard as people think. If you stay consistent and don’t postpone your work, you can do it. It’s a chance to become someone you never thought you could be.” Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories #ProfessionalLearningInstitute",
+   "h": "“It’s a chance to become someone you never thought you could be.”",
+   "sub": "Hadi Arbini · Interventionist for Grades 4 and 5, American Creativity Academy (Elementary Boys’ Campus) · MAED Curriculum & Instruction",
+   "tag": "FROM OUR STAFF ROOM"
+  },
+  {
+   "id": "S03b",
+   "pillar": "P1",
+   "raw": "**H:** “Saint Mary’s University has played an important role in my growth as an educator and school leader.” · **Sub:** Dr. Mehrnoosh Cheraghzadeh · Kindergarten Principal, American Creativity Academy – Salmiya · Saint Mary's University of Minnesota graduate · **Tag:** FROM OUR STAFF ROOM",
+   "visual": "Real photo (written consent), rounded frame, Playfair quote, periwinkle name bar",
+   "caption_ig": "Meet Dr. Mehrnoosh Cheraghzadeh, Kindergarten Principal at American Creativity Academy – Salmiya and a Saint Mary's University of Minnesota graduate: “Saint Mary’s University has played an important role in my growth as an educator and school leader. The program strengthened my ability to connect research with practice, reflect more deeply on my leadership, and create meaningful change within my school community. I would highly recommend it to educators who are ready to grow personally and professionally.” Thank you for sharing your story 💙 #GrowWhereYouTeach #SchoolLeaders #EducatorStories #ProfessionalLearningInstitute",
+   "h": "“Saint Mary’s University has played an important role in my growth as an educator and school leader.”",
+   "sub": "Dr. Mehrnoosh Cheraghzadeh · Kindergarten Principal, American Creativity Academy – Salmiya · Saint Mary's University of Minnesota graduate",
+   "tag": "FROM OUR STAFF ROOM"
+  },
+  {
    "id": "S03a–e",
    "pillar": "P1",
-   "raw": "**Graduate spotlight (template ×5):** **H:** \"{{GRAD_QUOTE_SHORT}}\" · **Sub:** {{GRAD_NAME}} · {{GRAD_ROLE}} · MAED {{GRAD_TRACK}}, {{GRAD_COHORT}} · **Tag:** FROM OUR STAFF ROOM (ACA grads) or FROM OUR COMMUNITY (external grads)",
+   "raw": "**Graduate spotlight (template ×5; S03a and S03b are filled above with real graduates, S03c–e stay templates):** **H:** \"{{GRAD_QUOTE_SHORT}}\" · **Sub:** {{GRAD_NAME}} · {{GRAD_ROLE}} · MAED {{GRAD_TRACK}}, {{GRAD_COHORT}} · **Tag:** FROM OUR STAFF ROOM (ACA grads) or FROM OUR COMMUNITY (external grads)",
    "visual": "Existing testimonial style: real photo top-left in rounded frame, Playfair quote, periwinkle name bar. **Aim for 3 ACA + 2 external graduates.**",
    "caption_ig": "{{GRAD_NAME}} on doing the MAED while teaching: \"{{GRAD_QUOTE_FULL}}\" Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories",
    "h": "\"{{GRAD_QUOTE_SHORT}}\"",

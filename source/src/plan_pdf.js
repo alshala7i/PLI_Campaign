@@ -61,7 +61,7 @@ ul{margin:0 0 3mm 4.5mm;padding:0} li{margin-bottom:1.3mm}
 .tl div b{display:block;font-size:8pt;color:var(--indigo)}
 .tl div.c{background:var(--indigo);color:#fff}.tl div.c b{color:var(--peri)}
 .small{font-size:8.4pt;color:rgba(30,32,71,.75)}
-.cal td{padding:1mm 1.6mm}.cal th{padding:1.2mm 1.6mm;font-size:6.8pt}
+.cal td{padding:1mm 1.6mm}.tight td{padding:.6mm 1.4mm}.cal th{padding:1.2mm 1.6mm;font-size:6.8pt}
 .shot{border-radius:3mm;box-shadow:0 1mm 4mm rgba(30,32,71,.18);display:block}
 .check li{list-style:none;position:relative;padding-left:6mm;margin-left:-4.5mm}
 .check li:before{content:'';position:absolute;left:0;top:1.2mm;width:3.4mm;height:3.4mm;border:0.5mm solid var(--indigo);border-radius:.8mm}
@@ -392,7 +392,7 @@ pages.push(pg(n++, `${kick('Measure and protect')}<h1>Know what works. Never ove
 const PHL = Object.entries(L.PH).filter(([k]) => !/SPOKEN/.test(k));
 pages.push(pg(n++, `${kick('Before publishing')}<h1>What we need from PLI.</h1>
 <p class="lead">Confirmed by PLI on 11 November 2026 where marked. Open items must be confirmed before they go live; captions keep a visible [placeholder] where the form link is needed. HR reviews the final captions, scripts and posts before publishing.</p>
-<table class="cal" style="font-size:7pt"><tr><th style="width:40%">Item</th><th>Value</th><th style="width:14%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
+<table class="cal tight" style="font-size:6.4pt;line-height:1.25"><tr><th style="width:40%">Item</th><th>Value</th><th style="width:14%">Status</th></tr>${PHL.map(([k, v]) => `<tr><td><b>${esc(v.what)}</b></td><td>${esc((v.confirmed ? v.copy || v.proposed : v.proposed) || '—')}</td><td>${v.confirmed ? '<span class="tag g">Confirmed</span>' : '<span class="tag r">To confirm</span>'}</td></tr>`).join('')}</table>`, 'cream'));
 
 pages.push(pg(n++, `${kick('Making it happen')}<h1>How to run it, week by week.</h1>
 <div class="grid2" style="align-items:start">

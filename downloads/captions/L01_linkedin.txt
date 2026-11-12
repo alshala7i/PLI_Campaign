@@ -8,6 +8,6 @@ That tells me two things. First, the programme works around a real teaching sche
 
 If you've been thinking about a master's, ask someone in your staff room who has done it. Then ask me anything.
 
-Our January 2027 cohort is open → {{APPLY_LINK}}
+Our January 2027 cohort is open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 #ProfessionalLearning #MAEd #TeachersOfKuwait

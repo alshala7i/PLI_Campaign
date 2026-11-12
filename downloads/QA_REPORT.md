@@ -1,6 +1,6 @@
 # QA report — PLI “Grow Where You Teach” kit
 
-Generated 2026-11-11T11:37Z with مصنع المحتوى (Content Factory).
+Generated 2026-11-12T10:24Z with مصنع المحتوى (Content Factory).
 
 ## Copy checks
 
@@ -21,34 +21,34 @@ Generated 2026-11-11T11:37Z with مصنع المحتوى (Content Factory).
 |---|---|---|---|---|---|
 | V01 | eric | ✅ | 30.5s | -16.5 | -1.5 |
 | V01 | sarah | ✅ | 30.9s | -16.6 | -1.5 |
-| V02 | eric | ✅ | 34.5s | -16.7 | -1.4 |
+| V02 | eric | ✅ | 34.5s | -16.7 | -1.5 |
 | V02 | sarah | ✅ | 35.3s | -16.5 | -1.5 |
 | V03 | eric | ✅ | 24.1s | -16.7 | -1.5 |
 | V03 | sarah | ✅ | 24.6s | -16.6 | -1.5 |
 | V04 | eric | ✅ | 28.7s | -16.7 | -1.5 |
 | V04 | sarah | ✅ | 28.8s | -16.6 | -1.5 |
 | V05 | eric | ✅ | 26.0s | -16.3 | -1.5 |
-| V05 | sarah | ✅ | 26.4s | -16.2 | -1.5 |
+| V05 | sarah | ✅ | 26.4s | -16.1 | -1.5 |
 | V06 | eric | ✅ | 24.6s | -16.9 | -1.5 |
 | V06 | sarah | ✅ | 25.2s | -16.4 | -1.5 |
-| V07 | eric | ✅ | 23.4s | -16.4 | -1.5 |
+| V07 | eric | ✅ | 23.4s | -16.5 | -1.5 |
 | V07 | sarah | ✅ | 24.3s | -16.4 | -1.4 |
 | V08 | eric | ✅ | 26.8s | -16.5 | -1.5 |
-| V08 | sarah | ✅ | 28.4s | -16.6 | -1.5 |
+| V08 | sarah | ✅ | 28.4s | -16.5 | -1.5 |
 | V09 | eric | ✅ | 39.9s | -16.8 | -1.5 |
 | V09 | sarah | ✅ | 41.3s | -16.7 | -1.5 |
 | V10 | eric | ✅ | 20.9s | -16.8 | -1.5 |
 | V10 | sarah | ✅ | 21.6s | -16.5 | -1.5 |
 | V11 | eric | ✅ | 19.3s | -16.7 | -1.5 |
 | V11 | sarah | ✅ | 20.1s | -16.4 | -1.5 |
-| V12 | eric | ✅ | 21.3s | -16.7 | -1.4 |
+| V12 | eric | ✅ | 21.3s | -16.6 | -1.4 |
 | V12 | sarah | ✅ | 22.6s | -16.4 | -1.5 |
 | V13 | eric | ✅ | 20.5s | -16.9 | -1.4 |
 | V13 | sarah | ✅ | 21.1s | -16.7 | -1.5 |
 | V14 | eric | ✅ | 25.7s | -16.7 | -1.4 |
 | V14 | sarah | ✅ | 26.5s | -16.4 | -1.4 |
-| V01b | eric | ✅ | 30.9s | -16.6 | -1.5 |
-| V01b | sarah | ✅ | 31.5s | -16.5 | -1.5 |
+| V01b | eric | ✅ | 30.9s | -16.5 | -1.5 |
+| V01b | sarah | ✅ | 31.5s | -16.4 | -1.5 |
 | V03b | eric | ✅ | 24.1s | -16.7 | -1.5 |
 | V03b | sarah | ✅ | 24.6s | -16.6 | -1.5 |
 
@@ -69,9 +69,9 @@ Generated 2026-11-11T11:37Z with مصنع المحتوى (Content Factory).
 
 - Deadlines, start dates, prices, referral terms and the Kuwait wording were confirmed by PLI on 11 Nov 2026 (HR-approved Kuwait wording used word for word). Items still open are listed in PLACEHOLDERS_OPEN.md.
 - HR asked to review the final captions, scripts and posts before anything is published: downloads/HR_REVIEW_PACK.md.
-- No form link exists yet: visuals say “Link in bio · pli@aca.edu.kw”; captions keep a visible {{APPLY_LINK}} (the kit site replaces it once you type the link). Poster QR codes open an email to pli@aca.edu.kw until the form exists.
-- Graduate spotlights (S03a–e), Saturday Learning Series recap (C12) and story answer frames are templates with magenta placeholders — no invented people or quotes.
+- Form link confirmed (Microsoft Forms); captions and the calendar use it, with UTM tags on every calendar link (Microsoft Forms does not store them, so add a “How did you hear about us?” question to see sources). Poster QR codes open the form.
+- Graduate spotlights S03a and S03b are real graduates (own words, own photos, written consent); S03c–e, the Saturday Learning Series recap (C12) and story answer frames stay templates with magenta placeholders — no invented people or quotes.
 - Welcome posts/videos (S09, S09b, V11) use the PLI class photo from the official PLI page as a stand-in for the first-day cohort photo.
-- Logos: PLI shield (LinkedIn page logo, 200 px — replace with the original file when available), ACA logo and Saint Mary’s logo from the official sites. The positive Saint Mary’s version was produced from the official reverse (white) file by setting the wordmark to ink; please replace with the official full-colour file.
+- Logos: official Saint Mary’s University of Minnesota full-colour logo (from PLI, 12 Nov 2026), PLI shield and ACA logo.
 - Week folders (week-01 … week-20) are presented as sections in the kit site and the calendar instead of duplicated files.
 - Staff emails #2–#4 are drafts expanded from the plan’s one-line summaries; Salwa approves before sending.

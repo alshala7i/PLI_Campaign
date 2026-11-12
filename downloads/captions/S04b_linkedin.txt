@@ -1,2 +1,2 @@
 Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} at {{LIVE_TIME}}. Drop your questions below and we'll answer them live 👇
-→ {{APPLY_LINK}}
+→ https://forms.cloud.microsoft/r/GC5UUQubjU
