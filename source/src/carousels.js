@@ -119,11 +119,11 @@ function coverSlide(id, s, n, art) {
   }
   if (kind === 'split') {
     return { cls: 'bg-cream', body: `${shield()}
-      <div style="position:absolute;left:0;top:0;bottom:0;width:50%;background:var(--peri)"></div>
+      <div style="position:absolute;left:0;top:0;bottom:0;width:50%;background:var(--indigo)"></div>
       <div style="position:absolute;right:0;top:0;bottom:0;width:50%;background:var(--indigo)"></div>
       <div class="stackw" style="top:330px;text-align:center">
-        <div class="hd" style="font-size:210px;color:var(--deep)"><span>C&amp;I</span> <span class="c-cream" style="font-size:.5em;vertical-align:middle">or</span></div>
-        <div class="hd c-cream" style="font-size:190px">Leadership?</div>
+        <div class="hd" style="font-size:190px;color:var(--peri)"><span>Master's</span> <span class="c-cream" style="font-size:.5em;vertical-align:middle">or</span></div>
+        <div class="hd c-cream" style="font-size:190px">Doctorate?</div>
         <div class="serif" style="font-size:58px;margin-top:40px;color:#fff;text-shadow:0 2px 0 rgba(0,0,0,.08)">${vt(subClean)}</div>
       </div>${swipe('#fff')}` };
   }

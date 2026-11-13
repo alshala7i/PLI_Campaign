@@ -23,7 +23,7 @@
   "ACCOUNTS_BUDGET": {"what": "Who runs the accounts and the ad budget", "proposed": "Not answered yet", "confirmed": false},
   "HR_REVIEW": {"what": "HR review of final captions, scripts and posts (downloads/HR_REVIEW_PACK.md)", "proposed": "Before anything is published", "confirmed": false},
   "PRICES_PUBLIC": {"what": "Fees in public content", "proposed": "None: Saint Mary's shares fees by email only (Dr. Claire via Salwa, 11 Nov 2026)", "copy": "Fees by email only", "confirmed": true},
-  "MAED_TRACKS": {"what": "MAED tracks offered (form lists only Curriculum & Instruction)", "proposed": "Campaign shows C&I and Educational Leadership — confirm (V02, V08, C06)", "confirmed": false},
-  "EDD_NAME": {"what": "Ed.D name: Executive Leadership Doctorate (website) or EdD in Educational Leadership (form)", "proposed": "Executive Leadership Doctorate (current)", "confirmed": false},
+  "MAED_TRACKS": {"what": "MAED specialisation", "proposed": "Curriculum & Instruction (PLI registration form, 12 Nov 2026)", "confirmed": true, "copy": "Curriculum & Instruction"},
+  "EDD_NAME": {"what": "Ed.D name", "proposed": "Ed.D in Educational Leadership (PLI registration form)", "confirmed": true, "copy": "Ed.D in Educational Leadership"},
   "FORM_FIELDS": {"what": "Suggested form additions: phone/WhatsApp, ACA staff yes/no, cohort, how did you hear about us; typo “inside our outside”", "proposed": "For Salwa", "confirmed": false}
 }

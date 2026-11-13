@@ -38,19 +38,19 @@ January 2027 cohort: applications open → https://forms.cloud.microsoft/r/GC5UU
 
 The MAED, in 45 seconds ⏱️
 ✅ Saint Mary's University of Minnesota degree, delivered in Kuwait
-✅ Curriculum & Instruction or Educational Leadership
+✅ Specialised in Curriculum & Instruction
 ✅ 30 credits · 10 courses · 18 months
 ✅ In-person classes every week
 ✅ Pay monthly
 
 Save this for later and send it to the colleague who keeps asking 😉
 Next cohort: January · Link in bio
-#GrowWhereYouTeach #MAEd #MastersInEducation #TeachersOfKuwait #CurriculumAndInstruction #EducationalLeadership #ProfessionalLearningInstitute
+#GrowWhereYouTeach #MAEd #MastersInEducation #TeachersOfKuwait #CurriculumAndInstruction #ProfessionalLearningInstitute
 
 **LinkedIn**
 
 A master's degree that fits around a full teaching load — here is the whole programme in 45 seconds.
-Saint Mary's University of Minnesota MAED · Curriculum & Instruction or Educational Leadership · 30 credits, 10 courses, 18 months · weekly in-person classes in Kuwait · monthly payments.
+Saint Mary's University of Minnesota MAED · Curriculum & Instruction · 30 credits, 10 courses, 18 months · weekly in-person classes in Kuwait · monthly payments.
 January 2027 cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 #MAEd #EducationalLeadership #ProfessionalDevelopment
 
@@ -74,12 +74,12 @@ Ask us for the fees and a personal payment plan → https://forms.cloud.microsof
 
 ---
 
-## V04 — The Executive Leadership Doctorate
+## V04 — The Ed.D in Educational Leadership
 
 **Instagram / Facebook**
 
 For the leaders who've done it all — what's next? 🎓
-Executive Leadership Doctorate (Ed.D), Saint Mary's University of Minnesota
+Ed.D in Educational Leadership, Saint Mary's University of Minnesota
 • 39 credits · 3 years
 • Fully online + a local cohort in Kuwait
 • No dissertation
@@ -91,7 +91,7 @@ Ask us about the Ed.D → link in bio
 **LinkedIn**
 
 For principals, vice principals, heads of department and directors with 10+ years of leadership experience:
-the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits over 3 years, fully online with a local Kuwait cohort, and no dissertation.
+the Saint Mary's University of Minnesota Ed.D in Educational Leadership — 39 credits over 3 years, fully online with a local Kuwait cohort, and no dissertation.
 Monthly plans over 36 or 48 months.
 Conversations open now → https://forms.cloud.microsoft/r/GC5UUQubjU
 #EdD #EducationalLeadership #SchoolLeadership
@@ -148,20 +148,19 @@ Former Kuwait-based educator, or teaching elsewhere in the region? PLI's MAED (S
 
 ---
 
-## V08 — Two tracks: which one is you?
+## V08 — Master's or doctorate? Which one is you?
 
 **Instagram / Facebook**
 
-C&I or Leadership? 🤔
-📘 Curriculum & Instruction — for teachers deepening classroom practice
-🧭 Educational Leadership — for educators stepping into school leadership
-Same degree length: 30 credits · 10 courses · 18 months.
-Comment "C&I" or "LEAD" and we'll send you the details.
-#MAEd #CurriculumAndInstruction #EducationalLeadership #TeachersOfKuwait #GrowWhereYouTeach
+Master's or doctorate? 🤔
+📘 MAED in Curriculum & Instruction — for teachers deepening classroom practice (30 credits · 10 courses · 18 months)
+🧭 Ed.D in Educational Leadership — for leaders with 10+ years of leadership experience (39 credits · 3 years · online)
+Comment "MAED" or "EDD" and we'll send you the details.
+#MAEd #EdD #CurriculumAndInstruction #EducationalLeadership #TeachersOfKuwait #GrowWhereYouTeach
 
 **LinkedIn**
 
-Choosing between Curriculum & Instruction and Educational Leadership? A simple rule: C&I if you want to go deeper in the classroom, Educational Leadership if you're stepping toward leading others. Both are 30 credits / 10 courses / 18 months. We're happy to talk it through → https://forms.cloud.microsoft/r/GC5UUQubjU
+Master's or doctorate? A simple rule: the MAED in Curriculum & Instruction if you want to go deeper in the classroom; the Ed.D in Educational Leadership if you already have 10+ years of leadership experience. Both with Saint Mary's University of Minnesota. We're happy to talk it through → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -321,11 +320,11 @@ Everything you need to know about the MAED, on 8 slides. Save it 📌 · Next co
 
 **LinkedIn**
 
-The Saint Mary's University of Minnesota MAED at a glance — tracks, structure, format, accreditation and investment in one document. January cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
+The Saint Mary's University of Minnesota MAED at a glance — specialisation, structure, format, accreditation and investment in one document. January cohort → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
-## C03 — The Executive Leadership Doctorate at a glance
+## C03 — The Ed.D in Educational Leadership at a glance
 
 **Instagram / Facebook**
 
@@ -333,7 +332,7 @@ The doctorate built for experienced school leaders — online, 3 years, no disse
 
 **LinkedIn**
 
-For leaders with 10+ years of experience: the Saint Mary's University of Minnesota Executive Leadership Doctorate — 39 credits, 3 years, fully online with a local Kuwait cohort, no dissertation, monthly payment options. → https://forms.cloud.microsoft/r/GC5UUQubjU
+For leaders with 10+ years of experience: the Saint Mary's University of Minnesota Ed.D in Educational Leadership — 39 credits, 3 years, fully online with a local Kuwait cohort, no dissertation, monthly payment options. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -361,15 +360,15 @@ PLI's referral reward, explained in 6 slides. Terms apply. → https://forms.clo
 
 ---
 
-## C06 — C&I or Leadership? Choose your track.
+## C06 — Master's or doctorate? Choose your path.
 
 **Instagram / Facebook**
 
-Comment "C&I" or "LEAD" — which one is you? #CurriculumAndInstruction #EducationalLeadership #MAEd #TeachersOfKuwait
+Comment "MAED" or "EDD" — which one is you? #CurriculumAndInstruction #EducationalLeadership #MAEd #EdD #TeachersOfKuwait
 
 **LinkedIn**
 
-A simple guide to choosing between the two MAED tracks. → https://forms.cloud.microsoft/r/GC5UUQubjU
+A simple guide to choosing between the MAED in Curriculum & Instruction and the Ed.D in Educational Leadership. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -934,7 +933,7 @@ Some of the strongest teachers in your building have probably told you they want
 
 You can make "one day" this year. Mention the MAED in your next team meeting. Share this post with the colleague you think is ready. More than 6 in 10 of our past students were ACA educators — and many started because a leader encouraged them.
 
-For leaders with 10+ years of experience, our Executive Leadership Doctorate is also open.
+For leaders with 10+ years of experience, our Ed.D in Educational Leadership is also open.
 → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
@@ -959,7 +958,7 @@ If you're a teacher in Kuwait (or abroad — there's an online option now) and y
 
 I'm often asked whether a doctorate is realistic for a working school leader.
 
-Our Executive Leadership Doctorate with Saint Mary's University of Minnesota is 39 credits over three years, fully online with a local Kuwait cohort, and has no dissertation. It's designed for professionals with 10 or more years of leadership experience.
+Our Ed.D in Educational Leadership with Saint Mary's University of Minnesota is 39 credits over three years, fully online with a local Kuwait cohort, and has no dissertation. It's designed for professionals with 10 or more years of leadership experience.
 
 This week I'm keeping my calendar open for 15-minute conversations with leaders who want to explore it. Comment or message me.
 

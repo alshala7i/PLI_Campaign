@@ -132,7 +132,7 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
 
 // 3. SITUATION
 pages.push(pg(n++, `${kick('Where PLI stands today')}<h1>A great product, told quietly.</h1>
-<p class="lead">The Professional Learning Institute delivers two Saint Mary's University of Minnesota degrees in Kuwait: the <b>MAED</b> (Master of Arts in Education — Curriculum &amp; Instruction or Educational Leadership; 30 credits, 10 courses, 18 months) and the <b>Ed.D</b> (Executive Leadership Doctorate; 39 credits, 3 years, fully online, no dissertation).</p>
+<p class="lead">The Professional Learning Institute delivers two Saint Mary's University of Minnesota degrees in Kuwait: the <b>MAED</b> (Master of Arts in Education — Curriculum &amp; Instruction; 30 credits, 10 courses, 18 months) and the <b>Ed.D</b> (Ed.D in Educational Leadership; 39 credits, 3 years, fully online, no dissertation).</p>
 <div class="grid2" style="margin:6mm 0">
   <div class="card"><h4>What the numbers say</h4><ul class="small"><li>About <b>62%</b> of past students were ACA staff; <b>38%</b> were external.</li><li>Students came from at least <b>eight nationalities</b>.</li><li>Payments are monthly, over 18 months, with a staff rate for ACA educators.</li></ul></div>
   <div class="card"><h4>What the audience sees</h4><ul class="small"><li>A good-looking Instagram, mostly about events (Saturday Learning Series) and programme facts.</li><li>No price, no proof story, no clear “apply here”.</li><li>Website “Apply Now” buttons that lead to ACA job listings, not to PLI.</li></ul></div>
@@ -209,7 +209,7 @@ const S2G = [
   ['S4 Simple money', 'Show the monthly maths openly (V03, C04, S18); PL stipend and signing bonus for staff and new hires (V14); referral reward (V06, C05).', 'ST2, ST3, LT5'],
   ['S5 A diverse community', '“One classroom, eight nationalities” (C11); external graduates in spotlights.', 'ST4, LT3'],
   ['S6 Brand and events', 'New content sits naturally in the existing grid; a 2-minute PLI slot + QR at every Saturday Learning Series.', 'ST4, LT1'],
-  ['S7 A rare doctorate', 'Always-on Ed.D track on LinkedIn (V04, C03, S07, L06) aimed at leaders with 10+ years.', 'LT4'],
+  ['S7 A rare doctorate', 'Always-on Ed.D content on LinkedIn (V04, C03, S07, L06) aimed at leaders with 10+ years.', 'LT4'],
   ['S8 New reach', '“Grow wherever you teach” (V07, C13) and GCC campaigns from 31 Jan.', 'ST3, LT3'],
 ];
 const G2W = [
@@ -327,7 +327,7 @@ pages.push(pg(n++, `${kick('Timeline')}<h1>Eight phases, two peaks.</h1>
 pages.push(pg(n++, `${kick('Content plan')}<h1>Five pillars, every week.</h1>
 <table><tr><th style="width:28%">Pillar</th><th style="width:10%">Share</th><th>Purpose</th><th style="width:22%">Examples</th></tr>
 <tr><td><b>P1 · From our staff room</b></td><td>25%</td><td>The 62% story, graduates, ambassadors</td><td>V01, C01, S02, S03</td></tr>
-<tr><td><b>P2 · Programme clarity</b></td><td>25%</td><td>What, how long, which track, how to apply</td><td>V02, V08, C02, C06, C09, C10</td></tr>
+<tr><td><b>P2 · Programme clarity</b></td><td>25%</td><td>What, how long, MAED or Ed.D, how to apply</td><td>V02, V08, C02, C06, C09, C10</td></tr>
 <tr><td><b>P3 · Money made simple</b></td><td>15%</td><td>Monthly plan, PL stipend, signing bonus, referral</td><td>V03, V06, V14, C04, C05, S18</td></tr>
 <tr><td><b>P4 · Trust and answers</b></td><td>15%</td><td>Accreditation, FAQ, myths, Live Q&amp;A</td><td>V09, C07, C08, S04</td></tr>
 <tr><td><b>P5 · Moments and deadlines</b></td><td>20%</td><td>Cohort openings, deadlines, welcomes, national and religious occasions</td><td>V10, V11, V13, S01, S05, S06</td></tr></table>
