@@ -1,55 +1,47 @@
 1
-00:00:00,300 --> 00:00:01,180
-One degree.
+00:00:00,300 --> 00:00:02,220
+Master's or doctorate?
 
 2
-00:00:01,180 --> 00:00:03,180
+00:00:02,220 --> 00:00:03,740
 Two directions.
 
 3
-00:00:03,180 --> 00:00:06,060
-Curriculum and Instruction is for teachers deepening
+00:00:03,740 --> 00:00:06,380
+The master's in Curriculum and Instruction is for
 
 4
-00:00:06,060 --> 00:00:07,820
-their classroom practice.
+00:00:06,380 --> 00:00:09,100
+teachers deepening their classroom practice.
 
 5
-00:00:07,820 --> 00:00:11,100
-Educational Leadership is for educators stepping into
+00:00:09,100 --> 00:00:12,100
+The doctorate in Educational Leadership is for leaders
 
 6
-00:00:11,100 --> 00:00:12,540
-school leadership.
+00:00:12,100 --> 00:00:15,260
+with ten or more years of leadership experience.
 
 7
-00:00:12,540 --> 00:00:15,220
-Both are thirty credits, ten courses,
+00:00:15,260 --> 00:00:18,700
+Both are with Saint Mary's University of Minnesota.
 
 8
-00:00:15,220 --> 00:00:17,580
-eighteen months, with Saint Mary's University of
-
-9
-00:00:17,580 --> 00:00:18,780
-Minnesota.
-
-10
-00:00:18,780 --> 00:00:19,980
+00:00:18,700 --> 00:00:19,980
 Love the classroom?
 
-11
+9
 00:00:19,980 --> 00:00:21,180
 Go deeper.
 
-12
-00:00:21,180 --> 00:00:22,220
+10
+00:00:21,180 --> 00:00:22,300
 Ready to lead?
 
-13
-00:00:22,220 --> 00:00:24,940
+11
+00:00:22,300 --> 00:00:25,020
 Step up. Not sure which fits you?
 
-14
-00:00:24,940 --> 00:00:28,240
+12
+00:00:25,020 --> 00:00:28,480
 Book a fifteen-minute call and we'll help you choose.

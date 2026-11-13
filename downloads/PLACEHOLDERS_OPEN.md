@@ -15,8 +15,6 @@ Confirm each item with PLI, then update `config/placeholders.json` and re-render
 | CLASS_PATTERN | Real class pattern (V05 'one class night') | One class night a week | — |
 | ACCOUNTS_BUDGET | Who runs the accounts and the ad budget | Not answered yet | — |
 | HR_REVIEW | HR review of final captions, scripts and posts (downloads/HR_REVIEW_PACK.md) | Before anything is published | — |
-| MAED_TRACKS | MAED tracks offered (form lists only Curriculum & Instruction) | Campaign shows C&I and Educational Leadership — confirm (V02, V08, C06) | — |
-| EDD_NAME | Ed.D name: Executive Leadership Doctorate (website) or EdD in Educational Leadership (form) | Executive Leadership Doctorate (current) | — |
 | FORM_FIELDS | Suggested form additions: phone/WhatsApp, ACA staff yes/no, cohort, how did you hear about us; typo “inside our outside” | For Salwa | — |
 
 ## Confirmed by PLI (11 Nov 2026)
@@ -36,5 +34,7 @@ Confirm each item with PLI, then update `config/placeholders.json` and re-render
 | REFERRAL_TERMS | Referral terms in writing | Refer 2 who enroll and complete their courses → final payment waived · Refer 4 who register and continue → last 2 payments waived |
 | LOGOS_PHOTOS | Official logos and graduate photos (shared folder) | Received 12 Nov: Saint Mary’s full-colour logo, PLI logo, 3 graduates’ photos and quotes |
 | PRICES_PUBLIC | Fees in public content | None: Saint Mary's shares fees by email only (Dr. Claire via Salwa, 11 Nov 2026) |
+| MAED_TRACKS | MAED specialisation | Curriculum & Instruction (PLI registration form, 12 Nov 2026) |
+| EDD_NAME | Ed.D name | Ed.D in Educational Leadership (PLI registration form) |
 
 Also to collect: TARGET_ENROLMENTS, TARGET_APPS, TARGET_LEADS (KPIs) · SLS_TOPIC / SLS_SPEAKER / TAKEAWAY_1–3 / NEXT_SLS_DATE (C12) · SCHOOL / ONE_THING (L05 graduate template) · official logo files and brand fonts.
