@@ -22,7 +22,7 @@ S.V01b = { ...S.V01, vo: vo('V01').replace('January cohort', 'March cohort'), sc
 S.V02 = { vo: vo('V02'), cover: 0, scenes: [
   { type: 'stamp', bg: 'indigo', lines: [{ text: "A MASTER'S", size: 160 }, { text: 'WITHOUT PAUSING', size: 140 }, { text: 'YOUR CAREER?', size: 160, color: 'peri' }] },
   { type: 'stack', bg: 'cream', at: "Here's the Saint", img: 'smu', lines: [{ text: "Saint Mary's University of Minnesota", serif: true, size: 78, color: 'deep' }, { text: 'MASTER OF ARTS IN EDUCATION', size: 130 }], sub: 'Delivered in Kuwait' },
-  { type: 'split', at: 'Choose your track', a: { tag: 'Track 1', title: 'CURRICULUM & INSTRUCTION', bg: 'peri' }, b: { tag: 'Track 2', title: 'EDUCATIONAL LEADERSHIP', bg: 'indigo', at: 'Educational Leadership' } },
+  { type: 'stack', bg: 'peri', at: 'Specialised in', lines: [{ text: 'CURRICULUM &', size: 150 }, { text: 'INSTRUCTION', size: 150 }], sub: 'For teachers deepening classroom practice' },
   { type: 'counters', bg: 'indigo', at: 'Thirty credits', items: C30('Thirty credits', 'Ten courses', 'Eighteen months') },
   { type: 'planner', bg: 'cream', at: 'Classes meet', head: 'IN PERSON · EVERY WEEK', hi: 2, labels: ['', '', '', '', ''], hiLabel: 'MAED', htAt: { at: 'every week' }, sub: 'Built for working educators' },
   { type: 'blocks', bg: 'indigo', at: 'You pay monthly', head: 'PAY MONTHLY', total: 18, waived: 0, label: '18 monthly payments, not one lump sum' },
@@ -43,7 +43,7 @@ S.V03b = { ...S.V03, scenes: S.V03.scenes.map((s) => (s.type === 'end' ? { ...s,
 S.V04 = { vo: vo('V04'), cover: 4, scenes: [
   { type: 'stack', bg: 'deep', lines: [{ text: "YOU'VE LED TEAMS.", size: 140 }, { text: 'DEPARTMENTS.', size: 140, at: 'Departments' }, { text: 'A WHOLE SCHOOL.', size: 140, color: 'peri', at: 'whole school' }] },
   { type: 'stack', bg: 'deep', at: "So what's next", lines: [{ text: "So what's next?", serif: true, italic: true, size: 150, color: 'cream' }] },
-  { type: 'icon', bg: 'cream', at: 'The Executive Leadership', icon: 'cap', lines: [{ text: 'EXECUTIVE LEADERSHIP DOCTORATE (ED.D)', size: 104 }, { text: "Saint Mary's University of Minnesota", at: "Saint Mary's" }] },
+  { type: 'icon', bg: 'cream', at: 'The Doctorate in', icon: 'cap', lines: [{ text: 'ED.D IN EDUCATIONAL LEADERSHIP', size: 110 }, { text: "Saint Mary's University of Minnesota", at: "Saint Mary's" }] },
   { type: 'counters', bg: 'indigo', at: 'Thirty-nine credits', items: [{ n: 39, label: 'CREDITS', at: 'Thirty-nine credits' }, { n: 3, label: 'YEARS', at: 'three years' }], foot: 'FULLY ONLINE + LOCAL COHORT', footAt: { at: 'Fully online' } },
   { type: 'stamp', bg: 'cream', at: 'And no dissertation', lines: [{ text: 'NO', size: 260, color: 'deep' }, { text: 'DISSERTATION', size: 170 }], strike: true },
   { type: 'bars', bg: 'indigo', at: "It's designed", head: 'FOR LEADERS WITH', items: [{ text: '10+ YEARS OF', at: 'ten or more' }, { text: 'LEADERSHIP EXPERIENCE', at: 'leadership experience' }] },
@@ -77,10 +77,10 @@ S.V07 = { vo: vo('V07'), cover: 0, scenes: [
 ] };
 
 S.V08 = { vo: vo('V08'), cover: 0, scenes: [
-  { type: 'fork', bg: 'cream', head: 'ONE DEGREE. TWO DIRECTIONS.', a: 'C&I', b: 'LEADERSHIP', aAt: { at: 'Two directions' } },
-  { type: 'stack', bg: 'peri', at: 'Curriculum and Instruction', lines: [{ text: 'CURRICULUM &', size: 150 }, { text: 'INSTRUCTION', size: 150 }], sub: 'For teachers deepening classroom practice' },
-  { type: 'stack', bg: 'indigo', at: 'Educational Leadership is', lines: [{ text: 'EDUCATIONAL', size: 150 }, { text: 'LEADERSHIP', size: 150, color: 'peri' }], sub: 'For educators stepping into school leadership' },
-  { type: 'counters', bg: 'cream', at: 'Both are', head: 'BOTH:', items: C30('thirty credits', 'ten courses', 'eighteen months') },
+  { type: 'fork', bg: 'cream', head: "MASTER'S OR DOCTORATE?", a: 'MAED', b: 'ED.D', aAt: { at: 'Two directions' } },
+  { type: 'stack', bg: 'peri', at: "The master's in", lines: [{ text: 'MAED', size: 190 }, { text: 'CURRICULUM & INSTRUCTION', size: 96 }], sub: 'For teachers deepening classroom practice' },
+  { type: 'stack', bg: 'indigo', at: 'The doctorate in', lines: [{ text: 'ED.D', size: 190 }, { text: 'EDUCATIONAL LEADERSHIP', size: 100, color: 'peri' }], sub: 'For leaders with 10+ years of leadership experience' },
+  { type: 'icon', bg: 'cream', at: 'Both are with', icon: 'cap', lines: [{ text: "SAINT MARY'S UNIVERSITY", size: 110 }, { text: 'of Minnesota', at: 'Minnesota' }] },
   { type: 'split', at: 'Love the classroom', a: { title: 'LOVE THE CLASSROOM?', sub: 'Go deeper.', bg: 'peri' }, b: { title: 'READY TO LEAD?', sub: 'Step up.', bg: 'indigo', at: 'Ready to lead' } },
   { type: 'end', at: 'Not sure which', lines: ['NOT SURE?', 'Book a 15-minute call', 'pli@aca.edu.kw'], cta: '15-minute call' },
 ] };
