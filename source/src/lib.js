@@ -41,7 +41,8 @@ function ct(s) {
   });
 }
 
-const shield = (cls = '') => `<img class="shield ${cls}" src="${LOGO.shield}">`;
+// Brand mark on every asset (PLI, Nov 2026): PLI + Saint Mary's logos, no ACA logo.
+const shield = (cls = '') => `<div class="shield mark ${cls}"><img src="${LOGO.shield}"><i></i><img src="${LOGO.smuDark}"></div>`;
 const counter = (i, n) => `<div class="counter">${i}/${n}</div>`;
 const dots = (opts = {}) => {
   const { size = 64, gap = 22, color = 'var(--indigo)', w = 6, filled = 6 } = opts;
@@ -54,8 +55,6 @@ const lockup = (scale = 1) =>
      <img src="${LOGO.shield}" style="height:${84}px">
      <div class="sep"></div>
      <img src="${LOGO.smuDark}" style="height:${78}px">
-     <div class="sep"></div>
-     <img src="${LOGO.aca}" style="height:${92}px">
    </div>`;
 const dateblock = (m, d, extra = '') => `<div class="dateblock" ${extra}><div class="m">${esc(m)}</div><div class="d">${esc(d)}</div></div>`;
 const swipe = (color = 'currentColor') =>

@@ -1,7 +1,7 @@
 # Professional Learning Institute (PLI) — Cohort Campaign Plan
 ## "Grow Where You Teach" · Instagram · LinkedIn · Facebook
-**Campaign window:** Thu 12 Nov 2026 (launch) → Sat 3 Apr 2027 (launch days 12–14 Nov + 20 weeks)
-**Cohorts promoted:** January 2027 cohort (in person, Kuwait) · March 2027 cohort (in person, Kuwait) · Online option for educators outside Kuwait · Ed.D (always-on)
+**Campaign window:** Sun 15 Nov 2026 → Sat 3 Apr 2027 (20 weeks + 1 setup week)
+**Cohorts promoted:** Spring Term 1 — January 2027 cohort (starts Mon 4 Jan, apply by Thu 10 Dec) · Spring Term 2 — March 2027 cohort (starts Mon 1 Mar, apply by Wed 10 Feb), both in person in Kuwait · Online option for educators outside Kuwait · Ed.D (always-on)
 **Prepared for:** Salwa Sleiman, PLI Coordinator, American Creativity Academy
 **Language of all content:** English
 
@@ -83,14 +83,14 @@ Reels / video ads → Carousels, FAQ, Live Q&A,  →  Lead form / email / DM    
 
 | Phase | Dates | Goal | Focus content |
 |---|---|---|---|
-| **0. Setup + launch** | 8–14 Nov 2026 | Path to conversion ready · **launch Thu 12 Nov** | Bio, highlights, form, UTM, pixel/Insight Tag, Facebook page, collect graduate quotes and photos, book Live hosts · first posts Thu 12 Nov (S01) and Sat 14 Nov (S17) |
-| **1. Launch: January cohort** | 15 Nov – 12 Dec | Awareness + consideration | 62% proof, MAED at a glance, the monthly maths, MAED or Ed.D, Live Q&A #1 (Wed 9 Dec) |
-| **2. Close: January cohort** | 13 Dec – 26 Dec | Applications | FAQ, final week, deadline `{{JAN_DEADLINE}}` (Thu 24 Dec 2026), graduate proof |
-| **3. New year + Ed.D** | 27 Dec – 9 Jan | Retain attention over the break, Ed.D | 2027 growth plan, Ed.D video, welcome the January cohort (first class Mon 4 Jan) |
-| **4. Launch: March cohort** | 10 Jan – 6 Feb | Awareness + consideration | New-hire angle, referral reward, online option, Day of Education (24 Jan), Live Q&A #2 (Wed 27 Jan) |
-| **5. Ramadan: March consideration** | 7 Feb – 20 Feb | Respectful, steady consideration | Ramadan (≈8 Feb – 8 Mar 2027, moon-sighting dependent), accreditation answers, Live Q&A #3 (Wed 17 Feb, 9:30 pm) |
-| **6. Close: March cohort (in Ramadan)** | 21 Feb – 6 Mar | Applications | National Day (25–26 Feb), final call, deadline `{{MAR_DEADLINE}}` (Fri 5 Mar 2027) |
-| **7. Eid, welcome + always-on** | 7 Mar – 3 Apr | Advocacy, Ed.D, next intake | Eid al-Fitr (≈9–10 Mar), welcome the March cohort (first class Mon 15 Mar), graduate advocacy |
+| **0. Setup** | 8–14 Nov 2026 | Path to conversion ready | Bio, highlights, form, UTM, pixel/Insight Tag, Facebook page, collect graduate quotes and photos, book Live hosts |
+| **1. Launch: Spring Term 1 (January cohort)** | 15 Nov – 28 Nov | Awareness + consideration | 62% proof, MAED at a glance, the monthly maths, MAED or Ed.D |
+| **2. Close: Spring Term 1** | 29 Nov – 12 Dec | Applications | FAQ, final week, Live Q&A #1 (Wed 9 Dec), deadline `{{JAN_DEADLINE}}` (Thu 10 Dec 2026) |
+| **3. Between terms + Ed.D** | 13 Dec – 9 Jan | Retain attention, Ed.D | Graduate proof, 2027 growth plan, Ed.D video, welcome the January cohort (first class Mon 4 Jan) |
+| **4. Launch: Spring Term 2 (March cohort)** | 10 Jan – 30 Jan | Awareness + consideration | New-hire angle, referral reward, online option, Day of Education (24 Jan), Live Q&A #2 (Wed 27 Jan) |
+| **5. Close: Spring Term 2** | 31 Jan – 13 Feb | Applications | Final call, Live Q&A #3 (Wed 3 Feb), deadline `{{MAR_DEADLINE}}` (Wed 10 Feb 2027, first days of Ramadan) |
+| **6. Ramadan, National Day + welcome** | 14 Feb – 6 Mar | Respectful, steady presence | Ramadan (≈8 Feb – 8 Mar 2027, moon-sighting dependent), accreditation answers, National Day (25–26 Feb), welcome the March cohort (first class Mon 1 Mar) |
+| **7. Eid + always-on** | 7 Mar – 3 Apr | Advocacy, Ed.D, next intake | Eid al-Fitr (≈9–10 Mar), graduate advocacy, Ed.D |
 
 **Ramadan rules:** post feed content after iftar (9:30 pm), keep tone reflective, no hard-sell countdown graphics on Ramadan greeting posts, no food imagery, offer evening calls. Confirm Ramadan and Eid dates with the official Kuwaiti announcement and shift posts by one day if needed.
 
@@ -99,14 +99,14 @@ Social media amplifies; internal channels convert ACA staff. Run these alongside
 
 | When | Action | Owner |
 |---|---|---|
-| Thu 12 Nov (launch) | **Staff email #1** from PLI: "Grow where you teach" + staff rate + PL stipend + form link | Salwa |
+| Week 1 | **Staff email #1** from PLI: "Grow where you teach" + staff rate + PL stipend + form link | Salwa |
 | Week 1 | **Principals' briefing:** one slide for every campus/division meeting; ask principals to mention it once | Salwa + principals |
 | Week 1–2 | **Staff-room posters** (A3, QR code to form) in every staff room and the PLI office | Print |
 | Week 2 | **Graduate ambassadors:** 1–2 past students per campus/division; "Ask me about the MAED" sticker; 2–3 coffee chats per term | Salwa |
 | Every SLS session | **2-minute PLI slot + QR** at each Saturday Learning Series session; attendees are warm leads | Salwa |
-| Week 5 | **Staff email #2:** "Final week for January" | Salwa |
+| Week 3 | **Staff email #2:** "Final week for Spring Term 1 (January cohort)" | Salwa |
 | Week 9 | **Staff email #3 / new-hire pack:** PLI one-pager in HR onboarding; "Your signing bonus can go toward a master's" | HR + Salwa |
-| Week 15 | **Staff email #4:** "Final call for March" | Salwa |
+| Week 12 | **Staff email #4:** "Final call for Spring Term 2 (March cohort)" | Salwa |
 | Always | **Referral reminder** to current students: refer 2 who enroll and complete their courses → final payment waived; refer 4 who register and continue → last 2 payments waived | Salwa |
 
 **ACA alumni abroad (segment D):** ask HR for permission to email former staff (with consent) about the online option. Upload that list as a matched audience on LinkedIn and Meta only if consent allows.
@@ -123,18 +123,18 @@ Social media amplifies; internal channels convert ACA staff. Run these alongside
 **LinkedIn campaigns**
 | Campaign | Dates | Audience | Formats / assets | Objective |
 |---|---|---|---|---|
-| LI-1 MAED Kuwait | 15 Nov–24 Dec, 10 Jan–5 Mar | Location: Kuwait · Job function: Education · Titles: Teacher, Elementary/Middle/High School Teacher, Head of Department, Curriculum Coordinator, Instructional Coach, Learning Support, Assistant Principal · Industries: Primary and Secondary Education, Education Administration Programs | Document ads C02, C04, C07 · Video ads V01, V02 · Lead Gen Form | Leads |
+| LI-1 MAED Kuwait | 15 Nov–10 Dec, 10 Jan–10 Feb | Location: Kuwait · Job function: Education · Titles: Teacher, Elementary/Middle/High School Teacher, Head of Department, Curriculum Coordinator, Instructional Coach, Learning Support, Assistant Principal · Industries: Primary and Secondary Education, Education Administration Programs | Document ads C02, C04, C07 · Video ads V01, V02 · Lead Gen Form | Leads |
 | LI-2 ACA staff | Same | Company: American Creativity Academy (check audience ≥ 300) | V01, C01, V03 | Leads |
 | LI-3 Ed.D leaders | Always-on from 27 Dec | Kuwait + GCC · Titles: Principal, Vice Principal, Head of School, Director, Head of Section · Years of experience 10+ | V04, C03, Lead Gen Form | Leads |
-| LI-4 Online | 31 Jan–5 Mar | GCC (KSA, UAE, Qatar, Bahrain, Oman) + matched list of ACA alumni | V07, C13 | Leads |
+| LI-4 Online | 10 Jan–10 Feb | GCC (KSA, UAE, Qatar, Bahrain, Oman) + matched list of ACA alumni | V07, C13 | Leads |
 | LI-RT Retarget | Always-on | Video viewers 50%+, page visitors, lead form openers (90 days) | C07, V09, S05/S14 deadline posts | Website visits / leads |
 
 **Meta campaigns (Instagram + Facebook)**
 | Campaign | Dates | Audience | Assets | Objective |
 |---|---|---|---|---|
-| META-1 Kuwait educators | 15 Nov–24 Dec, 10 Jan–5 Mar | Kuwait, 23–60, interests: teaching, education, teacher training, master's degree, international schools; Advantage+ audience on | Reels V01, V02, V03, V05, V13 | Leads (Instant Form) |
+| META-1 Kuwait educators | 15 Nov–10 Dec, 10 Jan–10 Feb | Kuwait, 23–60, interests: teaching, education, teacher training, master's degree, international schools; Advantage+ audience on | Reels V01, V02, V03, V05, V13 | Leads (Instant Form) |
 | META-2 Retarget | Always-on | IG/FB engagers 60 days, video viewers 50%+, form openers | C07, C04, deadline posts | Leads |
-| META-3 Online GCC | 31 Jan–5 Mar | GCC + Jordan, Lebanon (check regulations), interests: teaching | V07, C13 | Leads |
+| META-3 Online GCC | 10 Jan–10 Feb | GCC + Jordan, Lebanon (check regulations), interests: teaching | V07, C13 | Leads |
 
 **Lead form questions (both platforms):** full name · email · phone/WhatsApp · Are you currently ACA staff? (Yes/No) · Programme (MAED Curriculum & Instruction / Ed.D in Educational Leadership / Not sure) · Cohort (January / March / Online from outside Kuwait) · Best time for a 15-minute call.
 
@@ -174,15 +174,15 @@ These protect PLI's credibility. Every asset must respect them.
 
 | Placeholder | What | Proposed value |
 |---|---|---|
-| `{{JAN_DEADLINE}}` | January cohort application deadline | ✅ Thu 24 Dec 2026 |
-| `{{JAN_START}}` | January cohort first class | ✅ Mon 4 Jan 2027 |
-| `{{MAR_DEADLINE}}` | March cohort application deadline | ✅ Fri 5 Mar 2027 |
-| `{{MAR_START}}` | March cohort first class | ✅ Mon 15 Mar 2027 |
+| `{{JAN_DEADLINE}}` | Spring Term 1 (January cohort) application deadline | ✅ Thu 10 Dec 2026 |
+| `{{JAN_START}}` | Spring Term 1 (January cohort) first class | ✅ Mon 4 Jan 2027 |
+| `{{MAR_DEADLINE}}` | Spring Term 2 (March cohort) application deadline | ✅ Wed 10 Feb 2027 |
+| `{{MAR_START}}` | Spring Term 2 (March cohort) first class | ✅ Mon 1 Mar 2027 |
 | `{{APPLY_LINK}}` | Enquiry/application form URL | ✅ https://forms.cloud.microsoft/r/GC5UUQubjU (Microsoft Forms, created by Salwa) |
 | `{{WHATSAPP}}` | PLI WhatsApp Business number (optional) | — |
 | `{{EDD_EXTERNAL_PRICE}}` | Ed.D price for non-ACA applicants | ✅ Same as ACA staff (in the private price sheet) |
 | `{{APPLICATION_STEPS}}` | Real application steps and document checklist | ✅ Form → PLI contacts each applicant with the steps for their degree (US or non-US) |
-| `{{LIVE_1}}`, `{{LIVE_2}}`, `{{LIVE_3}}` | Live Q&A dates/hosts | Wed 9 Dec 7:30 pm · Wed 27 Jan 7:30 pm · Wed 17 Feb 9:30 pm |
+| `{{LIVE_1}}`, `{{LIVE_2}}`, `{{LIVE_3}}` | Live Q&A dates/hosts | Wed 9 Dec 7:30 pm · Wed 27 Jan 7:30 pm · Wed 3 Feb 7:30 pm |
 | `{{GRAD_1..5}}` | Graduate spotlights: name, role, track, cohort, 2–3 sentence quote, photo, consent | ✅ S03a Hadi Arbini · ✅ S03b Dr. Mehrnoosh Cheraghzadeh · a third graduate's spotlight is ready but waits for her own approval of the final design · 4th graduate still to come |
 | `{{SLS_DATES}}` | Saturday Learning Series spring dates and speakers | — |
 | — | Approval of the Kuwait recognition wording (1.11) | ✅ Approved by HR (two versions) |
@@ -608,7 +608,7 @@ Pay monthly · Next cohorts: Jan & Mar
 **Voiceover (≈65 words):**
 > This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.
 > Welcome to the January cohort.
-> Missed it? The next cohort starts on March fifteenth.
+> Missed it? The next cohort starts on March first.
 > Same programme. Same support. Same monthly plan.
 > Applications for March are open now.
 
@@ -617,16 +617,16 @@ Pay monthly · Next cohorts: Jan & Mar
 | 1 | 0–6 s | WELCOME, JANUARY COHORT. | Real first-day photo(s) of the new cohort (with consent) in arch frames |
 | 2 | 6–12 s | From our classrooms — and beyond. | 6-in-10 dots + small country labels |
 | 3 | 12–17 s | MISSED IT? | Beat; whoosh |
-| 4 | 17–23 s | NEXT COHORT: 15 MARCH | Periwinkle date block "MAR" |
+| 4 | 17–23 s | NEXT COHORT: 1 MARCH | Periwinkle date block "MAR" |
 | 5 | 23–28 s | Same programme · Same support · Same monthly plan | End card "Applications open" |
 
 **IG/FB caption:**
 > Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.
-> Missed this one? Our next cohort starts on 15 March — applications are open now.
+> Missed this one? Our next cohort (Spring Term 2) starts on 1 March — apply by 10 February.
 > #GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute
 
 **LinkedIn caption:**
-> A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → {{APPLY_LINK}}
+> A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for Spring Term 2 (the March cohort, starting 1 March; apply by 10 February) are now open → {{APPLY_LINK}}
 
 ---
 
@@ -844,7 +844,7 @@ Design rhythm: cover (bold Anton headline, indigo or cream) → content slides a
 3. **Step 2 · 15-minute call** · We'll answer your questions and help you choose your programme.
 4. **Step 3 · Get your steps** · We'll contact you with the steps for your degree (from the US or elsewhere).
 5. **Step 4 · Choose your plan** · Confirm your programme and monthly payment plan.
-6. **Start your cohort** · January / March · Deadline: {{JAN_DEADLINE}} / {{MAR_DEADLINE}}
+6. **Start your cohort** · Spring Term 1: starts {{JAN_START}}, apply by {{JAN_DEADLINE}} · Spring Term 2: starts {{MAR_START}}, apply by {{MAR_DEADLINE}}
 
 **IG/FB caption:** Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach
 **LinkedIn caption:** Four steps from "I'm interested" to "I'm enrolled". → {{APPLY_LINK}}
@@ -921,7 +921,7 @@ Use the Tuesday after any Saturday Learning Series session (replace that week's 
 2. **1. Name one skill** you want to master this year.
 3. **2. Find your people** — learning sticks better in a cohort.
 4. **3. Make it monthly** — big goals feel lighter in small steps.
-5. **4. Put a date on it** — cohorts start on 4 January and 15 March.
+5. **4. Put a date on it** — cohorts start on 4 January and 1 March.
 6. **New year. Next degree.** {{APPLY_LINK}}
 
 **Caption:** New year, next step ✨ What's the one skill you want to master in 2027? #NewYearGoals #TeacherPD #GrowWhereYouTeach
@@ -934,7 +934,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 | ID | Pillar | H / Sub / Tag | Visual | Caption |
 |---|---|---|---|---|
-| **S01** | P5 | **H:** JANUARY COHORT · APPLICATIONS OPEN · **Sub:** Saint Mary's University of Minnesota MAED · Curriculum & Instruction · **Tag:** 30 credits · 10 courses · 18 months | Indigo bg, big headline stack, periwinkle date block "JAN 2027", real graduate photo in arch frame, logo lock-up | Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait |
+| **S01** | P5 | **H:** JANUARY COHORT · APPLICATIONS OPEN · **Sub:** Spring Term 1 · Starts {{JAN_START}} · Apply by {{JAN_DEADLINE}} · **Tag:** MAED · Curriculum & Instruction · 18 months | Indigo bg, big headline stack, periwinkle date block "JAN 2027", real graduate photo in arch frame, logo lock-up | Applications are open for Spring Term 1 — our January 2027 MAED cohort 🎓 Classes start Monday 4 January; apply by Thursday 10 December. Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait |
 | **S02** | P1 | **H:** 6 IN 10 · **Sub:** of our past MAED students were ACA educators. · **Tag:** Grow where you teach. | Cream bg, giant "6 IN 10", dot motif (10 dots, 6 filled indigo) | More than 6 in 10 of our past MAED students taught at ACA while they studied. If they could, you can. 💙 #GrowWhereYouTeach #ACAKuwait |
 | **S03a** | P1 | **H:** “It’s a chance to become someone you never thought you could be.” · **Sub:** Hadi Arbini · Interventionist for Grades 4 and 5, American Creativity Academy (Elementary Boys’ Campus) · MAED Curriculum & Instruction · **Tag:** FROM OUR STAFF ROOM | Real graduation photo (written consent), rounded frame, Playfair quote, periwinkle name bar | Meet Hadi Arbini, Interventionist for Grades 4 and 5 at ACA and a Saint Mary's University of Minnesota MAED graduate (Curriculum & Instruction): “My Curriculum and Instruction degree at Saint Mary’s University of Minnesota wasn’t as hard as people think. If you stay consistent and don’t postpone your work, you can do it. It’s a chance to become someone you never thought you could be.” Thank you for sharing your story 💙 #GrowWhereYouTeach #MAEd #TeacherStories #ProfessionalLearningInstitute |
 | **S03b** | P1 | **H:** “Saint Mary’s University has played an important role in my growth as an educator and school leader.” · **Sub:** Dr. Mehrnoosh Cheraghzadeh · Kindergarten Principal, American Creativity Academy – Salmiya · Saint Mary's University of Minnesota graduate · **Tag:** FROM OUR STAFF ROOM | Real photo (written consent), rounded frame, Playfair quote, periwinkle name bar | Meet Dr. Mehrnoosh Cheraghzadeh, Kindergarten Principal at American Creativity Academy – Salmiya and a Saint Mary's University of Minnesota graduate: “Saint Mary’s University has played an important role in my growth as an educator and school leader. The program strengthened my ability to connect research with practice, reflect more deeply on my leadership, and create meaningful change within my school community. I would highly recommend it to educators who are ready to grow personally and professionally.” Thank you for sharing your story 💙 #GrowWhereYouTeach #SchoolLeaders #EducatorStories #ProfessionalLearningInstitute |
@@ -946,7 +946,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 | **S08** | P5 | **H:** INTERNATIONAL DAY OF EDUCATION · **Sub:** 24 January · To every educator who keeps learning so their students can, too. · **Tag:** Thank you. | Cream, editorial serif, simple book/line motif | Happy International Day of Education 📚 Here's to every educator who keeps learning — so their students can too. #InternationalDayOfEducation #TeachersOfKuwait |
 | **S09** | P5 | **H:** WELCOME, JANUARY COHORT · **Sub:** 18 months. One goal. Let's grow. | Real first-day group photo (consent), arch frame | Welcome to our January 2027 cohort! 🎉 We can't wait to see you grow. #NewCohort #MAEd #GrowWhereYouTeach |
 | **S09b** | P5 | **H:** WELCOME, MARCH COHORT | Same template, March photo | Welcome to our March 2027 cohort! 🎉 |
-| **S10** | P5 | **H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Starts 15 March · In person in Kuwait · Online option outside Kuwait · **Tag:** Deadline {{MAR_DEADLINE}} | Same as S01 with "MAR" block | Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio. |
+| **S10** | P5 | **H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Spring Term 2 · Starts {{MAR_START}} · Apply by {{MAR_DEADLINE}} · **Tag:** MAED · In Kuwait or online · 18 months | Same as S01 with "MAR" block | Missed January? Spring Term 2 starts Monday 1 March 🗓️ Apply by Wednesday 10 February. Link in bio. |
 | **S11** | P5 | **H:** HAPPY NATIONAL DAY, KUWAIT · **Sub:** Proud to learn and grow here. · **Tag:** 25–26 February | Elegant cream/indigo with a subtle Kuwait flag colour accent strip; no political imagery | Happy National and Liberation Day, Kuwait 🇰🇼 Proud to learn, teach and grow here. |
 | **S12** | P5 | **H:** RAMADAN KAREEM · **Sub:** Wishing you a month of reflection, peace and growth. | Deep indigo, line-art crescent and lantern, gold-free (stay on brand) | Ramadan Kareem from the Professional Learning Institute 🌙 Our team is available for evening calls this month. |
 | **S13** | P5 | **H:** EID MUBARAK · **Sub:** From all of us at the Professional Learning Institute. | Cream, festive but on-brand | Eid Mubarak! Wishing you and your families joy and peace ✨ |
@@ -976,17 +976,17 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 >
 > #ProfessionalLearning #MAEd #TeachersOfKuwait
 
-**L02 — "What I learned from our cohorts" (Week 6)**
+**L02 — "What I learned from our cohorts" (Week 5)**
 > Three things I've learned from coordinating our MAED cohorts:
 >
 > 1. Nobody feels "ready". The educators who finish are the ones who start anyway.
 > 2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.
 > 3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.
 >
-> If one of these sounds like you, our next cohort starts on 15 March.
+> If one of these sounds like you, our next cohort starts on 1 March (apply by 10 February).
 > → {{APPLY_LINK}}
 
-**L03 — "Why we price it monthly" (Week 12)**
+**L03 — "Why we price it monthly" (Week 14)**
 > The first question every teacher asks me is "How much?"
 >
 > So we made the answer simple. You pay the MAED monthly, over 18 months. ACA staff get a staff rate and can apply their PL stipend and signing bonus. Email me and I'll send you the exact fees and a plan that fits.
@@ -996,7 +996,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 > If cost has been the thing holding you back, let's sit down and map out your plan.
 > → pli@aca.edu.kw
 
-**L04 — "For school leaders: grow your team" (Week 16)**
+**L04 — "For school leaders: grow your team" (Week 10)**
 > A note to principals and heads of department:
 >
 > Some of the strongest teachers in your building have probably told you they want to "do a master's one day".
@@ -1015,7 +1015,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 >
 > @Professional Learning Institute #MAEd #GrowWhereYouTeach
 
-**L06 — "Ask me anything about the Ed.D" (Week 19)**
+**L06 — "Ask me anything about the Ed.D" (Week 17)**
 > I'm often asked whether a doctorate is realistic for a working school leader.
 >
 > Our Ed.D in Educational Leadership with Saint Mary's University of Minnesota is 39 credits over three years, fully online with a local Kuwait cohort, and has no dissertation. It's designed for professionals with 10 or more years of leadership experience.
@@ -1028,7 +1028,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 | ID | Use | Frames (1080×1920) |
 |---|---|---|
-| **ST-LAUNCH** | Launch (Thu 12 – Sat 14 Nov), Week 9 | 1) "Big news 👀" teaser · 2) "Applications open: {{COHORT}} cohort" · 3) Poll sticker: "Have you ever thought about a master's? Yes / Every year 😅" · 4) Link sticker "Ask us" |
+| **ST-LAUNCH** | Week 1, Week 9 | 1) "Big news 👀" teaser · 2) "Applications open: {{COHORT}} cohort" · 3) Poll sticker: "Have you ever thought about a master's? Yes / Every year 😅" · 4) Link sticker "Ask us" |
 | **ST-QBOX** | Weeks 2, 10, 14 | 1) Question sticker: "Ask us anything about the MAED" · 2–4) Answers on branded frames (reply to real questions) |
 | **ST-QUIZ** | Weeks 3, 11 | Quiz sticker: "How long is the MAED? 12 / 18 / 24 months" → reveal 18 · "How many of our past students were ACA educators? 3 in 10 / 6 in 10 / 9 in 10" → reveal 6 in 10 |
 | **ST-SLIDER** | Weeks 4, 12 | Emoji slider "How ready do you feel for a master's?" → follow-up frame "Most graduates didn't feel ready either." |
@@ -1072,9 +1072,9 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 > Warm regards,
 > Salwa Sleiman · Professional Learning Institute Coordinator
 
-**Staff email #2 (Week 5) — Subject: Final week for the January MAED cohort** · short reminder + deadline + referral reward.
+**Staff email #2 (Week 3) — Subject: Final week for the January MAED cohort** · short reminder + deadline + referral reward.
 **Staff email #3 (Week 9) — Subject: New to ACA? Your signing bonus can fund your master's** · V14 message in text.
-**Staff email #4 (Week 15) — Subject: Final call: March MAED cohort** · deadline + "talk to a graduate ambassador".
+**Staff email #4 (Week 12) — Subject: Final call: March MAED cohort** · deadline + "talk to a graduate ambassador".
 
 **Staff-room poster (A3, 2 versions):** "6 IN 10 of our past MAED students were ACA educators. Your turn." + QR to `{{APPLY_LINK}}?utm_source=poster` · Version 2 for March.
 
@@ -1083,7 +1083,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 ---
 
-# PART 4 — CONTENT CALENDAR (launch Thu 12 Nov 2026 → 3 Apr 2027)
+# PART 4 — CONTENT CALENDAR (15 Nov 2026 → 3 Apr 2027)
 
 ## 4.1 Posting rhythm
 | Platform | Days | Time (Kuwait, UTC+3) | Ramadan (≈8 Feb – 8 Mar 2027) |
@@ -1096,7 +1096,7 @@ All 1080×1350. **H** = headline (Anton), **Sub** = supporting line, **Tag** = s
 
 Weeks run **Sunday → Saturday** (Kuwait work week). In the table, "Sun" = week start date, "Mon" = +1 day, "Tue" = +2, "Wed" = +3, "Thu" = +4.
 
-## 4.2 Week 0 — Setup + launch (Sun 8 – Sat 14 Nov 2026; first posts Thu 12 Nov)
+## 4.2 Week 0 — Setup (Sun 8 – Sat 14 Nov 2026)
 - [x] Confirm the placeholders in 1.12 with Salwa (deadlines, start dates, application steps, Ed.D external price, referral terms, recognition wording) — confirmed 11 Nov 2026; form link still to come.
 - [ ] Create the enquiry form → `{{APPLY_LINK}}`; set up the lead tracker sheet.
 - [ ] Ask ACA web team to point PLI "Apply Now" buttons to `{{APPLY_LINK}}`.
@@ -1112,30 +1112,29 @@ Weeks run **Sunday → Saturday** (Kuwait work week). In the table, "Sun" = week
 
 | Wk | Dates | Phase | LinkedIn (Sun · Tue · Wed) | Instagram + Facebook (Sun · Tue · Thu) | Stories | Off-platform / ads |
 |---|---|---|---|---|---|---|
-| 0 | 12–14 Nov | 0 Launch (Thu 12 Nov) | S01 (Thu 12 Nov) | S01 (Thu 12 Nov) · S17 (Sat 14 Nov) | ST-LAUNCH (Thu–Sat) | Staff email #1 (Thu 12 Nov) · bio, highlights and covers live · posters |
-| 1 | 15–21 Nov | 1 Launch Jan | C01 · L01 (Salwa) · S16 | V01 · C01 · S16 | ST-LAUNCH (poll + link frames) | Principals' briefing · start LI-1, LI-2, META-1 |
+| 1 | 15–21 Nov | 1 Launch Spring Term 1 | S01 · C01 · L01 (Salwa) | V01 · C01 · S01 | ST-LAUNCH | Staff email #1 · principals' briefing · posters · start LI-1, LI-2, META-1 |
 | 2 | 22–28 Nov | 1 | V01 · C02 · S02 | V02 · C02 · S02 | ST-QBOX | Recruit ambassadors · ST-RESHARE |
-| 3 | 29 Nov–5 Dec | 1 | V02 · C04 · S04a (Live #1 announce) | V03 · C04 · S04a | ST-QUIZ | Start LI-RT, META-2 retargeting |
-| 4 | 6–12 Dec | 1 | V03 · C06 · S03a | V08 · C06 · S03a | ST-LIVE (Sun–Tue) | **Live #1: Wed 9 Dec, 19:30** |
-| 5 | 13–19 Dec | 2 Close Jan | V10 · C07 · S05 | V10 · C07 · S05 | ST-COUNT | Staff email #2 · budget +30% |
-| 6 | 20–26 Dec | 2 | S06 (deadline day, Thu 24 Dec) · C14 · L02 (Salwa) | S06 (deadline day, Thu 24 Dec) · C14 · S17 | ST-COUNT (last day) → ST-QBOX "Missed it? March is next" | Pause Jan ads after deadline; keep retargeting |
+| 3 | 29 Nov–5 Dec | 2 Close Spring Term 1 | S04a (Live #1 announce) · V02 · V10 (Thu 3 Dec) | S04a · C07 · V10 | ST-QUIZ · ST-COUNT | Staff email #2 · budget +30% · start LI-RT, META-2 retargeting |
+| 4 | 6–12 Dec | 2 | S05 · S06 (deadline day, Thu 10 Dec) · V08 | S05 · V03 · S06 (deadline day, Thu 10 Dec) | ST-LIVE (Sun–Tue) · ST-COUNT (last day) | **Live #1: Wed 9 Dec, 19:30** · pause Jan ads after the deadline |
+| 5 | 13–19 Dec | 3 Between terms | L02 (Salwa) · C07 · S03a | V08 · C06 · S03a | ST-QBOX "Missed it? Spring Term 2 is next" | Keep retargeting |
+| 6 | 20–26 Dec | 3 | V03b · C06 · C14 | C04 · C14 · S17 | ST-SLIDER | — |
 | 7 | 27 Dec–2 Jan | 3 New year + Ed.D | C15 · V04 · S19 (Wed 30 Dec) | V04 · C15 · S19 (Thu 31 Dec) | ST-SLIDER | Start LI-3 (Ed.D, always-on) |
 | 8 | 3–9 Jan | 3 Jan cohort starts | S09 (after first class) · C03 · S07 | S09 · C03 · V11 | ST-BTS (first class, consent) | — |
-| 9 | 10–16 Jan | 4 Launch March | S10 · V11 · V14 | S10 · V14 · C05 | ST-LAUNCH (March) | Staff email #3 + HR new-hire pack · restart LI-1, LI-2, META-1 for March |
-| 10 | 17–23 Jan | 4 | C05 · V06 · S04b (Live #2 announce) | V06 · C11 · S04b | ST-QBOX | — |
-| 11 | 24–30 Jan | 4 | S08 (Sun 24 Jan) · C08 · S03b | S08 · C08 · S03b | ST-LIVE · ST-QUIZ | **Live #2: Wed 27 Jan, 19:30** |
-| 12 | 31 Jan–6 Feb | 4 | V07 · C13 · L03 (Salwa) | V07 · C13 · V05 | ST-SLIDER | Start LI-4, META-3 (online, GCC) · ACA alumni email (if approved) |
-| 13 | 7–13 Feb | 5 Ramadan begins (≈Mon 8 Feb) | S12 (Mon 8 Feb) · C09b · V09 | S12 (Sun 7 Feb night, after official announcement) · C09b · V12 | ST-RAMADAN | Switch to Ramadan posting times |
-| 14 | 14–20 Feb | 5 | S04c (Live #3 announce) · C04b · L04 (Salwa) | S04c · C04b · V01b | ST-LIVE · ST-QBOX | **Live #3: Wed 17 Feb, 21:30** · principals reminder (L04 angle) |
-| 15 | 21–27 Feb | 6 Close March · National Day | V12 · C07b · S11 (Wed 24 Feb) | V03b · C07b · S11 (Thu 25 Feb) | ST-COUNT | Staff email #4 · budget +30% |
-| 16 | 28 Feb–6 Mar | 6 | S14 · V13 · S15 (deadline day, Fri 5 Mar) | S14 · V13 · S15 (deadline day, Fri 5 Mar) | ST-COUNT (last day, Fri 5 Mar) | Pause March ads after the deadline; Ed.D stays on |
+| 9 | 10–16 Jan | 4 Launch Spring Term 2 | S10 · V01b · V14 | S10 · V14 · V01b | ST-LAUNCH (March) | Staff email #3 + HR new-hire pack · restart LI-1, LI-2, META-1 · start LI-4, META-3 (online, GCC) · ACA alumni email (if approved) |
+| 10 | 17–23 Jan | 4 | C04b · L04 (Salwa) · S04b (Live #2 announce) | V06 · C05 · S04b | ST-QBOX | — |
+| 11 | 24–30 Jan | 4 | S08 (Sun 24 Jan) · C09b · S03b | S08 · C07b · S03b | ST-LIVE · ST-QUIZ | **Live #2: Wed 27 Jan, 19:30** |
+| 12 | 31 Jan–6 Feb | 5 Close Spring Term 2 | S04c (Live #3 announce) · V13 (Tue 2 Feb) · S14 (Thu 4 Feb) | S04c · V13 · S14 (Thu 4 Feb) | ST-LIVE · ST-COUNT | **Live #3: Wed 3 Feb, 19:30** · Staff email #4 · budget +30% |
+| 13 | 7–13 Feb | 5 Ramadan begins (≈Mon 8 Feb) · deadline | S12 (Mon 8 Feb) · S15 (deadline day, Wed 10 Feb) · V12 (Thu 11 Feb) | S12 (Sun 7 Feb night, after official announcement) · S15 (deadline day, Wed 10 Feb) · V12 (Thu 11 Feb) | ST-RAMADAN · ST-COUNT (last day, Wed 10 Feb) | Switch to Ramadan posting times · pause March ads after the deadline; Ed.D stays on |
+| 14 | 14–20 Feb | 6 Ramadan | V07 · C13 · L03 (Salwa) | V07 · C13 · V05 | ST-RAMADAN | — |
+| 15 | 21–27 Feb | 6 National Day | V09 · C11 · S11 (Wed 24 Feb) | V09 · C08 · S11 (Thu 25 Feb) | ST-SLIDER | — |
+| 16 | 28 Feb–6 Mar | 6 March cohort starts (Mon 1 Mar) | S09b (after first class, Tue 2 Mar) · V05 · V06 | S09b (after first class, Tue 2 Mar) · C10 · S03d | ST-BTS (first class, consent) | — |
 | 17 | 7–13 Mar | 7 Eid (≈Tue 9 / Wed 10 Mar) | S13 (Eid day) · L06 (Salwa) | S13 (Eid day) · S16 | Eid greeting frames | Light week (holiday) |
-| 18 | 14–20 Mar | 7 March cohort starts (Mon 15 Mar) | S09b (after first class) · C10 · S03d | S09b · C10 · S03d | ST-BTS (first class, consent) | — |
-| 19 | 21–27 Mar | 7 | V05 · C11 · V08 | V09 · S18 · S07 | ST-QUIZ | Ed.D always-on |
+| 18 | 14–20 Mar | 7 | C10 · S03d · V08 | V08 · C11 · S18 | ST-QUIZ | — |
+| 19 | 21–27 Mar | 7 | V04 · C14 · S07 | V04 · S07 · C14 | ST-SLIDER | Ed.D always-on |
 | 20 | 28 Mar–3 Apr | 7 Always-on | L05 (graduates post) · S03c · C03 | S03c · C12 or C03 · S03e | ST-SLIDER | Send L05 template to graduates · campaign report |
 
 **Floating asset:** C12 (Saturday Learning Series recap) is posted the Tuesday after any SLS session; it replaces that week's Tuesday carousel on both platforms, or is added as an extra post.
-**If deadlines change:** move the "close" weeks (5–6 and 15–16) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day.
+**If deadlines change:** move the "close" weeks (3–4 and 12–13) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day.
 
 ## 4.4 Content count
 | Type | Unique assets to build |
@@ -1239,7 +1238,7 @@ output/
 - [ ] University name always written "Saint Mary's University of Minnesota" (first mention in every asset).
 - [ ] No text overflow (Playwright: every text box `scrollHeight <= clientHeight`, `scrollWidth <= clientWidth`).
 - [ ] Every video: duration within ±3 s of target, captions in sync (±100 ms), loudness and peak per 5.3, both sizes rendered.
-- [ ] Every calendar row has an existing file path and a caption; dates match 4.3 (launch days Thu 12 – Sat 14 Nov; week start Sundays: 15 Nov 2026 … 28 Mar 2027).
+- [ ] Every calendar row has an existing file path and a caption; dates match 4.3 (week start Sundays: 15 Nov 2026 … 28 Mar 2027).
 - [ ] Every image has alt text.
 - [ ] Placeholder report generated.
 - [ ] Visual review: open `preview/index.html` with Playwright, screenshot each week section, and look at the screenshots for alignment, overlaps and brand consistency.
@@ -1263,7 +1262,7 @@ You are building a complete social media content package for the Professional Le
 Read PLI_Marketing_Plan.md in this folder from start to finish before doing anything. It is the full specification:
 - Part 1 = strategy, brand identity (1.14) and claims guardrails (1.11) that are hard rules.
 - Part 3 = the final English copy for every asset (videos with voiceover scripts and scene tables, carousels, single posts, LinkedIn posts, stories, ads, emails). Use the copy exactly as written.
-- Part 4 = the calendar: launch days Thu 12 – Sat 14 Nov 2026, then 20 weeks (15 Nov 2026 to 3 Apr 2027, weeks start on Sunday, Asia/Kuwait time).
+- Part 4 = the 20-week calendar (15 Nov 2026 to 3 Apr 2027, weeks start on Sunday, Asia/Kuwait time).
 - Part 5 = the technical build specification: deliverables (5.1), inputs (5.2), stack (5.3), design system (5.4), rules (5.5), QA (5.6) and build order (5.7).
 
 Your job: build every deliverable in Part 5.1, following Parts 5.2 to 5.7 exactly.

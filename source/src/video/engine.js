@@ -247,7 +247,7 @@
     const ls = (p.lines || []).map((ln, i) => el('div', i === 0 ? (p.serif ? 'serifh' : 'anton') : 'stxt', ln, i === 0 ? `font-size:${px(p.size || 140)};color:var(--cream)` : `color:#fff;margin-top:${px(i === 1 ? 40 : 12)}`));
     ls.forEach((x) => inner.appendChild(x));
     const cta = p.cta ? el('div', 'endcta', p.cta, `font-size:${px(46)};margin-top:${px(50)}`) : null; if (cta) inner.appendChild(cta);
-    const lk = el('div', 'lockup', `<img src="${S.logos.shield}" style="height:${px(130)}"><div class="sep" style="height:${px(90)}"></div><img src="${S.logos.smuDark}" style="height:${px(120)}"><div class="sep" style="height:${px(90)}"></div><img src="${S.logos.aca}" style="height:${px(140)}">`, `margin-top:${px(70)};align-self:flex-start;transform-origin:0 50%`);
+    const lk = el('div', 'lockup', `<img src="${S.logos.shield}" style="height:${px(130)}"><div class="sep" style="height:${px(90)}"></div><img src="${S.logos.smuDark}" style="height:${px(120)}">`, `margin-top:${px(70)};align-self:flex-start;transform-origin:0 50%`);
     inner.appendChild(lk);
     return { root, update(lt) { ls.forEach((x, i) => set(x, pr(lt, 0.1 + i * 0.25), (1 - pr(lt, 0.1 + i * 0.25)) * 40)); if (cta) set(cta, pr(lt, 0.7), 0, 0, 0.8 + 0.2 * back((lt - 0.7) / 0.4)); set(lk, pr(lt, 0.9), (1 - pr(lt, 0.9)) * 30); } };
   };

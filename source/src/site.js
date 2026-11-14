@@ -187,8 +187,8 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
   <div class="panel">
     <div class="row2">
       <div><label for="f-link">Application / enquiry form link</label><input id="f-link" placeholder="https://forms.office.com/…" inputmode="url"></div>
-      <div><label for="f-jan">January deadline (as written)</label><input id="f-jan" placeholder="Thursday 24 December"></div>
-      <div><label for="f-mar">March deadline (as written)</label><input id="f-mar" placeholder="Friday 5 March"></div>
+      <div><label for="f-jan">January deadline (as written)</label><input id="f-jan" placeholder="Thursday 10 December"></div>
+      <div><label for="f-mar">March deadline (as written)</label><input id="f-mar" placeholder="Wednesday 10 February"></div>
     </div>
     <div class="row2">
       <div><label>Instagram bio</label><pre class="cap" style="margin:4px 0" id="bio"></pre><button class="btn sm" data-copy-el="bio">Copy bio</button></div>
@@ -196,7 +196,7 @@ footer img{height:70px;background:var(--cream);border-radius:12px;padding:6px 12
     <div class="warn" id="ph-warn"></div>
   </div>
 </section>
-<section id="calendar"><h2>20-week calendar</h2><p class="sub">Launch Thu 12 Nov 2026 (week 0), then weeks 1–20 to Sat 3 Apr 2027 · Kuwait time · weeks run Sunday to Saturday. Every row has the file, the caption and a tracked link.</p>
+<section id="calendar"><h2>20-week calendar</h2><p class="sub">Sun 15 Nov 2026 → Sat 3 Apr 2027 · Kuwait time · weeks run Sunday to Saturday. Every row has the file, the caption and a tracked link.</p>
   <div class="filters" id="calf"></div><div id="cal"></div></section>
 <section id="videos"><h2>Motion videos</h2><p class="sub">Each video exists with a male (Eric) and a female (Sarah) voiceover: Reel 9:16 for Instagram/Facebook, feed 4:5 for LinkedIn/Facebook, captions burned in, plus .srt, voiceover .mp3 and a Reel cover.</p><div class="grid g-vid" id="vids"></div></section>
 <section id="carousels"><h2>Carousels</h2><p class="sub">Swipe to see the slides. PNG slides for Instagram/Facebook, one PDF per carousel for LinkedIn document posts.</p><div class="grid" id="cars"></div></section>
@@ -214,7 +214,7 @@ const D=${JSON.stringify(DATA)};
 const $=s=>document.querySelector(s), h=(t,a={},...c)=>{const e=document.createElement(t);for(const[k,v]of Object.entries(a)){if(k==='html')e.innerHTML=v;else if(k.startsWith('on'))e.addEventListener(k.slice(2),v);else e.setAttribute(k,v)}c.flat().forEach(x=>x!=null&&e.append(x));return e};
 const store={get(k){try{return localStorage.getItem('pli.'+k)||''}catch(e){return''}},set(k,v){try{localStorage.setItem('pli.'+k,v)}catch(e){}}};
 let VOICE=store.get('voice')||'eric';
-function fill(t){if(!t)return'';const link=store.get('link'),jan=store.get('jan'),mar=store.get('mar');let s=t;if(link)s=s.split('{{APPLY_LINK}}').join(link);if(jan)s=s.split('Thursday 24 December').join(jan);if(mar)s=s.split('Friday 5 March').join(mar);return s}
+function fill(t){if(!t)return'';const link=store.get('link'),jan=store.get('jan'),mar=store.get('mar');let s=t;if(link)s=s.split('{{APPLY_LINK}}').join(link);if(jan)s=s.split('Thursday 10 December').join(jan);if(mar)s=s.split('Wednesday 10 February').join(mar);return s}
 function toast(m){const t=$('#toast');t.textContent=m||'Copied';t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1300)}
 async function copy(t){t=fill(t);try{await navigator.clipboard.writeText(t)}catch(e){const a=h('textarea');a.value=t;document.body.append(a);a.select();document.execCommand('copy');a.remove()}toast(t.includes('{{')?'Copied — still has a {{placeholder}}':'Copied')}
 const capBlock=(label,text)=>text?h('details',{},h('summary',{},label),h('pre',{class:'cap',html:esc(text).replace(/\\{\\{([A-Z_0-9]+)\\}\\}/g,'<span class="ph">{{$1}}</span>')}),h('button',{class:'btn sm',onclick:()=>copy(text)},'Copy')):null;

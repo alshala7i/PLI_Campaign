@@ -482,7 +482,7 @@
    "id": "V11",
    "title": "Welcome, January cohort. March is next.",
    "meta": "P5 · 25–30 s",
-   "vo": "This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.\nWelcome to the January cohort.\nMissed it? The next cohort starts on March fifteenth.\nSame programme. Same support. Same monthly plan.\nApplications for March are open now.",
+   "vo": "This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.\nWelcome to the January cohort.\nMissed it? The next cohort starts on March first.\nSame programme. Same support. Same monthly plan.\nApplications for March are open now.",
    "scenes": [
     {
      "n": 1,
@@ -505,7 +505,7 @@
     {
      "n": 4,
      "time": "17–23 s",
-     "text": "NEXT COHORT: 15 MARCH",
+     "text": "NEXT COHORT: 1 MARCH",
      "visual": "Periwinkle date block \"MAR\""
     },
     {
@@ -515,8 +515,8 @@
      "visual": "End card \"Applications open\""
     }
    ],
-   "caption_ig": "Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.\nMissed this one? Our next cohort starts on 15 March — applications are open now.\n#GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute",
-   "caption_li": "A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → {{APPLY_LINK}}",
+   "caption_ig": "Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.\nMissed this one? Our next cohort (Spring Term 2) starts on 1 March — apply by 10 February.\n#GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute",
+   "caption_li": "A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for Spring Term 2 (the March cohort, starting 1 March; apply by 10 February) are now open → {{APPLY_LINK}}",
    "pillar": "P5"
   },
   {
@@ -799,7 +799,7 @@
     "**Step 2 · 15-minute call** · We'll answer your questions and help you choose your programme.",
     "**Step 3 · Get your steps** · We'll contact you with the steps for your degree (from the US or elsewhere).",
     "**Step 4 · Choose your plan** · Confirm your programme and monthly payment plan.",
-    "**Start your cohort** · January / March · Deadline: {{JAN_DEADLINE}} / {{MAR_DEADLINE}}"
+    "**Start your cohort** · Spring Term 1: starts {{JAN_START}}, apply by {{JAN_DEADLINE}} · Spring Term 2: starts {{MAR_START}}, apply by {{MAR_DEADLINE}}"
    ],
    "caption_ig": "Applying is easier than you think — 4 steps 👉 #MAEd #GrowWhereYouTeach",
    "caption_li": "Four steps from \"I'm interested\" to \"I'm enrolled\". → {{APPLY_LINK}}",
@@ -896,7 +896,7 @@
     "**1. Name one skill** you want to master this year.",
     "**2. Find your people** — learning sticks better in a cohort.",
     "**3. Make it monthly** — big goals feel lighter in small steps.",
-    "**4. Put a date on it** — cohorts start on 4 January and 15 March.",
+    "**4. Put a date on it** — cohorts start on 4 January and 1 March.",
     "**New year. Next degree.** {{APPLY_LINK}}"
    ],
    "caption_ig": "New year, next step ✨ What's the one skill you want to master in 2027? #NewYearGoals #TeacherPD #GrowWhereYouTeach",
@@ -907,12 +907,12 @@
   {
    "id": "S01",
    "pillar": "P5",
-   "raw": "**H:** JANUARY COHORT · APPLICATIONS OPEN · **Sub:** Saint Mary's University of Minnesota MAED · Curriculum & Instruction · **Tag:** 30 credits · 10 courses · 18 months",
+   "raw": "**H:** JANUARY COHORT · APPLICATIONS OPEN · **Sub:** Spring Term 1 · Starts {{JAN_START}} · Apply by {{JAN_DEADLINE}} · **Tag:** MAED · Curriculum & Instruction · 18 months",
    "visual": "Indigo bg, big headline stack, periwinkle date block \"JAN 2027\", real graduate photo in arch frame, logo lock-up",
-   "caption_ig": "Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait",
+   "caption_ig": "Applications are open for Spring Term 1 — our January 2027 MAED cohort 🎓 Classes start Monday 4 January; apply by Thursday 10 December. Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait",
    "h": "JANUARY COHORT · APPLICATIONS OPEN",
-   "sub": "Saint Mary's University of Minnesota MAED · Curriculum & Instruction",
-   "tag": "30 credits · 10 courses · 18 months"
+   "sub": "Spring Term 1 · Starts {{JAN_START}} · Apply by {{JAN_DEADLINE}}",
+   "tag": "MAED · Curriculum & Instruction · 18 months"
   },
   {
    "id": "S02",
@@ -1024,12 +1024,12 @@
   {
    "id": "S10",
    "pillar": "P5",
-   "raw": "**H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Starts 15 March · In person in Kuwait · Online option outside Kuwait · **Tag:** Deadline {{MAR_DEADLINE}}",
+   "raw": "**H:** MARCH COHORT · APPLICATIONS OPEN · **Sub:** Spring Term 2 · Starts {{MAR_START}} · Apply by {{MAR_DEADLINE}} · **Tag:** MAED · In Kuwait or online · 18 months",
    "visual": "Same as S01 with \"MAR\" block",
-   "caption_ig": "Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.",
+   "caption_ig": "Missed January? Spring Term 2 starts Monday 1 March 🗓️ Apply by Wednesday 10 February. Link in bio.",
    "h": "MARCH COHORT · APPLICATIONS OPEN",
-   "sub": "Starts 15 March · In person in Kuwait · Online option outside Kuwait",
-   "tag": "Deadline {{MAR_DEADLINE}}"
+   "sub": "Spring Term 2 · Starts {{MAR_START}} · Apply by {{MAR_DEADLINE}}",
+   "tag": "MAED · In Kuwait or online · 18 months"
   },
   {
    "id": "S11",
@@ -1125,19 +1125,19 @@
   {
    "id": "L02",
    "title": "What I learned from our cohorts",
-   "when": "Week 6",
-   "text": "Three things I've learned from coordinating our MAED cohorts:\n\n1. Nobody feels \"ready\". The educators who finish are the ones who start anyway.\n2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.\n3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.\n\nIf one of these sounds like you, our next cohort starts on 15 March.\n→ {{APPLY_LINK}}"
+   "when": "Week 5",
+   "text": "Three things I've learned from coordinating our MAED cohorts:\n\n1. Nobody feels \"ready\". The educators who finish are the ones who start anyway.\n2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.\n3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.\n\nIf one of these sounds like you, our next cohort starts on 1 March (apply by 10 February).\n→ {{APPLY_LINK}}"
   },
   {
    "id": "L03",
    "title": "Why we price it monthly",
-   "when": "Week 12",
+   "when": "Week 14",
    "text": "The first question every teacher asks me is \"How much?\"\n\nSo we made the answer simple. You pay the MAED monthly, over 18 months. ACA staff get a staff rate and can apply their PL stipend and signing bonus. Email me and I'll send you the exact fees and a plan that fits.\n\nNo lump sum. No surprises. One month at a time.\n\nIf cost has been the thing holding you back, let's sit down and map out your plan.\n→ pli@aca.edu.kw"
   },
   {
    "id": "L04",
    "title": "For school leaders: grow your team",
-   "when": "Week 16",
+   "when": "Week 10",
    "text": "A note to principals and heads of department:\n\nSome of the strongest teachers in your building have probably told you they want to \"do a master's one day\".\n\nYou can make \"one day\" this year. Mention the MAED in your next team meeting. Share this post with the colleague you think is ready. More than 6 in 10 of our past students were ACA educators — and many started because a leader encouraged them.\n\nFor leaders with 10+ years of experience, our Ed.D in Educational Leadership is also open.\n→ {{APPLY_LINK}}"
   },
   {
@@ -1149,14 +1149,14 @@
   {
    "id": "L06",
    "title": "Ask me anything about the Ed.D",
-   "when": "Week 19",
+   "when": "Week 17",
    "text": "I'm often asked whether a doctorate is realistic for a working school leader.\n\nOur Ed.D in Educational Leadership with Saint Mary's University of Minnesota is 39 credits over three years, fully online with a local Kuwait cohort, and has no dissertation. It's designed for professionals with 10 or more years of leadership experience.\n\nThis week I'm keeping my calendar open for 15-minute conversations with leaders who want to explore it. Comment or message me."
   }
  ],
  "stories": [
   {
    "id": "ST-LAUNCH",
-   "use": "Launch (Thu 12 – Sat 14 Nov), Week 9",
+   "use": "Week 1, Week 9",
    "frames": "1) \"Big news 👀\" teaser · 2) \"Applications open: {{COHORT}} cohort\" · 3) Poll sticker: \"Have you ever thought about a master's? Yes / Every year 😅\" · 4) Link sticker \"Ask us\""
   },
   {
@@ -1229,7 +1229,7 @@
   },
   {
    "id": "Staff email #2",
-   "week": "Week 5",
+   "week": "Week 3",
    "subject": "Final week for the January MAED cohort",
    "summary": "short reminder + deadline + referral reward."
   },
@@ -1241,29 +1241,20 @@
   },
   {
    "id": "Staff email #4",
-   "week": "Week 15",
+   "week": "Week 12",
    "subject": "Final call: March MAED cohort",
    "summary": "deadline + \"talk to a graduate ambassador\"."
   }
  ],
  "calendar": [
   {
-   "week": 0,
-   "dates": "12–14 Nov",
-   "phase": "0 Launch (Thu 12 Nov)",
-   "linkedin": "S01 (Thu 12 Nov)",
-   "instagram": "S01 (Thu 12 Nov) · S17 (Sat 14 Nov)",
-   "stories": "ST-LAUNCH (Thu–Sat)",
-   "offplatform": "Staff email #1 (Thu 12 Nov) · bio, highlights and covers live · posters"
-  },
-  {
    "week": 1,
    "dates": "15–21 Nov",
-   "phase": "1 Launch Jan",
-   "linkedin": "C01 · L01 (Salwa) · S16",
-   "instagram": "V01 · C01 · S16",
-   "stories": "ST-LAUNCH (poll + link frames)",
-   "offplatform": "Principals' briefing · start LI-1, LI-2, META-1"
+   "phase": "1 Launch Spring Term 1",
+   "linkedin": "S01 · C01 · L01 (Salwa)",
+   "instagram": "V01 · C01 · S01",
+   "stories": "ST-LAUNCH",
+   "offplatform": "Staff email #1 · principals' briefing · posters · start LI-1, LI-2, META-1"
   },
   {
    "week": 2,
@@ -1277,38 +1268,38 @@
   {
    "week": 3,
    "dates": "29 Nov–5 Dec",
-   "phase": "1",
-   "linkedin": "V02 · C04 · S04a (Live #1 announce)",
-   "instagram": "V03 · C04 · S04a",
-   "stories": "ST-QUIZ",
-   "offplatform": "Start LI-RT, META-2 retargeting"
+   "phase": "2 Close Spring Term 1",
+   "linkedin": "S04a (Live #1 announce) · V02 · V10 (Thu 3 Dec)",
+   "instagram": "S04a · C07 · V10",
+   "stories": "ST-QUIZ · ST-COUNT",
+   "offplatform": "Staff email #2 · budget +30% · start LI-RT, META-2 retargeting"
   },
   {
    "week": 4,
    "dates": "6–12 Dec",
-   "phase": "1",
-   "linkedin": "V03 · C06 · S03a",
-   "instagram": "V08 · C06 · S03a",
-   "stories": "ST-LIVE (Sun–Tue)",
-   "offplatform": "Live #1: Wed 9 Dec, 19:30"
+   "phase": "2",
+   "linkedin": "S05 · S06 (deadline day, Thu 10 Dec) · V08",
+   "instagram": "S05 · V03 · S06 (deadline day, Thu 10 Dec)",
+   "stories": "ST-LIVE (Sun–Tue) · ST-COUNT (last day)",
+   "offplatform": "Live #1: Wed 9 Dec, 19:30 · pause Jan ads after the deadline"
   },
   {
    "week": 5,
    "dates": "13–19 Dec",
-   "phase": "2 Close Jan",
-   "linkedin": "V10 · C07 · S05",
-   "instagram": "V10 · C07 · S05",
-   "stories": "ST-COUNT",
-   "offplatform": "Staff email #2 · budget +30%"
+   "phase": "3 Between terms",
+   "linkedin": "L02 (Salwa) · C07 · S03a",
+   "instagram": "V08 · C06 · S03a",
+   "stories": "ST-QBOX \"Missed it? Spring Term 2 is next\"",
+   "offplatform": "Keep retargeting"
   },
   {
    "week": 6,
    "dates": "20–26 Dec",
-   "phase": "2",
-   "linkedin": "S06 (deadline day, Thu 24 Dec) · C14 · L02 (Salwa)",
-   "instagram": "S06 (deadline day, Thu 24 Dec) · C14 · S17",
-   "stories": "ST-COUNT (last day) → ST-QBOX \"Missed it? March is next\"",
-   "offplatform": "Pause Jan ads after deadline; keep retargeting"
+   "phase": "3",
+   "linkedin": "V03b · C06 · C14",
+   "instagram": "C04 · C14 · S17",
+   "stories": "ST-SLIDER",
+   "offplatform": "—"
   },
   {
    "week": 7,
@@ -1331,18 +1322,18 @@
   {
    "week": 9,
    "dates": "10–16 Jan",
-   "phase": "4 Launch March",
-   "linkedin": "S10 · V11 · V14",
-   "instagram": "S10 · V14 · C05",
+   "phase": "4 Launch Spring Term 2",
+   "linkedin": "S10 · V01b · V14",
+   "instagram": "S10 · V14 · V01b",
    "stories": "ST-LAUNCH (March)",
-   "offplatform": "Staff email #3 + HR new-hire pack · restart LI-1, LI-2, META-1 for March"
+   "offplatform": "Staff email #3 + HR new-hire pack · restart LI-1, LI-2, META-1 · start LI-4, META-3 (online, GCC) · ACA alumni email (if approved)"
   },
   {
    "week": 10,
    "dates": "17–23 Jan",
    "phase": "4",
-   "linkedin": "C05 · V06 · S04b (Live #2 announce)",
-   "instagram": "V06 · C11 · S04b",
+   "linkedin": "C04b · L04 (Salwa) · S04b (Live #2 announce)",
+   "instagram": "V06 · C05 · S04b",
    "stories": "ST-QBOX",
    "offplatform": "—"
   },
@@ -1350,55 +1341,55 @@
    "week": 11,
    "dates": "24–30 Jan",
    "phase": "4",
-   "linkedin": "S08 (Sun 24 Jan) · C08 · S03b",
-   "instagram": "S08 · C08 · S03b",
+   "linkedin": "S08 (Sun 24 Jan) · C09b · S03b",
+   "instagram": "S08 · C07b · S03b",
    "stories": "ST-LIVE · ST-QUIZ",
    "offplatform": "Live #2: Wed 27 Jan, 19:30"
   },
   {
    "week": 12,
    "dates": "31 Jan–6 Feb",
-   "phase": "4",
-   "linkedin": "V07 · C13 · L03 (Salwa)",
-   "instagram": "V07 · C13 · V05",
-   "stories": "ST-SLIDER",
-   "offplatform": "Start LI-4, META-3 (online, GCC) · ACA alumni email (if approved)"
+   "phase": "5 Close Spring Term 2",
+   "linkedin": "S04c (Live #3 announce) · V13 (Tue 2 Feb) · S14 (Thu 4 Feb)",
+   "instagram": "S04c · V13 · S14 (Thu 4 Feb)",
+   "stories": "ST-LIVE · ST-COUNT",
+   "offplatform": "Live #3: Wed 3 Feb, 19:30 · Staff email #4 · budget +30%"
   },
   {
    "week": 13,
    "dates": "7–13 Feb",
-   "phase": "5 Ramadan begins (≈Mon 8 Feb)",
-   "linkedin": "S12 (Mon 8 Feb) · C09b · V09",
-   "instagram": "S12 (Sun 7 Feb night, after official announcement) · C09b · V12",
-   "stories": "ST-RAMADAN",
-   "offplatform": "Switch to Ramadan posting times"
+   "phase": "5 Ramadan begins (≈Mon 8 Feb) · deadline",
+   "linkedin": "S12 (Mon 8 Feb) · S15 (deadline day, Wed 10 Feb) · V12 (Thu 11 Feb)",
+   "instagram": "S12 (Sun 7 Feb night, after official announcement) · S15 (deadline day, Wed 10 Feb) · V12 (Thu 11 Feb)",
+   "stories": "ST-RAMADAN · ST-COUNT (last day, Wed 10 Feb)",
+   "offplatform": "Switch to Ramadan posting times · pause March ads after the deadline; Ed.D stays on"
   },
   {
    "week": 14,
    "dates": "14–20 Feb",
-   "phase": "5",
-   "linkedin": "S04c (Live #3 announce) · C04b · L04 (Salwa)",
-   "instagram": "S04c · C04b · V01b",
-   "stories": "ST-LIVE · ST-QBOX",
-   "offplatform": "Live #3: Wed 17 Feb, 21:30 · principals reminder (L04 angle)"
+   "phase": "6 Ramadan",
+   "linkedin": "V07 · C13 · L03 (Salwa)",
+   "instagram": "V07 · C13 · V05",
+   "stories": "ST-RAMADAN",
+   "offplatform": "—"
   },
   {
    "week": 15,
    "dates": "21–27 Feb",
-   "phase": "6 Close March · National Day",
-   "linkedin": "V12 · C07b · S11 (Wed 24 Feb)",
-   "instagram": "V03b · C07b · S11 (Thu 25 Feb)",
-   "stories": "ST-COUNT",
-   "offplatform": "Staff email #4 · budget +30%"
+   "phase": "6 National Day",
+   "linkedin": "V09 · C11 · S11 (Wed 24 Feb)",
+   "instagram": "V09 · C08 · S11 (Thu 25 Feb)",
+   "stories": "ST-SLIDER",
+   "offplatform": "—"
   },
   {
    "week": 16,
    "dates": "28 Feb–6 Mar",
-   "phase": "6",
-   "linkedin": "S14 · V13 · S15 (deadline day, Fri 5 Mar)",
-   "instagram": "S14 · V13 · S15 (deadline day, Fri 5 Mar)",
-   "stories": "ST-COUNT (last day, Fri 5 Mar)",
-   "offplatform": "Pause March ads after the deadline; Ed.D stays on"
+   "phase": "6 March cohort starts (Mon 1 Mar)",
+   "linkedin": "S09b (after first class, Tue 2 Mar) · V05 · V06",
+   "instagram": "S09b (after first class, Tue 2 Mar) · C10 · S03d",
+   "stories": "ST-BTS (first class, consent)",
+   "offplatform": "—"
   },
   {
    "week": 17,
@@ -1412,19 +1403,19 @@
   {
    "week": 18,
    "dates": "14–20 Mar",
-   "phase": "7 March cohort starts (Mon 15 Mar)",
-   "linkedin": "S09b (after first class) · C10 · S03d",
-   "instagram": "S09b · C10 · S03d",
-   "stories": "ST-BTS (first class, consent)",
+   "phase": "7",
+   "linkedin": "C10 · S03d · V08",
+   "instagram": "V08 · C11 · S18",
+   "stories": "ST-QUIZ",
    "offplatform": "—"
   },
   {
    "week": 19,
    "dates": "21–27 Mar",
    "phase": "7",
-   "linkedin": "V05 · C11 · V08",
-   "instagram": "V09 · S18 · S07",
-   "stories": "ST-QUIZ",
+   "linkedin": "V04 · C14 · S07",
+   "instagram": "V04 · S07 · C14",
+   "stories": "ST-SLIDER",
    "offplatform": "Ed.D always-on"
   },
   {
@@ -1441,7 +1432,7 @@
  "guide_spec": "Programme guide (2-page PDF, lead magnet for \"Comment MAED\"): Page 1: MAED overview, specialisation, structure, format, accreditation, monthly payments (fees by email), referral, cohorts. Page 2: Ed.D overview, online option, FAQ (including the HR-approved Kuwait wording), how to apply, contacts.",
  "calendar_notes": [
   "Floating asset: C12 (Saturday Learning Series recap) is posted the Tuesday after any SLS session; it replaces that week's Tuesday carousel on both platforms, or is added as an extra post.",
-  "If deadlines change: move the \"close\" weeks (5–6 and 15–16) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day."
+  "If deadlines change: move the \"close\" weeks (3–4 and 12–13) so that S05/S14 and V10/V13 land 7 days before the deadline and S06/S15 land on the deadline day."
  ],
  "bio_instagram": "Professional Learning Institute · ACA Kuwait\nSaint Mary's University of Minnesota MAED & Ed.D\nPay monthly · Next cohorts: Jan & Mar\n👇 Ask us",
  "highlights": [

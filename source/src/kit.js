@@ -86,7 +86,7 @@ fs.writeFileSync(path.join(OUT, 'captions.md'), md);
     '- Never: “recognized in Kuwait”, “MOHE approved”; anything that says or implies a work permit, promotion or salary adjustment; the Civil Service Commission or the Public Authority for Manpower; any earlier accreditation submission or pending approval.',
     '- No fees or monthly figures in any public content (Saint Mary’s University of Minnesota shares fees by email only). Public copy says “pay monthly”, “ACA staff rate”, “ask us for the fees”.',
     '- Referral: refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply.',
-    '- Deadlines: January cohort Thu 24 Dec 2026 (classes from Mon 4 Jan) · March cohort Fri 5 Mar 2027 (classes from Mon 15 Mar).',
+    '- Dates: Spring Term 1 (January cohort) — apply by Thu 10 Dec 2026, classes from Mon 4 Jan · Spring Term 2 (March cohort) — apply by Wed 10 Feb 2027, classes from Mon 1 Mar.',
     '- Enquiry form: https://forms.cloud.microsoft/r/GC5UUQubjU (Microsoft Forms). Graduate spotlights: S03a Hadi Arbini and S03b Dr. Mehrnoosh Cheraghzadeh use their own words and photos with written consent; S03c–e stay templates (a third spotlight waits for the graduate’s own approval and is not in this kit).', ''];
   const q = (s) => String(s || '').split('\n').map((x) => '> ' + x).join('\n');
   H.push('## Videos (voice-over script · on-screen text · captions)', '');
@@ -123,7 +123,7 @@ function parseCell(cell, wkStart, slot, platform) {
   let t = wkStart + (platform === 'linkedin' ? [0, 2, 3][slot] : [0, 2, 4][slot]) * DAY;
   const dm = note.match(/(Sun|Mon|Tue|Wed|Thu|Fri|Sat) (\d{1,2}) (Jan|Feb|Mar|Apr|Nov|Dec)/);
   if (dm) t = Date.UTC(MON[dm[3]] >= 10 ? 2026 : 2027, MON[dm[3]], +dm[2]);
-  else if (/deadline day/.test(note)) t = id === 'S06' ? Date.UTC(2026, 11, 24) : Date.UTC(2027, 2, 5);
+  else if (/deadline day/.test(note)) t = id === 'S06' ? Date.UTC(2026, 11, 10) : Date.UTC(2027, 1, 10);
   else if (/Eid day/.test(note)) t = EID;
   return { id, alt, note, t };
 }

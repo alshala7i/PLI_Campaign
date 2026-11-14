@@ -91,7 +91,7 @@ pages.push(`<section class="pg indigo" style="padding:0">
   <div style="position:absolute;left:18mm;right:18mm;top:196mm;display:grid;grid-template-columns:1fr 1fr 1fr;gap:4mm;font-size:8.8pt">
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">PREPARED FOR</b><br>Salwa Sleiman<br>PLI Coordinator, American Creativity Academy</div>
     <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">CHANNELS</b><br>LinkedIn (main) · Instagram<br>Facebook · Internal ACA channels</div>
-    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Thu 12 Nov 2026 → Sat 3 Apr 2027<br>launch days + 20 weeks</div>
+    <div><b style="color:var(--peri);letter-spacing:.1em;font-size:7.6pt">WINDOW</b><br>Sun 15 Nov 2026 → Sat 3 Apr 2027<br>20 weeks + 1 setup week</div>
   </div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:44mm;background:var(--cream);color:var(--ink);display:flex;align-items:center;justify-content:space-between;padding:0 18mm">
     <div style="display:flex;align-items:center;gap:5mm">
@@ -114,7 +114,7 @@ pages.push(pg(n++, `${kick('The plan on one page')}<h1>One idea, one path, twent
   <div class="card"><h4>The offer</h4><div class="num">Monthly</div><p class="small">MAED paid over 18 months, ACA staff rate. Fees are shared by email only (Saint Mary's preference).</p></div>
   <div class="card"><h4>Who we talk to</h4><p class="small">ACA staff (the core) · new ACA hires · external educators in Kuwait · educators outside Kuwait (online) · experienced leaders (Ed.D).</p></div>
   <div class="card"><h4>Where</h4><p class="small"><b>LinkedIn</b> to convince · <b>Instagram</b> to remind · <b>Facebook</b> for reach and ads · <b>internal ACA channels</b> to convert staff.</p></div>
-  <div class="card"><h4>When</h4><p class="small">January cohort: apply by Thu 24 Dec 2026, classes start Mon 4 Jan. March cohort: apply by Fri 5 Mar 2027, classes start Mon 15 Mar. Ed.D always-on.</p></div>
+  <div class="card"><h4>When</h4><p class="small">Spring Term 1: apply by Thu 10 Dec 2026, classes start Mon 4 Jan. Spring Term 2: apply by Wed 10 Feb 2027, classes start Mon 1 Mar. Ed.D always-on.</p></div>
 </div>
 <h3>What gets built</h3>
 <div class="grid3">
@@ -142,7 +142,7 @@ pages.push(pg(n++, `${kick('Where PLI stands today')}<h1>A great product, told q
 <div class="grid2"><div class="card peri"><h4>1 · Create demand</h4><p class="small">Tell the proof story (your colleagues already did it), show the price as a monthly figure, answer the hard questions honestly, and keep showing up every week.</p></div>
 <div class="card peri"><h4>2 · Build the road to “applied”</h4><p class="small">One enquiry form, one link everywhere, a reply within 24 hours, a 15-minute call, a simple checklist, and a tracker that shows where every student came from.</p></div></div>
 <h3>Why now</h3>
-<p>Two cohorts start within five months (4 January and 15 March). New ACA staff join in January with signing bonuses and PL stipends. The new year, the International Day of Education (24 January) and Ramadan are natural moments when educators think about their next step. And a new online option lets PLI reach former ACA staff and teachers across the GCC for the first time.</p>`));
+<p>Two cohorts start within five months (4 January and 1 March). New ACA staff join in January with signing bonuses and PL stipends. The new year, the International Day of Education (24 January) and Ramadan are natural moments when educators think about their next step. And a new online option lets PLI reach former ACA staff and teachers across the GCC for the first time.</p>`));
 
 // 4. STRENGTHS & WEAKNESSES
 const SW = {
@@ -182,9 +182,9 @@ pages.push(pg(n++, `${kick('Campaign goals')}<h1 style="font-size:26pt;margin-bo
 <p class="lead" style="margin-bottom:1mm">Short-term goals fill the next two cohorts. Long-term goals make sure PLI never has to start from zero again.</p>
 <h3>Short-term goals · this campaign (12 Nov 2026 – 3 Apr 2027)</h3>
 <table><tr><th style="width:8%">#</th><th style="width:42%">Goal</th><th>How we measure it</th></tr>
-<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on Thu 12 Nov; every bio, ad and post uses the same link.</td></tr>
-<tr><td><b>ST2</b></td><td>Fill the January cohort (deadline Thu 24 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
-<tr><td><b>ST3</b></td><td>Fill the March cohort, including the first online learners (deadline Fri 5 Mar).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
+<tr><td><b>ST1</b></td><td>Build the path to conversion in Week 0: one form, one link, “Apply Now” fixed, lead tracker live.</td><td>Done before the first post on Sun 15 Nov; every bio, ad and post uses the same link.</td></tr>
+<tr><td><b>ST2</b></td><td>Fill Spring Term 1 — the January cohort (deadline Thu 10 Dec).</td><td>Enrolments vs. the target PLI sets; applications and calls booked.</td></tr>
+<tr><td><b>ST3</b></td><td>Fill Spring Term 2 — the March cohort, including the first online learners (deadline Wed 10 Feb).</td><td>Enrolments by segment (ACA / external / online).</td></tr>
 <tr><td><b>ST4</b></td><td>Generate qualified leads every week from every channel.</td><td>Leads by source (UTM) and segment; cost per lead on paid media.</td></tr>
 <tr><td><b>ST5</b></td><td>Answer fast: every lead gets a reply within 1 working day and an offer of a 15-minute call.</td><td>Reply time in the tracker; 25–35% of leads book a call.</td></tr>
 <tr><td><b>ST6</b></td><td>Tell the proof story: collect 5 graduate stories with consent (3 ACA, 2 external).</td><td>5 spotlights published by Week 19.</td></tr>
@@ -282,7 +282,7 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 <li><b>Response standard.</b> A reply within 24 hours (working days) and an offer of a 15-minute call.</li>
 <li><b>Lead tracker.</b> One shared sheet: date, source (UTM), segment, programme, cohort, status (New → Contacted → Call booked → Applied → Enrolled → Lost + reason).</li>
 </ol></div>
-<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov · launch Thu 12)</h3>
+<div><h3 style="margin-top:0">Week 0 checklist (8–14 Nov)</h3>
 <ul class="check small">
 <li>✅ Deadlines, start dates, application steps, Ed.D price, referral terms and Kuwait wording confirmed (11 Nov).</li>
 <li>Create the form and the lead tracker.</li>
@@ -298,14 +298,14 @@ pages.push(pg(n++, `${kick('The road to “applied”')}<h1>Fix the path before 
 
 // 10. PHASES
 const PHASES = [
-  ['0 · Setup + launch', '8–14 Nov', 'Launch Thu 12 Nov · path to conversion ready'],
-  ['1 · Launch Jan', '15 Nov–12 Dec', 'Awareness + consideration · Live #1 (9 Dec)'],
-  ['2 · Close Jan', '13–26 Dec', 'Applications · deadline Thu 24 Dec'],
-  ['3 · New year + Ed.D', '27 Dec–9 Jan', 'Growth plan, Ed.D, welcome January (4 Jan)'],
-  ['4 · Launch Mar', '10 Jan–6 Feb', 'New hires, referral, online, Live #2 (27 Jan)'],
-  ['5 · Ramadan', '7–20 Feb', 'Respectful consideration · Live #3 (17 Feb)'],
-  ['6 · Close Mar', '21 Feb–6 Mar', 'National Day · final call · deadline Fri 5 Mar'],
-  ['7 · Eid, welcome + always-on', '7 Mar–3 Apr', 'Eid · March cohort starts 15 Mar · Ed.D'],
+  ['0 · Setup', '8–14 Nov', 'Path to conversion ready'],
+  ['1 · Launch Term 1', '15–28 Nov', 'Awareness + consideration'],
+  ['2 · Close Term 1', '29 Nov–12 Dec', 'Live #1 (9 Dec) · deadline Thu 10 Dec'],
+  ['3 · Between terms + Ed.D', '13 Dec–9 Jan', 'Growth plan, Ed.D, welcome January (4 Jan)'],
+  ['4 · Launch Term 2', '10–30 Jan', 'New hires, referral, online, Live #2 (27 Jan)'],
+  ['5 · Close Term 2', '31 Jan–13 Feb', 'Live #3 (3 Feb) · deadline Wed 10 Feb'],
+  ['6 · Ramadan + welcome', '14 Feb–6 Mar', 'National Day · March cohort starts 1 Mar'],
+  ['7 · Eid + always-on', '7 Mar–3 Apr', 'Eid · graduate advocacy · Ed.D'],
 ];
 pages.push(pg(n++, `${kick('Timeline')}<h1>Eight phases, two peaks.</h1>
 <div class="tl">${PHASES.map(([a, b, c], i) => `<div class="${[2, 6].includes(i) ? 'c' : ''}"><b>${esc(a)}</b>${esc(b)}<br><span style="opacity:.8">${esc(c)}</span></div>`).join('')}</div>
@@ -320,7 +320,7 @@ pages.push(pg(n++, `${kick('Timeline')}<h1>Eight phases, two peaks.</h1>
 <tr><td>Every SLS</td><td><b>2-minute PLI slot + QR</b> at each Saturday Learning Series session</td><td>Salwa</td></tr>
 <tr><td>Week 5</td><td><b>Staff email #2:</b> final week for January</td><td>Salwa</td></tr>
 <tr><td>Week 9</td><td><b>Staff email #3 / new-hire pack</b> in HR onboarding</td><td>HR + Salwa</td></tr>
-<tr><td>Week 15</td><td><b>Staff email #4:</b> final call for March</td><td>Salwa</td></tr>
+<tr><td>Week 12</td><td><b>Staff email #4:</b> final call for March</td><td>Salwa</td></tr>
 <tr><td>Always</td><td><b>Referral reminder</b> to current students: refer 2 → final payment waived; refer 4 → last 2 payments waived</td><td>Salwa</td></tr></table>`, 'cream'));
 
 // 11. CONTENT PLAN
@@ -355,16 +355,16 @@ pages.push(pg(n++, `${kick('Paid media')}<h1>Spend where the proof lands.</h1>
 <tr><td><b>Recommended</b></td><td><b>~2,000 KD</b></td><td><b>1,100 KD</b></td><td><b>800 KD</b></td><td><b>100 KD</b></td></tr></table>
 <h3>LinkedIn campaigns</h3>
 <table><tr><th style="width:16%">Campaign</th><th style="width:20%">Dates</th><th>Audience</th><th style="width:20%">Assets</th></tr>
-<tr><td>LI-1 MAED Kuwait</td><td>15 Nov–24 Dec, 10 Jan–5 Mar</td><td>Kuwait · Education job function · teacher, HOD, coordinator, coach, assistant principal titles</td><td>C02, C04, C07, V01, V02 + Lead Gen Form</td></tr>
+<tr><td>LI-1 MAED Kuwait</td><td>15 Nov–10 Dec, 10 Jan–10 Feb</td><td>Kuwait · Education job function · teacher, HOD, coordinator, coach, assistant principal titles</td><td>C02, C04, C07, V01, V02 + Lead Gen Form</td></tr>
 <tr><td>LI-2 ACA staff</td><td>Same</td><td>Company: American Creativity Academy (check audience ≥ 300)</td><td>V01, C01, V03</td></tr>
 <tr><td>LI-3 Ed.D leaders</td><td>Always-on from 27 Dec</td><td>Kuwait + GCC · principal, VP, head of school, director · 10+ years</td><td>V04, C03</td></tr>
-<tr><td>LI-4 Online</td><td>31 Jan–5 Mar</td><td>GCC + matched list of ACA alumni (with consent)</td><td>V07, C13</td></tr>
+<tr><td>LI-4 Online</td><td>10 Jan–10 Feb</td><td>GCC + matched list of ACA alumni (with consent)</td><td>V07, C13</td></tr>
 <tr><td>LI-RT Retarget</td><td>Always-on</td><td>Video viewers 50%+, page visitors, form openers (90 days)</td><td>C07, V09, deadline posts</td></tr></table>
 <h3>Meta campaigns (Instagram + Facebook)</h3>
 <table><tr><th style="width:16%">Campaign</th><th style="width:20%">Dates</th><th>Audience</th><th style="width:20%">Assets</th></tr>
-<tr><td>META-1 Kuwait educators</td><td>15 Nov–24 Dec, 10 Jan–5 Mar</td><td>Kuwait, 23–60, teaching and education interests, Advantage+ audience</td><td>V01, V02, V03, V05, V13</td></tr>
+<tr><td>META-1 Kuwait educators</td><td>15 Nov–10 Dec, 10 Jan–10 Feb</td><td>Kuwait, 23–60, teaching and education interests, Advantage+ audience</td><td>V01, V02, V03, V05, V13</td></tr>
 <tr><td>META-2 Retarget</td><td>Always-on</td><td>Engagers 60 days, video viewers 50%+, form openers</td><td>C07, C04, deadline posts</td></tr>
-<tr><td>META-3 Online GCC</td><td>31 Jan–5 Mar</td><td>GCC + Jordan, Lebanon (check regulations), teaching interests</td><td>V07, C13</td></tr></table>
+<tr><td>META-3 Online GCC</td><td>10 Jan–10 Feb</td><td>GCC + Jordan, Lebanon (check regulations), teaching interests</td><td>V07, C13</td></tr></table>
 <h3>Simple rules</h3>
 <ul class="small"><li>Test 2–3 creatives per ad set; after 10–14 days pause the one with the highest cost per lead and move budget to the best.</li><li>Raise budget 30% in the final 10 days before each deadline; pause cohort ads after the deadline (Ed.D stays on).</li><li>Tag every link: utm_source / utm_medium / utm_campaign (jan27, mar27, edd, online) / utm_content (asset ID, e.g. V01).</li></ul>`));
 
