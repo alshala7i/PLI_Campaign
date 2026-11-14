@@ -1,35 +1,39 @@
 1
-00:00:00,300 --> 00:00:02,540
+00:00:00,300 --> 00:00:02,700
 Final call for the March cohort.
 
 2
-00:00:02,540 --> 00:00:05,260
+00:00:02,700 --> 00:00:05,300
 Eighteen months from now, you can still be "thinking
 
 3
-00:00:05,260 --> 00:00:08,380
+00:00:05,300 --> 00:00:08,380
 about a master's", or you can have one.
 
 4
-00:00:08,380 --> 00:00:10,780
+00:00:08,380 --> 00:00:10,860
 Saint Mary's University of Minnesota.
 
 5
-00:00:10,780 --> 00:00:11,900
+00:00:10,860 --> 00:00:11,980
 Thirty credits.
 
 6
-00:00:11,900 --> 00:00:13,100
+00:00:11,980 --> 00:00:13,180
 Ten courses.
 
 7
-00:00:13,100 --> 00:00:15,500
+00:00:13,180 --> 00:00:15,420
 Pay monthly, one month at a time.
 
 8
-00:00:15,500 --> 00:00:18,140
-Applications close Friday, March fifth.
+00:00:15,420 --> 00:00:17,100
+Applications close Wednesday,
 
 9
-00:00:18,140 --> 00:00:20,400
+00:00:17,100 --> 00:00:18,380
+February tenth.
+
+10
+00:00:18,380 --> 00:00:20,640
 Don't wait for the next cohort.

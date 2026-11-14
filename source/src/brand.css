@@ -15,7 +15,8 @@ body{font-family:var(--sans);color:var(--ink);background:var(--cream);-webkit-fo
 .anton{font-family:var(--anton);font-weight:400;text-transform:uppercase;line-height:.92;letter-spacing:0}
 .serif{font-family:var(--serif)}
 .label{font-family:var(--sans);font-weight:700;font-size:27px;letter-spacing:.09em;text-transform:uppercase}
-.shield{position:absolute;top:60px;right:60px;width:90px;height:auto;z-index:20}
+.shield{position:absolute;top:50px;right:50px;z-index:20;display:flex;align-items:center;gap:14px;background:#fff;border-radius:18px;padding:10px 18px;box-shadow:0 2px 0 rgba(30,32,71,.06)}
+.shield img{display:block}.shield img:first-child{height:62px}.shield img:last-child{height:48px}.shield i{width:2px;height:44px;background:var(--line)}
 .counter{position:absolute;top:70px;left:80px;font-family:var(--sans);font-weight:700;font-size:26px;letter-spacing:.12em;opacity:.75;z-index:20}
 .c-peri{color:var(--peri)} .c-indigo{color:var(--indigo)} .c-cream{color:var(--cream)} .c-red{color:var(--red)} .c-white{color:#fff} .c-deep{color:var(--deep)}
 .pad{position:absolute;inset:0;padding:150px 80px 80px}

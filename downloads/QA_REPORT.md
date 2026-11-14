@@ -1,6 +1,6 @@
 # QA report — PLI “Grow Where You Teach” kit
 
-Generated 2026-11-13T12:37Z with مصنع المحتوى (Content Factory).
+Generated 2026-11-14T19:10Z with مصنع المحتوى (Content Factory).
 
 ## Copy checks
 
@@ -37,14 +37,14 @@ Generated 2026-11-13T12:37Z with مصنع المحتوى (Content Factory).
 | V08 | sarah | ✅ | 28.6s | -16.4 | -1.4 |
 | V09 | eric | ✅ | 39.9s | -16.8 | -1.5 |
 | V09 | sarah | ✅ | 41.3s | -16.7 | -1.5 |
-| V10 | eric | ✅ | 20.9s | -16.8 | -1.5 |
-| V10 | sarah | ✅ | 21.6s | -16.5 | -1.5 |
-| V11 | eric | ✅ | 19.3s | -16.7 | -1.5 |
-| V11 | sarah | ✅ | 20.1s | -16.4 | -1.5 |
+| V10 | eric | ✅ | 20.6s | -16.7 | -1.5 |
+| V10 | sarah | ✅ | 21.2s | -16.5 | -1.5 |
+| V11 | eric | ✅ | 18.8s | -16.7 | -1.5 |
+| V11 | sarah | ✅ | 19.9s | -16.4 | -1.5 |
 | V12 | eric | ✅ | 21.3s | -16.6 | -1.4 |
 | V12 | sarah | ✅ | 22.6s | -16.4 | -1.5 |
-| V13 | eric | ✅ | 20.5s | -16.9 | -1.4 |
-| V13 | sarah | ✅ | 21.1s | -16.7 | -1.5 |
+| V13 | eric | ✅ | 20.8s | -16.8 | -1.5 |
+| V13 | sarah | ✅ | 22.0s | -16.8 | -1.5 |
 | V14 | eric | ✅ | 25.7s | -16.7 | -1.4 |
 | V14 | sarah | ✅ | 26.5s | -16.4 | -1.4 |
 | V01b | eric | ✅ | 30.9s | -16.5 | -1.5 |
@@ -59,7 +59,7 @@ Generated 2026-11-13T12:37Z with مصنع المحتوى (Content Factory).
 
 ## Calendar
 
-- Rows: 182 (LinkedIn page 54 · Salwa personal 6 · Instagram 61 · Facebook 61)
+- Rows: 177 (LinkedIn page 53 · Salwa personal 6 · Instagram 59 · Facebook 59)
 - Week-start Sundays: 2026-11-15 … 2027-03-28 (20 weeks) ✅
 - Rows whose file is missing: ✅ none
 - Rows without caption: ✅ none

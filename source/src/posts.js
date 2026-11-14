@@ -32,7 +32,7 @@ function cohortOpen(id, month, photo) {
       <div class="hd c-cream" style="font-size:140px;max-width:560px" data-fit data-min="90">${vt(h[0])}</div><div class="hd c-peri" style="font-size:84px;margin-top:18px;max-width:560px;white-space:nowrap" data-fit data-min="56">${vt(h[1])}</div></div>
     <div class="arch abs" style="right:80px;top:230px;width:340px;height:560px"><img src="${PHOTO[photo]}"></div>
     <div class="abs" style="left:80px;top:870px;display:flex;gap:30px;align-items:center">${dateblock(month, '2027')}
-      <div class="sub c-deep" style="width:470px;font-size:34px" data-fit data-min="24">${vt(p.sub)}</div></div>
+      <div class="sub c-deep" style="width:470px;font-size:36px;line-height:1.3" data-fit data-min="24">${p.sub.split(' · ').map((x, i) => i ? vt(x) : '<b>' + vt(x) + '</b>').join('<br>')}</div></div>
     <div class="abs tagline c-indigo" style="left:80px;top:1090px;font-size:26px">${vt(p.tag)}</div>
     <div class="abs" style="left:80px;bottom:60px">${lockup(0.9)}</div>` };
 }
@@ -65,7 +65,7 @@ const B = {
     <div class="serif c-deep" style="font-size:66px;line-height:1.14;font-weight:600">${vt(p.sub)}</div>
     <div style="margin-top:44px"><span class="pill" style="font-size:34px;padding:14px 34px">${vt(p.tag)}</span></div></div>
     <div class="abs redline" style="right:80px;bottom:90px"></div>` }; },
-  S04: (k) => { const p = P('S04'); const dates = { a: ['DEC', '9', 'Wed 9 Dec · 7:30 pm'], b: ['JAN', '27', 'Wed 27 Jan · 7:30 pm'], c: ['FEB', '17', 'Wed 17 Feb · 9:30 pm'] }[k];
+  S04: (k) => { const p = P('S04'); const dates = { a: ['DEC', '9', 'Wed 9 Dec · 7:30 pm'], b: ['JAN', '27', 'Wed 27 Jan · 7:30 pm'], c: ['FEB', '3', 'Wed 3 Feb · 7:30 pm'] }[k];
     return { cls: 'bg-cream', body: `<div class="abs" style="left:0;right:0;top:0;height:690px;background:var(--indigo)"></div>${shield()}
     <div class="abs" style="left:80px;top:150px"><div class="hd c-cream" style="font-size:200px">ASK PLI</div><div class="hd c-peri" style="font-size:200px;display:flex;align-items:center;gap:26px">LIVE <span style="width:44px;height:44px;border-radius:50%;background:var(--red);display:inline-block"></span></div></div>
     <div class="arch abs" style="right:80px;top:250px;width:380px;height:560px;display:flex;align-items:center;justify-content:center;flex-direction:column;background:var(--peri-soft)"><img src="${L.LOGO.shield}" style="width:210px;height:auto;object-fit:contain"><div class="tagline c-indigo" style="margin-top:30px;font-size:24px;text-align:center">Host<br>Salwa Sleiman<br><span style="font-weight:600;letter-spacing:.04em;text-transform:none">PLI Coordinator</span></div></div>

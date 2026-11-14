@@ -105,7 +105,7 @@ S.V11 = { vo: vo('V11'), cover: 0, scenes: [
   { type: 'photo', bg: 'cream', photo: P.class, lines: ['WELCOME, JANUARY COHORT.'] },
   { type: 'dots', bg: 'cream', at: 'Teachers from our', pre: 'FROM OUR CLASSROOMS', big: 'AND BEYOND.', bigSize: 190, sub: 'Canadian · American · British · South African · Lebanese · Jordanian · Tunisian · Kuwaiti' },
   { type: 'stamp', bg: 'indigo', at: 'Missed it', lines: [{ text: 'MISSED IT?', size: 230 }] },
-  { type: 'bignum', bg: 'cream', at: 'The next cohort', head: 'NEXT COHORT:', num: 'MAR', label: 'STARTS 15 MARCH' },
+  { type: 'bignum', bg: 'cream', at: 'The next cohort', head: 'NEXT COHORT:', num: 'MAR', label: 'STARTS 1 MARCH' },
   { type: 'end', at: 'Same programme', lines: ['SAME PROGRAMME · SAME SUPPORT · SAME MONTHLY PLAN', 'March cohort · Applications open', CONTACT], size: 104, cta: 'Apply now' },
 ] };
 
