@@ -100,7 +100,7 @@ pages.push(`<section class="pg indigo" style="padding:0">
       <div class="ar" style="font-size:20pt;line-height:1.2;color:var(--deep)">مصنع المحتوى</div>
       <div style="font-size:9pt;font-weight:700;color:var(--deep)">Content Factory app — strategy, content and campaign kit</div></div>
     </div>
-    <div style="display:flex;align-items:center;gap:5mm;background:#fff;border-radius:3mm;padding:3mm 5mm"><img src="${L.LOGO.smuDark}" style="height:11mm"><img src="${L.LOGO.aca}" style="height:13mm"></div>
+    <div style="display:flex;align-items:center;gap:5mm;background:#fff;border-radius:3mm;padding:3mm 5mm"><img src="${L.LOGO.smuDark}" style="height:11mm"><img src="${L.LOGO.shield}" style="height:13mm"></div>
   </div>
 </section>`);
 n++;
@@ -411,7 +411,7 @@ pages.push(pg(n++, `${kick('Making it happen')}<h1>How to run it, week by week.<
 pages.push(`<section class="pg indigo" style="display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center">
   <div style="font-family:var(--anton);font-size:56pt;line-height:.95;color:var(--cream)">YOUR COLLEAGUES<br>ALREADY DID IT.</div>
   <div style="font-family:var(--anton);font-size:56pt;line-height:.95;color:var(--peri);margin-top:2mm">YOUR TURN.</div>
-  <div style="margin-top:12mm;background:#fff;border-radius:4mm;padding:4mm 7mm;display:flex;gap:7mm;align-items:center"><img src="${L.LOGO.shield}" style="height:16mm"><img src="${L.LOGO.smuDark}" style="height:14mm"><img src="${L.LOGO.aca}" style="height:17mm"></div>
+  <div style="margin-top:12mm;background:#fff;border-radius:4mm;padding:4mm 7mm;display:flex;gap:7mm;align-items:center"><img src="${L.LOGO.shield}" style="height:16mm"><img src="${L.LOGO.smuDark}" style="height:14mm"></div>
   <div style="margin-top:6mm;font-size:10pt">pli@aca.edu.kw · @professionallearninginstitute</div>
   <div style="position:absolute;bottom:16mm;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:3mm">
     <img src="${IMG.m3logo}" style="height:24mm;background:var(--cream);border-radius:4mm;padding:2mm 5mm">
