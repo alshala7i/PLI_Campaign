@@ -1,6 +1,6 @@
 # HR review pack — PLI “Grow Where You Teach”
 
-Generated 2026-11-13. Every caption, video script, on-screen text, post, carousel, LinkedIn post, ad text and staff email in the campaign, in one file.
+Generated 2026-11-14. Every caption, video script, on-screen text, post, carousel, LinkedIn post, ad text and staff email in the campaign, in one file.
 
 ## HR checks applied to every asset
 
@@ -8,7 +8,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 - Never: “recognized in Kuwait”, “MOHE approved”; anything that says or implies a work permit, promotion or salary adjustment; the Civil Service Commission or the Public Authority for Manpower; any earlier accreditation submission or pending approval.
 - No fees or monthly figures in any public content (Saint Mary’s University of Minnesota shares fees by email only). Public copy says “pay monthly”, “ACA staff rate”, “ask us for the fees”.
 - Referral: refer 2 who enroll and complete their courses → final payment waived · refer 4 who register and continue → last 2 payments waived · terms apply.
-- Deadlines: January cohort Thu 24 Dec 2026 (classes from Mon 4 Jan) · March cohort Fri 5 Mar 2027 (classes from Mon 15 Mar).
+- Dates: Spring Term 1 (January cohort) — apply by Thu 10 Dec 2026, classes from Mon 4 Jan · Spring Term 2 (March cohort) — apply by Wed 10 Feb 2027, classes from Mon 1 Mar.
 - Enquiry form: https://forms.cloud.microsoft/r/GC5UUQubjU (Microsoft Forms). Graduate spotlights: S03a Hadi Arbini and S03b Dr. Mehrnoosh Cheraghzadeh use their own words and photos with written consent; S03c–e stay templates (a third spotlight waits for the graduate’s own approval and is not in this kit).
 
 ## Videos (voice-over script · on-screen text · captions)
@@ -370,7 +370,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 > Or watching this video again next year.
 > Thirty credits. Ten courses. Pay monthly.
 > Your colleagues already did it.
-> Applications close Thursday, December twenty-fourth. Apply today.
+> Applications close Thursday, December tenth. Apply today.
 
 **On-screen text**
 
@@ -378,17 +378,17 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 - IN 18 MONTHS: A MASTER'S DEGREE.
 - OR THIS VIDEO AGAIN NEXT YEAR.
 - 30 CREDITS · 10 COURSES · PAY MONTHLY
-- APPLICATIONS CLOSE Thursday 24 December
+- APPLICATIONS CLOSE Thursday 10 December
 
 **Instagram / Facebook caption**
 
 > ⏳ One week left for the January cohort.
-> Applications close Thursday 24 December. Link in bio · pli@aca.edu.kw
+> Applications close Thursday 10 December. Link in bio · pli@aca.edu.kw
 > #GrowWhereYouTeach #MAEd #TeachersOfKuwait #LastCall
 
 **LinkedIn caption**
 
-> Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 December. → https://forms.cloud.microsoft/r/GC5UUQubjU
+> Final week: applications for PLI's January 2027 MAED cohort close Thursday 10 December. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -398,7 +398,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 > This week, a new group of educators started their master's journey. Teachers from our classrooms, and beyond.
 > Welcome to the January cohort.
-> Missed it? The next cohort starts on March fifteenth.
+> Missed it? The next cohort starts on March first.
 > Same programme. Same support. Same monthly plan.
 > Applications for March are open now.
 
@@ -407,18 +407,18 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 - WELCOME, JANUARY COHORT.
 - From our classrooms — and beyond.
 - MISSED IT?
-- NEXT COHORT: 15 MARCH
+- NEXT COHORT: 1 MARCH
 - Same programme · Same support · Same monthly plan
 
 **Instagram / Facebook caption**
 
 > Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.
-> Missed this one? Our next cohort starts on 15 March — applications are open now.
+> Missed this one? Our next cohort (Spring Term 2) starts on 1 March — apply by 10 February.
 > #GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute
 
 **LinkedIn caption**
 
-> A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → https://forms.cloud.microsoft/r/GC5UUQubjU
+> A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for Spring Term 2 (the March cohort, starting 1 March; apply by 10 February) are now open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -460,7 +460,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 > Eighteen months from now, you can still be "thinking about a master's", or you can have one.
 > Saint Mary's University of Minnesota. Thirty credits. Ten courses.
 > Pay monthly, one month at a time.
-> Applications close Friday, March fifth.
+> Applications close Wednesday, February tenth.
 > Don't wait for the next cohort.
 
 **On-screen text**
@@ -469,17 +469,17 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 - 18 MONTHS FROM NOW: "STILL THINKING ABOUT IT" vs. "DONE."
 - SAINT MARY'S · 30 CREDITS · 10 COURSES
 - PAY MONTHLY · ONE MONTH AT A TIME
-- APPLICATIONS CLOSE Friday 5 March
+- APPLICATIONS CLOSE Wednesday 10 February
 
 **Instagram / Facebook caption**
 
-> Final call 📣 March cohort applications close Friday 5 March.
+> Final call 📣 March cohort applications close Wednesday 10 February.
 > 18 months from now, be the one who did it. Link in bio.
 > #GrowWhereYouTeach #MAEd #TeachersOfKuwait #FinalCall
 
 **LinkedIn caption**
 
-> Final call: applications for PLI's March MAED cohort close Friday 5 March. → https://forms.cloud.microsoft/r/GC5UUQubjU
+> Final call: applications for PLI's March MAED cohort close Wednesday 10 February. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -774,7 +774,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 3. Step 2 — 15-minute call — We'll answer your questions and help you choose your programme.
 4. Step 3 — Get your steps — We'll contact you with the steps for your degree (from the US or elsewhere).
 5. Step 4 — Choose your plan — Confirm your programme and monthly payment plan.
-6. Start your cohort — January / March — Deadline: Thursday 24 December / Friday 5 March
+6. Start your cohort — Spring Term 1: starts Monday 4 January, apply by Thursday 10 December — Spring Term 2: starts Monday 1 March, apply by Wednesday 10 February
 
 **Instagram / Facebook caption**
 
@@ -895,7 +895,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 2. 1. Name one skill you want to master this year.
 3. 2. Find your people — learning sticks better in a cohort.
 4. 3. Make it monthly — big goals feel lighter in small steps.
-5. 4. Put a date on it — cohorts start on 4 January and 15 March.
+5. 4. Put a date on it — cohorts start on 4 January and 1 March.
 6. New year. Next degree. https://forms.cloud.microsoft/r/GC5UUQubjU
 
 **Instagram / Facebook caption**
@@ -959,7 +959,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 3. Step 2 — 15-minute call — We'll answer your questions and help you choose your programme.
 4. Step 3 — Get your steps — We'll contact you with the steps for your degree (from the US or elsewhere).
 5. Step 4 — Choose your plan — Confirm your programme and monthly payment plan.
-6. Start your cohort — January / March — Deadline: Thursday 24 December / Friday 5 March
+6. Start your cohort — Spring Term 1: starts Monday 4 January, apply by Thursday 10 December — Spring Term 2: starts Monday 1 March, apply by Wednesday 10 February
 
 **Instagram / Facebook caption**
 
@@ -975,9 +975,9 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 ### S01
 
-**Image text:** JANUARY COHORT — APPLICATIONS OPEN. Saint Mary's University of Minnesota MAED — Curriculum & Instruction. 30 credits — 10 courses — 18 months
+**Image text:** JANUARY COHORT — APPLICATIONS OPEN. Spring Term 1 — Starts Monday 4 January — Apply by Thursday 10 December. MAED — Curriculum & Instruction — 18 months
 
-> Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait
+> Applications are open for Spring Term 1 — our January 2027 MAED cohort 🎓 Classes start Monday 4 January; apply by Thursday 10 December. Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait
 
 ---
 
@@ -1055,15 +1055,15 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 ### S05
 
-**Image text:** FINAL WEEK. January cohort applications close Thursday 24 December. Don't wait another year.
+**Image text:** FINAL WEEK. January cohort applications close Thursday 10 December. Don't wait another year.
 
-> ⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
+> ⏳ Final week for the January cohort. Applications close Thursday 10 December. Link in bio.
 
 ---
 
 ### S06
 
-**Image text:** LAST DAY TO APPLY. January cohort — Thursday 24 December. Late applications: ask us if seats remain
+**Image text:** LAST DAY TO APPLY. January cohort — Thursday 10 December. Late applications: ask us if seats remain
 
 > Today's the day ⏰ January cohort applications close tonight. Email pli@aca.edu.kw or use the link in bio.
 
@@ -1103,9 +1103,9 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 ### S10
 
-**Image text:** MARCH COHORT — APPLICATIONS OPEN. Starts 15 March — In person in Kuwait — Online option outside Kuwait. Deadline Friday 5 March
+**Image text:** MARCH COHORT — APPLICATIONS OPEN. Spring Term 2 — Starts Monday 1 March — Apply by Wednesday 10 February. MAED — In Kuwait or online — 18 months
 
-> Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
+> Missed January? Spring Term 2 starts Monday 1 March 🗓️ Apply by Wednesday 10 February. Link in bio.
 
 ---
 
@@ -1135,7 +1135,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 ### S14
 
-**Image text:** FINAL WEEK. March cohort applications close Friday 5 March
+**Image text:** FINAL WEEK. March cohort applications close Wednesday 10 February
 
 > ⏳ One week left for the March cohort. Link in bio.
 
@@ -1143,7 +1143,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 
 ### S15
 
-**Image text:** LAST DAY TO APPLY. March cohort — Friday 5 March
+**Image text:** LAST DAY TO APPLY. March cohort — Wednesday 10 February
 
 > Today's the day ⏰ March cohort applications close tonight.
 
@@ -1209,7 +1209,7 @@ Generated 2026-11-13. Every caption, video script, on-screen text, post, carouse
 > 2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.
 > 3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.
 > 
-> If one of these sounds like you, our next cohort starts on 15 March.
+> If one of these sounds like you, our next cohort starts on 1 March (apply by 10 February).
 > → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
@@ -1315,7 +1315,7 @@ Subject: Final week for the January MAED cohort
 
 Dear colleagues,
 
-This is the final week to join our January Saint Mary's University of Minnesota MAED cohort. Applications close Thursday 24 December.
+This is the final week to join our January Saint Mary's University of Minnesota MAED cohort. Applications close Thursday 10 December.
 
 30 credits · 10 courses · 18 months, with weekly in-person classes here in Kuwait. ACA staff rate: [FEES: paste from the private price sheet before sending], paid monthly over 18 months, and you can apply your PL stipend and signing bonus.
 
@@ -1340,7 +1340,7 @@ Here's something many new staff only hear about later: your signing bonus and yo
 
 The Saint Mary's University of Minnesota MAED is delivered right here in Kuwait, at the ACA staff rate ([FEES: paste from the private price sheet before sending]), paid monthly over 18 months. More than 6 in 10 of our past students were ACA educators, just like you.
 
-Start your first year with a plan to grow. Our next cohort starts on 15 March: https://forms.cloud.microsoft/r/GC5UUQubjU
+Start your first year with a plan to grow. Our next cohort, Spring Term 2, starts on 1 March (apply by 10 February): https://forms.cloud.microsoft/r/GC5UUQubjU
 
 Warm regards,
 Salwa Sleiman · Professional Learning Institute Coordinator
@@ -1355,7 +1355,7 @@ Subject: Final call: March MAED cohort
 
 Dear colleagues,
 
-Final call: applications for our March Saint Mary's University of Minnesota MAED cohort close Friday 5 March.
+Final call: applications for our March Saint Mary's University of Minnesota MAED cohort close Wednesday 10 February.
 
 Not sure yet? Talk to one of our graduate ambassadors on your campus — they did the MAED while teaching full days, and they're happy to share their experience.
 

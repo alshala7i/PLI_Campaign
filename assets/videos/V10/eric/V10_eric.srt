@@ -1,9 +1,9 @@
 1
-00:00:00,300 --> 00:00:03,020
+00:00:00,300 --> 00:00:03,180
 One week left to join the January cohort.
 
 2
-00:00:03,020 --> 00:00:05,820
+00:00:03,180 --> 00:00:05,820
 In eighteen months, you could be holding a master's
 
 3
@@ -19,25 +19,25 @@ Or watching this video again next year.
 Thirty credits.
 
 6
-00:00:12,460 --> 00:00:13,420
+00:00:12,460 --> 00:00:13,500
 Ten courses.
 
 7
-00:00:13,420 --> 00:00:14,460
+00:00:13,500 --> 00:00:14,620
 Pay monthly.
 
 8
-00:00:14,460 --> 00:00:16,220
+00:00:14,620 --> 00:00:16,220
 Your colleagues already did it.
 
 9
-00:00:16,220 --> 00:00:17,820
+00:00:16,220 --> 00:00:18,020
 Applications close Thursday,
 
 10
-00:00:17,820 --> 00:00:19,260
-December twenty-fourth.
+00:00:18,020 --> 00:00:18,940
+December tenth.
 
 11
-00:00:19,260 --> 00:00:20,800
+00:00:18,940 --> 00:00:20,480
 Apply today.

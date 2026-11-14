@@ -185,12 +185,12 @@ Transparency matters when choosing a degree. Saint Mary's University of Minnesot
 **Instagram / Facebook**
 
 ⏳ One week left for the January cohort.
-Applications close Thursday 24 December. Link in bio · pli@aca.edu.kw
+Applications close Thursday 10 December. Link in bio · pli@aca.edu.kw
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #LastCall
 
 **LinkedIn**
 
-Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 December. → https://forms.cloud.microsoft/r/GC5UUQubjU
+Final week: applications for PLI's January 2027 MAED cohort close Thursday 10 December. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -199,12 +199,12 @@ Final week: applications for PLI's January 2027 MAED cohort close Thursday 24 De
 **Instagram / Facebook**
 
 Welcome to the January cohort! 🎉 Wishing our new MAED students an inspiring 18 months.
-Missed this one? Our next cohort starts on 15 March — applications are open now.
+Missed this one? Our next cohort (Spring Term 2) starts on 1 March — apply by 10 February.
 #GrowWhereYouTeach #MAEd #NewCohort #ProfessionalLearningInstitute
 
 **LinkedIn**
 
-A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for the March cohort (starting 15 March) are now open → https://forms.cloud.microsoft/r/GC5UUQubjU
+A warm welcome to PLI's January 2027 MAED cohort — educators from ACA and beyond starting their Saint Mary's University of Minnesota journey. Applications for Spring Term 2 (the March cohort, starting 1 March; apply by 10 February) are now open → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -226,13 +226,13 @@ Ramadan Kareem from the Professional Learning Institute. If you're reflecting on
 
 **Instagram / Facebook**
 
-Final call 📣 March cohort applications close Friday 5 March.
+Final call 📣 March cohort applications close Wednesday 10 February.
 18 months from now, be the one who did it. Link in bio.
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait #FinalCall
 
 **LinkedIn**
 
-Final call: applications for PLI's March MAED cohort close Friday 5 March. → https://forms.cloud.microsoft/r/GC5UUQubjU
+Final call: applications for PLI's March MAED cohort close Wednesday 10 February. → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
 
@@ -528,11 +528,11 @@ Four steps from "I'm interested" to "I'm enrolled". → https://forms.cloud.micr
 
 **Instagram / Facebook**
 
-Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait
+Applications are open for Spring Term 1 — our January 2027 MAED cohort 🎓 Classes start Monday 4 January; apply by Thursday 10 December. Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw #GrowWhereYouTeach #MAEd #TeachersOfKuwait
 
 **LinkedIn**
 
-Applications are open for our January 2027 MAED cohort 🎓 Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw
+Applications are open for Spring Term 1 — our January 2027 MAED cohort 🎓 Classes start Monday 4 January; apply by Thursday 10 December. Grow where you teach — in person in Kuwait, 18 months, pay monthly. Link in bio · pli@aca.edu.kw
 → https://forms.cloud.microsoft/r/GC5UUQubjU
 #GrowWhereYouTeach #MAEd #TeachersOfKuwait
 
@@ -665,11 +665,11 @@ Bring your questions! Join our coordinator Salwa Sleiman live on {{LIVE_DATE}} a
 
 **Instagram / Facebook**
 
-⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
+⏳ Final week for the January cohort. Applications close Thursday 10 December. Link in bio.
 
 **LinkedIn**
 
-⏳ Final week for the January cohort. Applications close Thursday 24 December. Link in bio.
+⏳ Final week for the January cohort. Applications close Thursday 10 December. Link in bio.
 → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
@@ -746,11 +746,11 @@ Welcome to our March 2027 cohort! 🎉
 
 **Instagram / Facebook**
 
-Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
+Missed January? Spring Term 2 starts Monday 1 March 🗓️ Apply by Wednesday 10 February. Link in bio.
 
 **LinkedIn**
 
-Missed January? Our next MAED cohort starts on 15 March 🗓️ Applications are open now. Link in bio.
+Missed January? Spring Term 2 starts Monday 1 March 🗓️ Apply by Wednesday 10 February. Link in bio.
 → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
@@ -903,7 +903,7 @@ Three things I've learned from coordinating our MAED cohorts:
 2. The cohort is the curriculum too. Teachers from Canada, the US, the UK, South Africa, Lebanon, Jordan, Tunisia and Kuwait learn as much from each other as from the course.
 3. Small, monthly steps beat one big leap. Eighteen months goes faster than you think.
 
-If one of these sounds like you, our next cohort starts on 15 March.
+If one of these sounds like you, our next cohort starts on 1 March (apply by 10 February).
 → https://forms.cloud.microsoft/r/GC5UUQubjU
 
 ---
